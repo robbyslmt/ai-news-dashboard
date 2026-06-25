@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI News Dashboard</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --cream: #FBF9F4;
+    --card-bg: rgba(255,255,255,0.55);
+    --card-border: rgba(255,255,255,0.7);
+    --accent: #6366f1;
+    --accent-light: #818cf8;
+    --text: #1e1b4b;
+    --text-muted: #6b7280;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+    --shadow: 0 8px 32px rgba(99,102,241,0.12);
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: var(--cream);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 0;
+  }
+
+  /* Hero header */
+  .hero {
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #a855f7 100%);
+    padding: 2.5rem 2rem 3.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -50%; left: -50%;
+    width: 200%; height: 200%;
+    background: radial-gradient(circle at 30% 40%, rgba(255,255,255,0.08) 0%, transparent 50%),
+                radial-gradient(circle at 70% 80%, rgba(255,255,255,0.05) 0%, transparent 40%);
+    animation: shimmer 20s ease-in-out infinite alternate;
+  }
+  @keyframes shimmer { from { transform: rotate(0deg); } to { transform: rotate(3deg); } }
+
+  .hero-content { position: relative; z-index: 1; max-width: 1100px; margin: 0 auto; }
+  .hero h1 { color: white; font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; }
+  .hero p { color: rgba(255,255,255,0.8); margin-top: 0.5rem; font-size: 0.95rem; }
+
+  .stats-row {
+    display: flex; gap: 1rem; margin-top: 1.5rem; flex-wrap: wrap;
+  }
+  .stat-chip {
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 12px;
+    padding: 0.6rem 1.1rem;
+    color: white;
+    font-size: 0.82rem;
+    font-weight: 500;
+    display: flex; align-items: center; gap: 0.5rem;
+  }
+  .stat-chip .num { font-size: 1.3rem; font-weight: 800; }
+
+  .last-updated {
+    color: rgba(255,255,255,0.6);
+    font-size: 0.78rem;
+    margin-top: 1rem;
+  }
+
+  /* Main content */
+  .container {
+    max-width: 1100px;
+    margin: -2rem auto 2rem;
+    padding: 0 1rem;
+    position: relative; z-index: 2;
+  }
+
+  /* Controls bar */
+  .controls {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 1.5rem; flex-wrap: wrap; gap: 0.75rem;
+  }
+  .controls h2 { font-size: 1.2rem; font-weight: 700; }
+
+  .btn {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .btn-primary {
+    background: var(--accent);
+    color: white;
+    box-shadow: 0 2px 8px rgba(99,102,241,0.3);
+  }
+  .btn-primary:hover { background: #4f46e5; transform: translateY(-1px); }
+  .btn-ghost {
+    background: var(--card-bg);
+    color: var(--text);
+    border: 1px solid var(--card-border);
+    backdrop-filter: blur(10px);
+  }
+  .btn-ghost:hover { background: white; }
+
+  .filter-chips {
+    display: flex; gap: 0.5rem; flex-wrap: wrap;
+  }
+  .chip {
+    padding: 0.35rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border: 1px solid rgba(99,102,241,0.2);
+    background: rgba(99,102,241,0.06);
+    color: var(--accent);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .chip:hover, .chip.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+
+  /* Story cards */
+  .stories { display: flex; flex-direction: column; gap: 1rem; }
+
+  .story-card {
+    background: var(--card-bg);
+    backdrop-filter: blur(16px);
+    border: 1px solid var(--card-border);
+    border-radius: 16px;
+    padding: 1.4rem;
+    box-shadow: var(--shadow);
+    transition: all 0.25s;
+    position: relative;
+  }
+  .story-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 40px rgba(99,102,241,0.18);
+  }
+
+  .story-header {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .story-rank {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: rgba(99,102,241,0.2);
+    line-height: 1;
+    min-width: 2.2rem;
+  }
+
+  .story-body { flex: 1; }
+
+  .story-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.4;
+    margin-bottom: 0.4rem;
+    color: var(--text);
+  }
+  .story-title a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .story-title a:hover { color: var(--accent); }
+
+  .story-meta {
+    display: flex; align-items: center; gap: 0.6rem;
+    margin-bottom: 0.6rem;
+    flex-wrap: wrap;
+  }
+  .source-badge {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.2rem 0.55rem;
+    border-radius: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .source-reddit { background: #fff1f1; color: #ff4500; }
+  .source-hn { background: #fff7ed; color: #f97316; }
+  .source-trends { background: #f0fdf4; color: #16a34a; }
+  .source-x { background: #f0f0f0; color: #000; }
+  .source-blog { background: #eff6ff; color: #2563eb; }
+
+  .story-date { font-size: 0.75rem; color: var(--text-muted); }
+
+  .story-summary {
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: #374151;
+  }
+
+  .story-tags {
+    display: flex; gap: 0.4rem; margin-top: 0.8rem; flex-wrap: wrap;
+  }
+  .tag {
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 0.2rem 0.5rem;
+    border-radius: 5px;
+    background: rgba(99,102,241,0.08);
+    color: var(--accent);
+  }
+
+  .story-actions {
+    display: flex; gap: 0.5rem; margin-top: 1rem;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    padding-top: 0.8rem;
+  }
+  .action-btn {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.35rem 0.75rem;
+    border-radius: 8px;
+    border: 1px solid rgba(0,0,0,0.08);
+    background: white;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex; align-items: center; gap: 0.3rem;
+  }
+  .action-btn:hover { color: var(--accent); border-color: var(--accent); background: rgba(99,102,241,0.04); }
+  .action-btn.dismiss:hover { color: var(--danger); border-color: var(--danger); }
+
+  /* Empty / loading state */
+  .empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-muted);
+  }
+  .empty-state .icon { font-size: 3rem; margin-bottom: 1rem; }
+  .empty-state h3 { font-size: 1.1rem; color: var(--text); margin-bottom: 0.5rem; }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    .hero { padding: 1.5rem 1rem 2.5rem; }
+    .hero h1 { font-size: 1.4rem; }
+    .story-card { padding: 1rem; }
+    .story-rank { font-size: 1.3rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-content">
+    <h1>📡 AI News Dashboard</h1>
+    <p>Daily curated AI stories from Reddit, Hacker News, Google Trends & more</p>
+    <div class="stats-row" id="statsRow">
+      <div class="stat-chip"><span class="num" id="statThreads">—</span> Reddit threads</div>
+      <div class="stat-chip"><span class="num" id="statArticles">—</span> articles scanned</div>
+      <div class="stat-chip"><span class="num" id="statStories">—</span> stories today</div>
+    </div>
+    <div class="last-updated" id="lastUpdated">Loading...</div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="controls">
+    <div>
+      <h2>Today's Stories</h2>
+      <div class="filter-chips" id="filterChips">
+        <span class="chip active" data-filter="all">All</span>
+      </div>
+    </div>
+    <button class="btn btn-primary" onclick="loadData()">🔄 Refresh</button>
+  </div>
+
+  <div class="stories" id="storiesContainer">
+    <div class="empty-state">
+      <div class="icon">📭</div>
+      <h3>No stories yet</h3>
+      <p>The daily collection hasn't run yet. Stories appear after the 8 AM cron job, or click Refresh to load.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+let allStories = [];
+let dismissed = JSON.parse(localStorage.getItem('ai-news-dismissed') || '[]');
+
+async function loadData() {
+  try {
+    const res = await fetch('data/latest.json?' + Date.now());
+    if (!res.ok) throw new Error('No data file');
+    const data = await res.json();
+
+    // Update stats
+    document.getElementById('statThreads').textContent = data.stats?.reddit_threads ?? '—';
+    document.getElementById('statArticles').textContent = data.stats?.articles_scanned ?? '—';
+    document.getElementById('statStories').textContent = data.stories?.length ?? '—';
+    document.getElementById('lastUpdated').textContent = `Last updated: ${data.generated_at || 'unknown'}`;
+
+    allStories = (data.stories || []).filter(s => !dismissed.includes(s.title));
+    buildFilters(allStories);
+    renderStories(allStories);
+  } catch (e) {
+    console.log('No data file found or parse error:', e);
+  }
+}
+
+function buildFilters(stories) {
+  const cats = new Set();
+  stories.forEach(s => (s.tags || []).forEach(t => cats.add(t)));
+  const container = document.getElementById('filterChips');
+  container.innerHTML = '<span class="chip active" data-filter="all">All</span>';
+  [...cats].sort().forEach(cat => {
+    const chip = document.createElement('span');
+    chip.className = 'chip';
+    chip.dataset.filter = cat;
+    chip.textContent = cat;
+    container.appendChild(chip);
+  });
+
+  container.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      container.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      const f = chip.dataset.filter;
+      renderStories(f === 'all' ? allStories : allStories.filter(s => (s.tags || []).includes(f)));
+    });
+  });
+}
+
+function renderStories(stories) {
+  const container = document.getElementById('storiesContainer');
+  if (!stories.length) {
+    container.innerHTML = '<div class="empty-state"><div class="icon">📭</div><h3>No stories match this filter</h3></div>';
+    return;
+  }
+
+  container.innerHTML = stories.map((s, i) => {
+    const srcClass = s.source?.toLowerCase().includes('reddit') ? 'source-reddit'
+      : s.source?.toLowerCase().includes('hacker') ? 'source-hn'
+      : s.source?.toLowerCase().includes('trend') ? 'source-trends'
+      : s.source?.toLowerCase().includes('x.com') || s.source?.toLowerCase().includes('twitter') ? 'source-x'
+      : 'source-blog';
+
+    return `
+      <div class="story-card" id="story-${i}">
+        <div class="story-header">
+          <div class="story-rank">${String(i + 1).padStart(2, '0')}</div>
+          <div class="story-body">
+            <div class="story-title">${s.url ? `<a href="${s.url}" target="_blank" rel="noopener">${escHtml(s.title)}</a>` : escHtml(s.title)}</div>
+            <div class="story-meta">
+              <span class="source-badge ${srcClass}">${escHtml(s.source || 'Unknown')}</span>
+              <span class="story-date">${escHtml(s.date || '')}</span>
+              ${s.upvotes ? `<span class="story-date">▲ ${s.upvotes}</span>` : ''}
+              ${s.comments ? `<span class="story-date">💬 ${s.comments}</span>` : ''}
+            </div>
+            <div class="story-summary">${escHtml(s.summary || '')}</div>
+            <div class="story-tags">${(s.tags || []).map(t => `<span class="tag">${escHtml(t)}</span>`).join('')}</div>
+            <div class="story-actions">
+              <button class="action-btn" onclick="markVideo(${i})">🎬 Turn into video</button>
+              <button class="action-btn" onclick="markNewsletter(${i})">📬 Add to newsletter</button>
+              <button class="action-btn dismiss" onclick="dismissStory(${i})">✕ Dismiss</button>
+            </div>
+          </div>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+function dismissStory(i) {
+  const story = allStories[i];
+  dismissed.push(story.title);
+  localStorage.setItem('ai-news-dismissed', JSON.stringify(dismissed));
+  const el = document.getElementById('story-' + i);
+  if (el) { el.style.opacity = '0'; el.style.transform = 'translateX(40px)'; setTimeout(() => el.remove(), 300); }
+}
+
+function markVideo(i) {
+  const el = document.getElementById('story-' + i);
+  const btn = el.querySelectorAll('.action-btn')[0];
+  btn.innerHTML = '✅ Marked for video';
+  btn.style.color = '#10b981'; btn.style.borderColor = '#10b981';
+  let videos = JSON.parse(localStorage.getItem('ai-news-videos') || '[]');
+  videos.push(allStories[i]);
+  localStorage.setItem('ai-news-videos', JSON.stringify(videos));
+}
+
+function markNewsletter(i) {
+  const el = document.getElementById('story-' + i);
+  const btn = el.querySelectorAll('.action-btn')[1];
+  btn.innerHTML = '✅ Added to newsletter';
+  btn.style.color = '#10b981'; btn.style.borderColor = '#10b981';
+  let nl = JSON.parse(localStorage.getItem('ai-news-newsletter') || '[]');
+  nl.push(allStories[i]);
+  localStorage.setItem('ai-news-newsletter', JSON.stringify(nl));
+}
+
+function escHtml(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+loadData();
+</script>
+</body>
+</html>
