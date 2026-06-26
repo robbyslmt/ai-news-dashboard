@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-06-26 12:00 UTC",
+  "generated_at": "2026-06-26 08:00 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 50,
+    "articles_scanned": 61,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "Apple raises prices of MacBooks, iPads as memory costs skyrocket",
+      "title": "Apple raises prices of MacBooks, iPads amid memory costs surge",
       "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
       "source": "Hacker News",
       "date": "2026-06-25",
-      "upvotes": 580,
-      "comments": 831,
-      "summary": "Apple has increased prices across its MacBook and iPad lineups, citing soaring memory chip costs driven by AI infrastructure demand. The price hikes reflect the broader impact of the AI hardware boom on consumer electronics supply chains.",
+      "upvotes": 620,
+      "comments": 886,
+      "summary": "Apple has increased prices across its MacBook and iPad lines as memory component costs skyrocket, driven in part by surging AI infrastructure demand for high-bandwidth memory chips.",
       "tags": ["Hardware", "Industry"]
-    },
-    {
-      "title": "Google integrates 'Computer Use' into Gemini 3.5 Flash",
-      "url": "https://llm-stats.com/ai-news",
-      "source": "Web",
-      "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Google has integrated autonomous computer control directly into Gemini 3.5 Flash, enabling the model to operate browsers, desktops, and mobile devices. It scores 78.4 on the OSWorld benchmark, marking a major step toward truly agentic AI.",
-      "tags": ["LLMs", "Agents", "Tools"]
-    },
-    {
-      "title": "Anthropic's Claude Opus 4.7 achieves 20x faster programming for robodogs",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Web",
-      "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Anthropic's latest Claude Opus 4.7 model demonstrated 20x faster programming performance for robotic dogs compared to the best human engineering team, showcasing the accelerating capability of AI in embodied robotics.",
-      "tags": ["LLMs", "Research", "Agents"]
-    },
-    {
-      "title": "The unbearable cheapness of open weight models",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "source": "Hacker News",
-      "date": "2026-06-25",
-      "upvotes": 137,
-      "comments": 130,
-      "summary": "An analysis of how the rapid proliferation of open-weight AI models is driving down costs and reshaping the competitive landscape. The piece examines the economic implications for both open-source communities and proprietary model vendors.",
-      "tags": ["Open Source", "LLMs", "Industry"]
     },
     {
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
       "source": "Hacker News",
       "date": "2026-06-25",
-      "upvotes": 158,
-      "comments": 77,
-      "summary": "OpenKnowledge is a new open-source, AI-native knowledge management tool designed as an alternative to Obsidian and Notion. Built by Inkeep, it aims to integrate AI deeply into personal knowledge workflows.",
-      "tags": ["Open Source", "Tools"]
+      "upvotes": 193,
+      "comments": 85,
+      "summary": "OpenKnowledge is a new open-source, AI-first knowledge management tool that aims to replace Obsidian and Notion with native LLM integration for organizing and retrieving personal knowledge.",
+      "tags": ["Open Source", "Tools", "LLMs"]
     },
     {
-      "title": "I built a GPU backend for Emacs",
+      "title": "I built a GPU back end for Emacs",
       "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
       "source": "Hacker News",
       "date": "2026-06-23",
-      "upvotes": 166,
-      "comments": 83,
-      "summary": "A developer detailed their journey building a GPU-accelerated rendering backend for the Emacs text editor, potentially enabling dramatically faster rendering and opening the door to richer visual interfaces in the classic editor.",
-      "tags": ["Hardware", "Open Source"]
+      "upvotes": 177,
+      "comments": 86,
+      "summary": "A developer details building a GPU-accelerated rendering backend for Emacs, leveraging modern graphics hardware to dramatically improve the editor's rendering performance.",
+      "tags": ["Open Source", "Hardware"]
     },
     {
-      "title": "AI-designed universal vaccine passes first human trial",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Web",
-      "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Researchers at the University of Cambridge announced that an AI-designed vaccine has successfully completed initial human trials — the first time a vaccine's key component was designed entirely by artificial intelligence.",
-      "tags": ["Research", "News"]
+      "title": "The unbearable cheapness of open weight models",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "source": "Hacker News",
+      "date": "2026-06-25",
+      "upvotes": 143,
+      "comments": 133,
+      "summary": "An analysis of how the rapid proliferation of cheap open-weight AI models is disrupting the economics of the AI industry, putting pressure on closed-source providers and reshaping competitive dynamics.",
+      "tags": ["LLMs", "Open Source", "Industry"]
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
       "source": "Hacker News",
       "date": "2026-06-25",
-      "upvotes": 100,
-      "comments": 198,
-      "summary": "A comprehensive analysis mapping the political leanings of major AI models, sparking heated discussion about neutrality, alignment, and the influence of training data on model outputs.",
+      "upvotes": 116,
+      "comments": 232,
+      "summary": "Trakkr publishes benchmark results measuring political bias across major AI models, sparking extensive debate about neutrality, training data influence, and the implications for AI governance.",
       "tags": ["Regulation", "LLMs"]
     },
     {
-      "title": "Qualcomm in talks to acquire AI chip maker Tenstorrent for $8-10B",
+      "title": "Qualcomm in talks to acquire Tenstorrent for $8-10B",
       "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Web",
       "date": "2026-06-26",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Qualcomm is in early acquisition talks with AI chip startup Tenstorrent, founded by Jim Keller, in a deal valued at $8-10 billion. The move would significantly bolster Qualcomm's position in the AI hardware race against Nvidia and AMD.",
+      "summary": "Qualcomm is reportedly in advanced talks to acquire AI chip startup Tenstorrent for $8-10 billion, aiming to bolster its position against NVIDIA and AMD in the rapidly growing AI accelerator market.",
       "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "OpenAI leans toward waiting until next year for IPO",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "title": "Google launches Agentic Resource Discovery Specification (ARDS)",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Web",
+      "date": "2026-06-26",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Google introduces ARDS, an open standard backed by Microsoft, GitHub, NVIDIA, and Amazon that enables AI agents to autonomously discover and interact with web resources, marking a major step toward interoperable agentic AI.",
+      "tags": ["Agents", "Open Source"]
+    },
+    {
+      "title": "AI-designed vaccine passes first human trials",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Web",
+      "date": "2026-06-26",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Researchers at the University of Cambridge announced that an AI-designed vaccine has successfully completed initial human trials — the first time a vaccine's key component was designed entirely by artificial intelligence.",
+      "tags": ["Research", "Industry"]
+    },
+    {
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
       "source": "Hacker News",
-      "date": "2026-06-25",
-      "upvotes": 73,
-      "comments": 45,
-      "summary": "OpenAI is reportedly considering delaying its highly anticipated IPO until next year, signaling the company wants more time to stabilize its corporate structure and demonstrate sustainable revenue growth.",
-      "tags": ["Industry", "News"]
+      "date": "2026-06-22",
+      "upvotes": 59,
+      "comments": 10,
+      "summary": "A detailed, annotated walkthrough of the PyTorch training loop explaining each step from data loading to optimization, aimed at helping ML practitioners understand what happens under the hood.",
+      "tags": ["Research", "Tools"]
+    },
+    {
+      "title": "Claude Opus 4.7 speeds robodog programming 20x vs human teams",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Web",
+      "date": "2026-06-26",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic's Claude Opus 4.7 demonstrated a 20x speedup in programming robotic dogs compared to the best human teams using previous models, showcasing dramatic improvements in AI-assisted robotics development.",
+      "tags": ["LLMs", "Agents", "Research"]
     }
   ]
 }
