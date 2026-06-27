@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-06-26 08:00 UTC",
+  "generated_at": "2026-06-27 14:30 UTC",
   "stats": {
-    "reddit_threads": 0,
-    "articles_scanned": 61,
+    "reddit_threads": 3,
+    "articles_scanned": 60,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "Apple raises prices of MacBooks, iPads amid memory costs surge",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "source": "Hacker News",
-      "date": "2026-06-25",
-      "upvotes": 620,
-      "comments": 886,
-      "summary": "Apple has increased prices across its MacBook and iPad lines as memory component costs skyrocket, driven in part by surging AI infrastructure demand for high-bandwidth memory chips.",
+      "date": "2026-06-26",
+      "upvotes": 1072,
+      "comments": 1124,
+      "summary": "The US government is implementing a tiered access system for frontier AI models, requiring vetting before users can access OpenAI's GPT-5.6. This marks a new era of government-managed AI model releases.",
+      "tags": ["LLMs", "Regulation"]
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model from OpenAI",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "source": "Hacker News",
+      "date": "2026-06-26",
+      "upvotes": 1031,
+      "comments": 648,
+      "summary": "OpenAI unveils GPT-5.6 Sol with new 'ultra' mode using subagents, setting new benchmarks in coding, biology, and cybersecurity. Available in three tiers (Sol, Terra, Luna) with pricing from $1-$30 per 1M tokens.",
+      "tags": ["LLMs", "Industry"]
+    },
+    {
+      "title": "U.S. allows Anthropic to release Mythos AI to 'trusted' US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "source": "Hacker News",
+      "date": "2026-06-26",
+      "upvotes": 474,
+      "comments": 591,
+      "summary": "The US government partially lifts restrictions on Anthropic's Claude Mythos 5 model, releasing it to 100+ vetted institutions after a two-week security review. This establishes a foundational framework for US AI regulation.",
+      "tags": ["LLMs", "Regulation", "Industry"]
+    },
+    {
+      "title": "DeepSeek open-sources inference optimizations with 60-85% faster generation",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News",
+      "date": "2026-06-27",
+      "upvotes": 415,
+      "comments": 129,
+      "summary": "DeepSeek releases DSpark, an open-source inference optimization framework achieving 60-85% faster token generation. The paper details novel approaches to speculative decoding and memory-efficient serving.",
+      "tags": ["Open Source", "LLMs", "Research"]
+    },
+    {
+      "title": "Qualcomm acquiring Tenstorrent for $8-10B to challenge NVIDIA in AI chips",
+      "url": "https://www.reddit.com/r/MachineLearning/",
+      "source": "r/MachineLearning",
+      "date": "2026-06-27",
+      "upvotes": 385,
+      "comments": 247,
+      "summary": "Qualcomm is acquiring AI chip startup Tenstorrent for $8-10 billion, betting on open RISC-V architecture to challenge NVIDIA and AMD's dominance in AI hardware. The deal signals a major shift in the AI chip landscape.",
       "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
+      "title": "Ultrasound imaging of the brain — new AI-powered diagnostic breakthrough",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
       "source": "Hacker News",
-      "date": "2026-06-25",
-      "upvotes": 193,
-      "comments": 85,
-      "summary": "OpenKnowledge is a new open-source, AI-first knowledge management tool that aims to replace Obsidian and Notion with native LLM integration for organizing and retrieving personal knowledge.",
-      "tags": ["Open Source", "Tools", "LLMs"]
-    },
-    {
-      "title": "I built a GPU back end for Emacs",
-      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
-      "source": "Hacker News",
-      "date": "2026-06-23",
-      "upvotes": 177,
-      "comments": 86,
-      "summary": "A developer details building a GPU-accelerated rendering backend for Emacs, leveraging modern graphics hardware to dramatically improve the editor's rendering performance.",
-      "tags": ["Open Source", "Hardware"]
-    },
-    {
-      "title": "The unbearable cheapness of open weight models",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "source": "Hacker News",
-      "date": "2026-06-25",
-      "upvotes": 143,
-      "comments": 133,
-      "summary": "An analysis of how the rapid proliferation of cheap open-weight AI models is disrupting the economics of the AI industry, putting pressure on closed-source providers and reshaping competitive dynamics.",
-      "tags": ["LLMs", "Open Source", "Industry"]
-    },
-    {
-      "title": "Political bias in AI: Where the AI models stand",
-      "url": "https://trakkr.ai/bias",
-      "source": "Hacker News",
-      "date": "2026-06-25",
-      "upvotes": 116,
-      "comments": 232,
-      "summary": "Trakkr publishes benchmark results measuring political bias across major AI models, sparking extensive debate about neutrality, training data influence, and the implications for AI governance.",
-      "tags": ["Regulation", "LLMs"]
-    },
-    {
-      "title": "Qualcomm in talks to acquire Tenstorrent for $8-10B",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Web",
       "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Qualcomm is reportedly in advanced talks to acquire AI chip startup Tenstorrent for $8-10 billion, aiming to bolster its position against NVIDIA and AMD in the rapidly growing AI accelerator market.",
-      "tags": ["Hardware", "Industry"]
+      "upvotes": 292,
+      "comments": 114,
+      "summary": "Aleph Neuro demonstrates AI-enhanced ultrasound brain imaging that could replace expensive MRI for certain diagnostics, making brain scanning more accessible and affordable worldwide.",
+      "tags": ["Research", "Vision"]
     },
     {
-      "title": "Google launches Agentic Resource Discovery Specification (ARDS)",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Web",
-      "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Google introduces ARDS, an open standard backed by Microsoft, GitHub, NVIDIA, and Amazon that enables AI agents to autonomously discover and interact with web resources, marking a major step toward interoperable agentic AI.",
-      "tags": ["Agents", "Open Source"]
-    },
-    {
-      "title": "AI-designed vaccine passes first human trials",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Web",
-      "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Researchers at the University of Cambridge announced that an AI-designed vaccine has successfully completed initial human trials — the first time a vaccine's key component was designed entirely by artificial intelligence.",
-      "tags": ["Research", "Industry"]
-    },
-    {
-      "title": "The annotated PyTorch training loop",
-      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
       "source": "Hacker News",
-      "date": "2026-06-22",
-      "upvotes": 59,
-      "comments": 10,
-      "summary": "A detailed, annotated walkthrough of the PyTorch training loop explaining each step from data loading to optimization, aimed at helping ML practitioners understand what happens under the hood.",
-      "tags": ["Research", "Tools"]
+      "date": "2026-06-26",
+      "upvotes": 232,
+      "comments": 185,
+      "summary": "Analysis reveals the gap between open and closed source LLMs is shrinking rapidly on coding benchmarks, but remains flat at ~5 months on average across 18 benchmarks. A frontier open-source LLM may arrive by December 2026.",
+      "tags": ["LLMs", "Open Source", "Research"]
     },
     {
-      "title": "Claude Opus 4.7 speeds robodog programming 20x vs human teams",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Web",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "source": "Hacker News",
       "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Anthropic's Claude Opus 4.7 demonstrated a 20x speedup in programming robotic dogs compared to the best human teams using previous models, showcasing dramatic improvements in AI-assisted robotics development.",
-      "tags": ["LLMs", "Agents", "Research"]
+      "upvotes": 178,
+      "comments": 99,
+      "summary": "Workweave Router enables intelligent model routing within popular AI coding tools, automatically selecting the best model for each task to optimize cost and performance.",
+      "tags": ["Tools", "LLMs", "Open Source"]
+    },
+    {
+      "title": "Google ARDS: Open standard for AI agents to interact with web resources",
+      "url": "https://www.reddit.com/r/LocalLLaMA/",
+      "source": "r/LocalLLaMA",
+      "date": "2026-06-27",
+      "upvotes": 165,
+      "comments": 132,
+      "summary": "Google introduces the ARDS specification — an open standard for AI agents to discover and interact with web resources, backed by Microsoft, GitHub, NVIDIA, and Amazon. Aims to standardize the agentic AI ecosystem.",
+      "tags": ["Agents", "Open Source", "Industry"]
+    },
+    {
+      "title": "AI in mathematics is forcing big questions about proof and discovery",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "source": "Hacker News",
+      "date": "2026-06-26",
+      "upvotes": 151,
+      "comments": 114,
+      "summary": "IEEE Spectrum explores how AI systems are making genuine mathematical discoveries, forcing mathematicians to reconsider what constitutes proof and the nature of mathematical understanding.",
+      "tags": ["Research", "LLMs"]
     }
   ]
 }
