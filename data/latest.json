@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-06-27 14:30 UTC",
+  "generated_at": "2026-06-28 01:15 UTC",
   "stats": {
-    "reddit_threads": 3,
-    "articles_scanned": 60,
+    "reddit_threads": 5,
+    "articles_scanned": 65,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "source": "Hacker News",
-      "date": "2026-06-26",
-      "upvotes": 1072,
-      "comments": 1124,
-      "summary": "The US government is implementing a tiered access system for frontier AI models, requiring vetting before users can access OpenAI's GPT-5.6. This marks a new era of government-managed AI model releases.",
-      "tags": ["LLMs", "Regulation"]
-    },
-    {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model from OpenAI",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "Hacker News",
       "date": "2026-06-26",
-      "upvotes": 1031,
-      "comments": 648,
-      "summary": "OpenAI unveils GPT-5.6 Sol with new 'ultra' mode using subagents, setting new benchmarks in coding, biology, and cybersecurity. Available in three tiers (Sol, Terra, Luna) with pricing from $1-$30 per 1M tokens.",
+      "upvotes": 1105,
+      "comments": 720,
+      "summary": "OpenAI previews GPT-5.6 Sol, its next-generation frontier model. The public rollout has been deferred as the U.S. government seeks early access, with prediction markets now pricing launch most likely in July 2026.",
       "tags": ["LLMs", "Industry"]
     },
     {
-      "title": "U.S. allows Anthropic to release Mythos AI to 'trusted' US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "source": "Hacker News",
-      "date": "2026-06-26",
-      "upvotes": 474,
-      "comments": 591,
-      "summary": "The US government partially lifts restrictions on Anthropic's Claude Mythos 5 model, releasing it to 100+ vetted institutions after a two-week security review. This establishes a foundational framework for US AI regulation.",
-      "tags": ["LLMs", "Regulation", "Industry"]
-    },
-    {
-      "title": "DeepSeek open-sources inference optimizations with 60-85% faster generation",
+      "title": "DSpark: Speculative decoding accelerates LLM inference",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "source": "Hacker News",
       "date": "2026-06-27",
-      "upvotes": 415,
-      "comments": 129,
-      "summary": "DeepSeek releases DSpark, an open-source inference optimization framework achieving 60-85% faster token generation. The paper details novel approaches to speculative decoding and memory-efficient serving.",
-      "tags": ["Open Source", "LLMs", "Research"]
+      "upvotes": 719,
+      "comments": 298,
+      "summary": "DeepSeek releases DSpark, a speculative decoding framework that significantly accelerates LLM inference. The paper demonstrates major speedups for large language model serving workloads.",
+      "tags": ["LLMs", "Research", "Open Source"]
     },
     {
-      "title": "Qualcomm acquiring Tenstorrent for $8-10B to challenge NVIDIA in AI chips",
-      "url": "https://www.reddit.com/r/MachineLearning/",
-      "source": "r/MachineLearning",
+      "title": "Samsung readies $648 billion mega-investment in South Korea",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "Web",
       "date": "2026-06-27",
-      "upvotes": 385,
-      "comments": 247,
-      "summary": "Qualcomm is acquiring AI chip startup Tenstorrent for $8-10 billion, betting on open RISC-V architecture to challenge NVIDIA and AMD's dominance in AI hardware. The deal signals a major shift in the AI chip landscape.",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Samsung is reportedly preparing a massive 1,000 trillion won ($648 billion) investment in South Korea, driven by soaring AI infrastructure and memory chip demand reshaping the country's industrial strategy.",
       "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "Ultrasound imaging of the brain — new AI-powered diagnostic breakthrough",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "source": "Hacker News",
-      "date": "2026-06-26",
-      "upvotes": 292,
-      "comments": 114,
-      "summary": "Aleph Neuro demonstrates AI-enhanced ultrasound brain imaging that could replace expensive MRI for certain diagnostics, making brain scanning more accessible and affordable worldwide.",
-      "tags": ["Research", "Vision"]
+      "title": "Qualcomm in talks to acquire AI chip designer Tenstorrent for $8-10B",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Web",
+      "date": "2026-06-20",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Qualcomm is in early talks to acquire AI chip designer Tenstorrent for $8-10 billion. Led by chip veteran Jim Keller, Tenstorrent uses the open RISC-V standard and would help Qualcomm compete with Nvidia and AMD.",
+      "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "source": "Hacker News",
-      "date": "2026-06-26",
-      "upvotes": 232,
-      "comments": 185,
-      "summary": "Analysis reveals the gap between open and closed source LLMs is shrinking rapidly on coding benchmarks, but remains flat at ~5 months on average across 18 benchmarks. A frontier open-source LLM may arrive by December 2026.",
-      "tags": ["LLMs", "Open Source", "Research"]
-    },
-    {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "source": "Hacker News",
-      "date": "2026-06-26",
-      "upvotes": 178,
-      "comments": 99,
-      "summary": "Workweave Router enables intelligent model routing within popular AI coding tools, automatically selecting the best model for each task to optimize cost and performance.",
-      "tags": ["Tools", "LLMs", "Open Source"]
-    },
-    {
-      "title": "Google ARDS: Open standard for AI agents to interact with web resources",
-      "url": "https://www.reddit.com/r/LocalLLaMA/",
-      "source": "r/LocalLLaMA",
       "date": "2026-06-27",
-      "upvotes": 165,
-      "comments": 132,
-      "summary": "Google introduces the ARDS specification — an open standard for AI agents to discover and interact with web resources, backed by Microsoft, GitHub, NVIDIA, and Amazon. Aims to standardize the agentic AI ecosystem.",
-      "tags": ["Agents", "Open Source", "Industry"]
+      "upvotes": 127,
+      "comments": 121,
+      "summary": "Asian AI startups are launching models rivaling Anthropic's Mythos as the U.S. export ban on advanced AI continues, highlighting how restrictions are spurring competition abroad.",
+      "tags": ["LLMs", "Industry", "Regulation"]
     },
     {
-      "title": "AI in mathematics is forcing big questions about proof and discovery",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "title": "Anthropic claims Alibaba illicitly extracted capabilities from Claude",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "Web",
+      "date": "2026-06-27",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic alleges that Alibaba illicitly extracted capabilities from its Claude AI model, escalating tensions around AI model distillation and intellectual property in the global AI race.",
+      "tags": ["Industry", "Regulation", "LLMs"]
+    },
+    {
+      "title": "Google Search now entirely powered by Gemini 3.5 Flash - biggest change in 25 years",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Web",
+      "date": "2026-06-20",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Google has overhauled Search so Gemini 3.5 Flash now entirely powers it, generating custom AI-summarized pages instead of traditional links - the biggest change to Search in 25 years.",
+      "tags": ["LLMs", "Industry", "Tools"]
+    },
+    {
+      "title": "Norway imposes near-ban on AI in elementary schools",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "Web",
+      "date": "2026-06-19",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Norway has enacted a near-total ban on AI use in elementary schools, joining a growing list of countries imposing strict limits on AI in education for young children.",
+      "tags": ["Regulation", "News"]
+    },
+    {
+      "title": "AI learns the dark art of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "source": "Hacker News",
-      "date": "2026-06-26",
-      "upvotes": 151,
-      "comments": 114,
-      "summary": "IEEE Spectrum explores how AI systems are making genuine mathematical discoveries, forcing mathematicians to reconsider what constitutes proof and the nature of mathematical understanding.",
-      "tags": ["Research", "LLMs"]
+      "date": "2026-06-24",
+      "upvotes": 179,
+      "comments": 118,
+      "summary": "AI systems are now mastering radio-frequency integrated circuit design, a notoriously difficult domain. The breakthrough could dramatically accelerate chip design workflows.",
+      "tags": ["Research", "Hardware", "Tools"]
+    },
+    {
+      "title": "AI-designed vaccine component completes first human trials",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Web",
+      "date": "2026-06-20",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "The first vaccine component entirely designed by AI has successfully completed initial human trials, potentially protecting against diverse viruses and marking a milestone for AI-driven drug discovery.",
+      "tags": ["Research", "Industry"]
     }
   ]
 }
