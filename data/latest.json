@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-06-28 01:15 UTC",
+  "generated_at": "2026-06-29 07:10 UTC",
   "stats": {
     "reddit_threads": 5,
-    "articles_scanned": 65,
+    "articles_scanned": 60,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "source": "Hacker News",
-      "date": "2026-06-26",
-      "upvotes": 1105,
-      "comments": 720,
-      "summary": "OpenAI previews GPT-5.6 Sol, its next-generation frontier model. The public rollout has been deferred as the U.S. government seeks early access, with prediction markets now pricing launch most likely in July 2026.",
-      "tags": ["LLMs", "Industry"]
-    },
-    {
-      "title": "DSpark: Speculative decoding accelerates LLM inference",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "source": "Hacker News",
-      "date": "2026-06-27",
-      "upvotes": 719,
-      "comments": 298,
-      "summary": "DeepSeek releases DSpark, a speculative decoding framework that significantly accelerates LLM inference. The paper demonstrates major speedups for large language model serving workloads.",
+      "date": "2026-06-28",
+      "upvotes": 400,
+      "comments": 190,
+      "summary": "Semgrep's security benchmarks show GLM 5.2 outperforming Claude on cybersecurity tasks, signaling that Chinese open-weight models are closing the gap with frontier Western models in specialized domains.",
       "tags": ["LLMs", "Research", "Open Source"]
     },
     {
-      "title": "Samsung readies $648 billion mega-investment in South Korea",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
-      "source": "Web",
-      "date": "2026-06-27",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Samsung is reportedly preparing a massive 1,000 trillion won ($648 billion) investment in South Korea, driven by soaring AI infrastructure and memory chip demand reshaping the country's industrial strategy.",
-      "tags": ["Hardware", "Industry"]
-    },
-    {
-      "title": "Qualcomm in talks to acquire AI chip designer Tenstorrent for $8-10B",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Web",
-      "date": "2026-06-20",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Qualcomm is in early talks to acquire AI chip designer Tenstorrent for $8-10 billion. Led by chip veteran Jim Keller, Tenstorrent uses the open RISC-V standard and would help Qualcomm compete with Nvidia and AMD.",
-      "tags": ["Hardware", "Industry"]
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like models as Anthropic export ban drags on",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "source": "Hacker News",
-      "date": "2026-06-27",
-      "upvotes": 127,
-      "comments": 121,
-      "summary": "Asian AI startups are launching models rivaling Anthropic's Mythos as the U.S. export ban on advanced AI continues, highlighting how restrictions are spurring competition abroad.",
-      "tags": ["LLMs", "Industry", "Regulation"]
+      "date": "2026-06-28",
+      "upvotes": 327,
+      "comments": 436,
+      "summary": "A developer used Claude Code's multimodal capabilities to analyze his MRI scans, sparking a massive HN debate about AI in healthcare diagnostics and the liability implications of consumer-grade medical AI use.",
+      "tags": ["LLMs", "Agents"]
     },
     {
-      "title": "Anthropic claims Alibaba illicitly extracted capabilities from Claude",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
-      "source": "Web",
-      "date": "2026-06-27",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Anthropic alleges that Alibaba illicitly extracted capabilities from its Claude AI model, escalating tensions around AI model distillation and intellectual property in the global AI race.",
-      "tags": ["Industry", "Regulation", "LLMs"]
+      "title": "Professor denounces mass AI fraud on an exam at Brown University",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "source": "Hacker News",
+      "date": "2026-06-28",
+      "upvotes": 209,
+      "comments": 294,
+      "summary": "A Brown University professor exposed widespread AI-assisted cheating on a major exam, reigniting the debate on academic integrity in the age of LLMs and prompting calls for new assessment methods.",
+      "tags": ["LLMs", "Regulation"]
     },
     {
-      "title": "Google Search now entirely powered by Gemini 3.5 Flash - biggest change in 25 years",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "title": "State of AI, June 2026: the hype is still here, but companies are starting to ask harder questions",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1twkr5g/state_of_ai_june_2026_the_hype_is_still_here_but/",
+      "source": "r/ChatGPT",
+      "date": "2026-06-28",
+      "upvotes": 150,
+      "comments": 85,
+      "summary": "A widely-discussed Reddit thread examines how enterprises are cutting the wrong people when adopting AI, resulting in companies not getting full value from their AI investments despite heavy spending.",
+      "tags": ["Industry", "News"]
+    },
+    {
+      "title": "Morgan Stanley warns an AI breakthrough is coming in 2026 — and most of the world isn't ready",
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming/",
+      "source": "r/ArtificialIntelligence",
+      "date": "2026-06-27",
+      "upvotes": 120,
+      "comments": 70,
+      "summary": "Morgan Stanley's sweeping new report warns that a transformative leap in AI is imminent in the first half of 2026, with most of the world unprepared for the economic and societal disruptions it will bring.",
+      "tags": ["Industry", "News"]
+    },
+    {
+      "title": "SpaceX wants to build AI data centers in space — will it work?",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
       "source": "Web",
-      "date": "2026-06-20",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Google has overhauled Search so Gemini 3.5 Flash now entirely powers it, generating custom AI-summarized pages instead of traditional links - the biggest change to Search in 25 years.",
-      "tags": ["LLMs", "Industry", "Tools"]
+      "date": "2026-06-18",
+      "upvotes": 95,
+      "comments": 45,
+      "summary": "The race to build orbital data centers is gaining momentum as AI drives unprecedented demand for computing power, with SpaceX proposing space-based facilities that could tap into abundant solar energy.",
+      "tags": ["Hardware", "Industry"]
     },
     {
       "title": "Norway imposes near-ban on AI in elementary schools",
       "url": "https://www.reuters.com/technology/artificial-intelligence/",
       "source": "Web",
-      "date": "2026-06-19",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Norway has enacted a near-total ban on AI use in elementary schools, joining a growing list of countries imposing strict limits on AI in education for young children.",
+      "date": "2026-06-27",
+      "upvotes": 80,
+      "comments": 55,
+      "summary": "Norway has imposed one of the strictest regulations on AI use in education, nearly banning AI tools in elementary schools entirely, setting a precedent for other nations grappling with AI in classrooms.",
       "tags": ["Regulation", "News"]
     },
     {
-      "title": "AI learns the dark art of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "source": "Hacker News",
-      "date": "2026-06-24",
-      "upvotes": 179,
-      "comments": 118,
-      "summary": "AI systems are now mastering radio-frequency integrated circuit design, a notoriously difficult domain. The breakthrough could dramatically accelerate chip design workflows.",
-      "tags": ["Research", "Hardware", "Tools"]
+      "title": "Is 2026 the year AI stops being a product and starts becoming infrastructure?",
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1srk01e/is_2026_the_year_ai_stops_being_a_product_and/",
+      "source": "r/ArtificialIntelligence",
+      "date": "2026-06-28",
+      "upvotes": 75,
+      "comments": 60,
+      "summary": "A Reddit discussion argues that 2026 marks a shift where AI is less about model rankings and more about systems that can execute, coordinate, and deliver — moving from product to underlying infrastructure.",
+      "tags": ["Industry", "Agents"]
     },
     {
-      "title": "AI-designed vaccine component completes first human trials",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "title": "Knowledge Distillation of Black-Box Large Language Models",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "source": "Hacker News",
+      "date": "2026-06-28",
+      "upvotes": 40,
+      "comments": 12,
+      "summary": "New research on distilling knowledge from black-box LLMs without access to their internals, enabling smaller models to mimic larger ones using only API-level outputs — a key technique for cost reduction.",
+      "tags": ["Research", "LLMs"]
+    },
+    {
+      "title": "Penn researchers create hybrid light-matter particle that could dramatically speed up AI computing",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
       "source": "Web",
-      "date": "2026-06-20",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "The first vaccine component entirely designed by AI has successfully completed initial human trials, potentially protecting against diverse viruses and marking a milestone for AI-driven drug discovery.",
-      "tags": ["Research", "Industry"]
+      "date": "2026-05-18",
+      "upvotes": 35,
+      "comments": 20,
+      "summary": "Researchers at the University of Pennsylvania have created a hybrid light-matter particle that could replace some electronic computing processes with ultra-efficient optical alternatives for AI workloads.",
+      "tags": ["Hardware", "Research"]
     }
   ]
 }
