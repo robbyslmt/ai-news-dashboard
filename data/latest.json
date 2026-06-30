@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-06-29 07:10 UTC",
+  "generated_at": "2026-06-30 08:00 UTC",
   "stats": {
-    "reddit_threads": 5,
-    "articles_scanned": 60,
+    "reddit_threads": 0,
+    "articles_scanned": 50,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "source": "Hacker News",
-      "date": "2026-06-28",
-      "upvotes": 400,
-      "comments": 190,
-      "summary": "Semgrep's security benchmarks show GLM 5.2 outperforming Claude on cybersecurity tasks, signaling that Chinese open-weight models are closing the gap with frontier Western models in specialized domains.",
-      "tags": ["LLMs", "Research", "Open Source"]
-    },
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "source": "Hacker News",
-      "date": "2026-06-28",
-      "upvotes": 327,
-      "comments": 436,
-      "summary": "A developer used Claude Code's multimodal capabilities to analyze his MRI scans, sparking a massive HN debate about AI in healthcare diagnostics and the liability implications of consumer-grade medical AI use.",
-      "tags": ["LLMs", "Agents"]
-    },
-    {
-      "title": "Professor denounces mass AI fraud on an exam at Brown University",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "source": "Hacker News",
-      "date": "2026-06-28",
-      "upvotes": 209,
-      "comments": 294,
-      "summary": "A Brown University professor exposed widespread AI-assisted cheating on a major exam, reigniting the debate on academic integrity in the age of LLMs and prompting calls for new assessment methods.",
-      "tags": ["LLMs", "Regulation"]
-    },
-    {
-      "title": "State of AI, June 2026: the hype is still here, but companies are starting to ask harder questions",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1twkr5g/state_of_ai_june_2026_the_hype_is_still_here_but/",
-      "source": "r/ChatGPT",
-      "date": "2026-06-28",
-      "upvotes": 150,
-      "comments": 85,
-      "summary": "A widely-discussed Reddit thread examines how enterprises are cutting the wrong people when adopting AI, resulting in companies not getting full value from their AI investments despite heavy spending.",
-      "tags": ["Industry", "News"]
-    },
-    {
-      "title": "Morgan Stanley warns an AI breakthrough is coming in 2026 — and most of the world isn't ready",
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsrji4/morgan_stanley_warns_an_ai_breakthrough_is_coming/",
-      "source": "r/ArtificialIntelligence",
-      "date": "2026-06-27",
-      "upvotes": 120,
-      "comments": 70,
-      "summary": "Morgan Stanley's sweeping new report warns that a transformative leap in AI is imminent in the first half of 2026, with most of the world unprepared for the economic and societal disruptions it will bring.",
-      "tags": ["Industry", "News"]
-    },
-    {
-      "title": "SpaceX wants to build AI data centers in space — will it work?",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "title": "Fable 5 on Track to Return This Week After 15-Day Government Ban",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-29-2026",
       "source": "Web",
-      "date": "2026-06-18",
-      "upvotes": 95,
-      "comments": 45,
-      "summary": "The race to build orbital data centers is gaining momentum as AI drives unprecedented demand for computing power, with SpaceX proposing space-based facilities that could tap into abundant solar energy.",
+      "date": "2026-06-29",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Axios reports Anthropic's Fable 5 model is on track to return to general access within days after negotiations with the US government progressed significantly. Mythos 5 was partially restored on June 27 for ~100 US companies and agencies, while Pentagon/NSA sign-off for broader restoration remains outstanding.",
+      "tags": ["LLMs", "Regulation", "Industry"]
+    },
+    {
+      "title": "GPT-5.6 Sol Scores 91.9% on Terminal-Bench, Beating Mythos 5 at 88%",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-29-2026",
+      "source": "Web",
+      "date": "2026-06-29",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "OpenAI launched GPT-5.6 as three tiers (Sol, Terra, Luna) in a government-approved limited preview. Sol's ultra multi-agent mode scored 91.9% on Terminal-Bench 2.1, the highest ever recorded. Even the cheapest tier Luna scores 82.5%, above Claude Opus 4.8.",
+      "tags": ["LLMs", "Research", "Industry"]
+    },
+    {
+      "title": "OpenAI and Broadcom Unveil Jalapeño: OpenAI's First Custom AI Chip",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-26-2026",
+      "source": "Web",
+      "date": "2026-06-26",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "OpenAI unveiled Jalapeño, its first custom AI inference chip built with Broadcom in just nine months — the fastest ASIC development cycle ever. Early testing shows substantially better performance per watt than Nvidia alternatives, targeting initial deployment by end of 2026.",
       "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "Norway imposes near-ban on AI in elementary schools",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "title": "Anthropic Accuses Alibaba of 28.8 Million Claude Distillation Attacks",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-26-2026",
       "source": "Web",
-      "date": "2026-06-27",
-      "upvotes": 80,
-      "comments": 55,
-      "summary": "Norway has imposed one of the strictest regulations on AI use in education, nearly banning AI tools in elementary schools entirely, setting a precedent for other nations grappling with AI in classrooms.",
-      "tags": ["Regulation", "News"]
+      "date": "2026-06-26",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic accused Alibaba's Qwen AI lab of running the largest known distillation attack, using 25,000 fake accounts to harvest 28.8 million Claude interactions over six weeks. The campaign targeted agentic reasoning and software engineering capabilities.",
+      "tags": ["LLMs", "Industry", "Regulation"]
     },
     {
-      "title": "Is 2026 the year AI stops being a product and starts becoming infrastructure?",
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1srk01e/is_2026_the_year_ai_stops_being_a_product_and/",
-      "source": "r/ArtificialIntelligence",
-      "date": "2026-06-28",
-      "upvotes": 75,
-      "comments": 60,
-      "summary": "A Reddit discussion argues that 2026 marks a shift where AI is less about model rankings and more about systems that can execute, coordinate, and deliver — moving from product to underlying infrastructure.",
-      "tags": ["Industry", "Agents"]
+      "title": "Colorado AI Act Takes Effect June 30 — First Comprehensive State AI Law in the US",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-26-2026",
+      "source": "Web",
+      "date": "2026-06-30",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Colorado's Consumer Protections for Artificial Intelligence Act takes effect today, becoming the first comprehensive state AI law in the US. A May 2026 amendment added a carve-out for algorithmic discrimination liability, shifting the regulatory landscape for AI deployers and developers.",
+      "tags": ["Regulation", "Industry"]
     },
     {
-      "title": "Knowledge Distillation of Black-Box Large Language Models",
-      "url": "https://arxiv.org/abs/2401.07013",
+      "title": "SpaceX Acquires Cursor for $60 Billion in Largest VC-Backed Startup Deal Ever",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026",
+      "source": "Web",
+      "date": "2026-06-23",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "SpaceX announced a $60B all-stock acquisition of Anysphere (Cursor), the largest VC-backed startup deal in history. Cursor generates ~$4B annualized revenue with 50,000+ enterprise clients. SpaceX and Cursor have been jointly training a coding model on the Colossus supercluster.",
+      "tags": ["Industry", "Tools"]
+    },
+    {
+      "title": "Google Launches ARDS: Open Standard for AI Agents to Discover and Interact with Web Resources",
+      "url": "https://www.indianweb2.com/2026/06/google-and-tech-giants-unite-to-launch.html",
+      "source": "Web",
+      "date": "2026-06-19",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Google launched the Agentic Resource Discovery Specification (ARDS), backed by Microsoft, GitHub, Hugging Face, NVIDIA, Amazon, Cisco, Salesforce, and Snowflake. The Apache 2.0-licensed standard enables AI agents to autonomously discover and interact with resources across the web.",
+      "tags": ["Agents", "Open Source", "Industry"]
+    },
+    {
+      "title": "Ornith-1.0: Self-Improving Open-Source Models for Agentic Coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "source": "Hacker News",
-      "date": "2026-06-28",
-      "upvotes": 40,
-      "comments": 12,
-      "summary": "New research on distilling knowledge from black-box LLMs without access to their internals, enabling smaller models to mimic larger ones using only API-level outputs — a key technique for cost reduction.",
-      "tags": ["Research", "LLMs"]
+      "date": "2026-06-29",
+      "upvotes": 144,
+      "comments": 32,
+      "summary": "DeepReinforce AI released Ornith-1.0, a family of self-improving open-source LLMs designed for agentic coding tasks. The models use self-scaffolding to autonomously build and refine their own tooling, representing a step toward AI systems that improve themselves.",
+      "tags": ["Open Source", "Agents", "LLMs"]
     },
     {
-      "title": "Penn researchers create hybrid light-matter particle that could dramatically speed up AI computing",
-      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "title": "Qualcomm Reportedly in Talks to Acquire Tenstorrent for $8-10B to Bolster AI Chips",
+      "url": "https://memeburn.com/qualcomm-is-reportedly-buying-tenstorrent-to-get-serious-about-ai-chips/",
       "source": "Web",
-      "date": "2026-05-18",
-      "upvotes": 35,
-      "comments": 20,
-      "summary": "Researchers at the University of Pennsylvania have created a hybrid light-matter particle that could replace some electronic computing processes with ultra-efficient optical alternatives for AI workloads.",
-      "tags": ["Hardware", "Research"]
+      "date": "2026-06-19",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Qualcomm is in early talks to acquire AI chip startup Tenstorrent for $8-10 billion. Founded by chip veteran Jim Keller, Tenstorrent designs AI chips using the open RISC-V standard. The deal would give Qualcomm a major foothold in the AI hardware race against Nvidia and AMD.",
+      "tags": ["Hardware", "Industry"]
+    },
+    {
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "source": "Hacker News",
+      "date": "2026-06-29",
+      "upvotes": 50,
+      "comments": 17,
+      "summary": "A new Micro-Agent approach demonstrates that smaller models collaborating within a model API can match or beat frontier model performance. The technique uses vLLM to orchestrate multiple smaller agents working together, offering a cost-effective alternative to expensive frontier models.",
+      "tags": ["Agents", "Tools", "Research"]
     }
   ]
 }
