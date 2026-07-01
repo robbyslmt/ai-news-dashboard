@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30 08:00 UTC",
+  "generated_at": "2026-07-01 05:30 UTC",
   "stats": {
     "reddit_threads": 0,
     "articles_scanned": 50,
@@ -7,104 +7,104 @@
   },
   "stories": [
     {
-      "title": "Fable 5 on Track to Return This Week After 15-Day Government Ban",
-      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-29-2026",
-      "source": "Web",
-      "date": "2026-06-29",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Axios reports Anthropic's Fable 5 model is on track to return to general access within days after negotiations with the US government progressed significantly. Mythos 5 was partially restored on June 27 for ~100 US companies and agencies, while Pentagon/NSA sign-off for broader restoration remains outstanding.",
-      "tags": ["LLMs", "Regulation", "Industry"]
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "source": "Hacker News",
+      "date": "2026-06-30",
+      "upvotes": 1618,
+      "comments": 462,
+      "summary": "Investigation reveals Claude Code embeds hidden watermarks in its output, raising concerns about AI transparency and user trust in coding assistants.",
+      "tags": ["LLMs", "Tools", "Regulation"]
     },
     {
-      "title": "GPT-5.6 Sol Scores 91.9% on Terminal-Bench, Beating Mythos 5 at 88%",
-      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-29-2026",
-      "source": "Web",
-      "date": "2026-06-29",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "OpenAI launched GPT-5.6 as three tiers (Sol, Terra, Luna) in a government-approved limited preview. Sol's ultra multi-agent mode scored 91.9% on Terminal-Bench 2.1, the highest ever recorded. Even the cheapest tier Luna scores 82.5%, above Claude Opus 4.8.",
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Hacker News",
+      "date": "2026-06-30",
+      "upvotes": 1007,
+      "comments": 567,
+      "summary": "Anthropic launches Claude Sonnet 5, its latest mid-tier model promising improved reasoning and coding capabilities with faster response times.",
+      "tags": ["LLMs", "Industry"]
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "source": "Hacker News",
+      "date": "2026-06-30",
+      "upvotes": 477,
+      "comments": 237,
+      "summary": "The US Department of Commerce lifts export restrictions on Anthropic's advanced Claude models Fable 5 and Mythos 5, enabling broader international access to frontier AI.",
+      "tags": ["Regulation", "LLMs", "Industry"]
+    },
+    {
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "source": "Hacker News",
+      "date": "2026-06-30",
+      "upvotes": 420,
+      "comments": 129,
+      "summary": "Anthropic introduces Claude Science, a specialized AI product designed for scientific research, analysis, and hypothesis generation across disciplines.",
       "tags": ["LLMs", "Research", "Industry"]
     },
     {
-      "title": "OpenAI and Broadcom Unveil Jalapeño: OpenAI's First Custom AI Chip",
-      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-26-2026",
-      "source": "Web",
-      "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "OpenAI unveiled Jalapeño, its first custom AI inference chip built with Broadcom in just nine months — the fastest ASIC development cycle ever. Early testing shows substantially better performance per watt than Nvidia alternatives, targeting initial deployment by end of 2026.",
-      "tags": ["Hardware", "Industry"]
-    },
-    {
-      "title": "Anthropic Accuses Alibaba of 28.8 Million Claude Distillation Attacks",
-      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-26-2026",
-      "source": "Web",
-      "date": "2026-06-26",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Anthropic accused Alibaba's Qwen AI lab of running the largest known distillation attack, using 25,000 fake accounts to harvest 28.8 million Claude interactions over six weeks. The campaign targeted agentic reasoning and software engineering capabilities.",
-      "tags": ["LLMs", "Industry", "Regulation"]
-    },
-    {
-      "title": "Colorado AI Act Takes Effect June 30 — First Comprehensive State AI Law in the US",
-      "url": "https://unrot.co/blogs/today-top-10-ai-news-june-26-2026",
-      "source": "Web",
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "source": "Hacker News",
       "date": "2026-06-30",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Colorado's Consumer Protections for Artificial Intelligence Act takes effect today, becoming the first comprehensive state AI law in the US. A May 2026 amendment added a carve-out for algorithmic discrimination liability, shifting the regulatory landscape for AI deployers and developers.",
+      "upvotes": 144,
+      "comments": 13,
+      "summary": "ZLUDA 6 enables running unmodified CUDA applications on non-Nvidia GPUs, potentially breaking Nvidia's dominance in AI compute and lowering hardware costs.",
+      "tags": ["Hardware", "Open Source", "Tools"]
+    },
+    {
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+      "source": "Hacker News",
+      "date": "2026-06-30",
+      "upvotes": 133,
+      "comments": 71,
+      "summary": "Meta's brain2qwerty AI system decodes brain signals into text without invasive surgery, opening new possibilities for non-invasive brain-computer interfaces.",
+      "tags": ["Research", "Vision", "Hardware"]
+    },
+    {
+      "title": "TabFM: A zero-shot foundation model for tabular data",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "source": "Hacker News",
+      "date": "2026-06-30",
+      "upvotes": 61,
+      "comments": 8,
+      "summary": "Google Research introduces TabFM, a foundation model that achieves strong performance on tabular data tasks without task-specific training, simplifying enterprise ML workflows.",
+      "tags": ["Research", "LLMs", "Tools"]
+    },
+    {
+      "title": "Firms that adopt AI grow headcount 10% over the two years following adoption",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "source": "Hacker News",
+      "date": "2026-07-01",
+      "upvotes": 16,
+      "comments": 5,
+      "summary": "Data from Ramp shows companies adopting AI tools actually increase headcount by 10% within two years, countering fears that AI leads to mass layoffs.",
+      "tags": ["Industry", "News"]
+    },
+    {
+      "title": "America can switch off AI. Europe must switch gears before it's too late",
+      "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
+      "source": "Hacker News",
+      "date": "2026-07-01",
+      "upvotes": 15,
+      "comments": 1,
+      "summary": "Analysis argues Europe must accelerate its AI strategy or risk falling behind as the US maintains leverage over global AI infrastructure and model access.",
       "tags": ["Regulation", "Industry"]
     },
     {
-      "title": "SpaceX Acquires Cursor for $60 Billion in Largest VC-Backed Startup Deal Ever",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026",
-      "source": "Web",
-      "date": "2026-06-23",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "SpaceX announced a $60B all-stock acquisition of Anysphere (Cursor), the largest VC-backed startup deal in history. Cursor generates ~$4B annualized revenue with 50,000+ enterprise clients. SpaceX and Cursor have been jointly training a coding model on the Colossus supercluster.",
-      "tags": ["Industry", "Tools"]
-    },
-    {
-      "title": "Google Launches ARDS: Open Standard for AI Agents to Discover and Interact with Web Resources",
-      "url": "https://www.indianweb2.com/2026/06/google-and-tech-giants-unite-to-launch.html",
-      "source": "Web",
-      "date": "2026-06-19",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Google launched the Agentic Resource Discovery Specification (ARDS), backed by Microsoft, GitHub, Hugging Face, NVIDIA, Amazon, Cisco, Salesforce, and Snowflake. The Apache 2.0-licensed standard enables AI agents to autonomously discover and interact with resources across the web.",
-      "tags": ["Agents", "Open Source", "Industry"]
-    },
-    {
-      "title": "Ornith-1.0: Self-Improving Open-Source Models for Agentic Coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
       "source": "Hacker News",
-      "date": "2026-06-29",
-      "upvotes": 144,
-      "comments": 32,
-      "summary": "DeepReinforce AI released Ornith-1.0, a family of self-improving open-source LLMs designed for agentic coding tasks. The models use self-scaffolding to autonomously build and refine their own tooling, representing a step toward AI systems that improve themselves.",
-      "tags": ["Open Source", "Agents", "LLMs"]
-    },
-    {
-      "title": "Qualcomm Reportedly in Talks to Acquire Tenstorrent for $8-10B to Bolster AI Chips",
-      "url": "https://memeburn.com/qualcomm-is-reportedly-buying-tenstorrent-to-get-serious-about-ai-chips/",
-      "source": "Web",
-      "date": "2026-06-19",
-      "upvotes": 0,
+      "date": "2026-07-01",
+      "upvotes": 3,
       "comments": 0,
-      "summary": "Qualcomm is in early talks to acquire AI chip startup Tenstorrent for $8-10 billion. Founded by chip veteran Jim Keller, Tenstorrent designs AI chips using the open RISC-V standard. The deal would give Qualcomm a major foothold in the AI hardware race against Nvidia and AMD.",
-      "tags": ["Hardware", "Industry"]
-    },
-    {
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "source": "Hacker News",
-      "date": "2026-06-29",
-      "upvotes": 50,
-      "comments": 17,
-      "summary": "A new Micro-Agent approach demonstrates that smaller models collaborating within a model API can match or beat frontier model performance. The technique uses vLLM to orchestrate multiple smaller agents working together, offering a cost-effective alternative to expensive frontier models.",
-      "tags": ["Agents", "Tools", "Research"]
+      "summary": "Research demonstrates that matrix orthogonalization techniques significantly improve long-term memory retention in recurrent neural networks, a step forward for sequence modeling.",
+      "tags": ["Research", "LLMs"]
     }
   ]
 }
