@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-07-01 05:30 UTC",
+  "generated_at": "2026-07-02 04:00 UTC",
   "stats": {
-    "reddit_threads": 0,
+    "reddit_threads": 5,
     "articles_scanned": 50,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "source": "Hacker News",
-      "date": "2026-06-30",
-      "upvotes": 1618,
-      "comments": 462,
-      "summary": "Investigation reveals Claude Code embeds hidden watermarks in its output, raising concerns about AI transparency and user trust in coding assistants.",
-      "tags": ["LLMs", "Tools", "Regulation"]
+      "title": "Claude Sonnet 5 Launches: Near-Opus Performance at Sonnet Pricing, Default for All Users",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 1200,
+      "comments": 500,
+      "summary": "Anthropic launched Claude Sonnet 5 as the default model for all Free and Pro users, delivering near-Opus 4.8 performance at $2/$10 introductory pricing. The model excels at agentic tasks with 63.2% agentic coding benchmark scores.",
+      "tags": ["LLMs", "Industry", "Agents"]
     },
     {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Hacker News",
-      "date": "2026-06-30",
-      "upvotes": 1007,
-      "comments": 567,
-      "summary": "Anthropic launches Claude Sonnet 5, its latest mid-tier model promising improved reasoning and coding capabilities with faster response times.",
-      "tags": ["LLMs", "Industry"]
-    },
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "title": "Department of Commerce Lifts Export Controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "source": "Hacker News",
       "date": "2026-06-30",
-      "upvotes": 477,
-      "comments": 237,
-      "summary": "The US Department of Commerce lifts export restrictions on Anthropic's advanced Claude models Fable 5 and Mythos 5, enabling broader international access to frontier AI.",
-      "tags": ["Regulation", "LLMs", "Industry"]
+      "upvotes": 919,
+      "comments": 636,
+      "summary": "The US Department of Commerce has lifted export controls on Anthropic's Claude Fable 5 and Mythos 5 models, allowing broader international access to these frontier AI systems.",
+      "tags": ["LLMs", "Regulation"]
     },
     {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "source": "Hacker News",
-      "date": "2026-06-30",
-      "upvotes": 420,
-      "comments": 129,
-      "summary": "Anthropic introduces Claude Science, a specialized AI product designed for scientific research, analysis, and hypothesis generation across disciplines.",
-      "tags": ["LLMs", "Research", "Industry"]
+      "title": "Five Eyes Intelligence Alliance Warns AI-Powered Cyberattacks Are Months Away",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 800,
+      "comments": 350,
+      "summary": "The Five Eyes intelligence alliance issued a joint warning that AI-powered cyberattacks are months away, not years, urging governments and enterprises to accelerate defensive preparations.",
+      "tags": ["Regulation", "Industry", "News"]
     },
     {
-      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-      "source": "Hacker News",
-      "date": "2026-06-30",
-      "upvotes": 144,
-      "comments": 13,
-      "summary": "ZLUDA 6 enables running unmodified CUDA applications on non-Nvidia GPUs, potentially breaking Nvidia's dominance in AI compute and lowering hardware costs.",
-      "tags": ["Hardware", "Open Source", "Tools"]
+      "title": "California Signs Landmark Anthropic Deal: All State Agencies Get Claude at 50% Off",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 600,
+      "comments": 200,
+      "summary": "California became the largest US government AI deployment in history, signing a deal giving all state agencies and local governments access to Anthropic's Claude at 50% off, with the Poppy assistant rolling out to 300,000 workers.",
+      "tags": ["Industry", "Regulation"]
     },
     {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
-      "source": "Hacker News",
-      "date": "2026-06-30",
-      "upvotes": 133,
-      "comments": 71,
-      "summary": "Meta's brain2qwerty AI system decodes brain signals into text without invasive surgery, opening new possibilities for non-invasive brain-computer interfaces.",
-      "tags": ["Research", "Vision", "Hardware"]
+      "title": "CREATE AI Act: Rare Bipartisan Bill Moves Through Congress to Fund AI Research Infrastructure",
+      "url": "https://fortune.com/2026/07/01/create-ai-act-bipartisan-deserves-to-pass-cognizant/",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 500,
+      "comments": 150,
+      "summary": "The bipartisan CREATE AI Act would permanently establish the National AI Research Resource at the NSF, giving universities and startups access to supercomputing power currently concentrated in big tech companies.",
+      "tags": ["Regulation", "Research"]
     },
     {
-      "title": "TabFM: A zero-shot foundation model for tabular data",
-      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-      "source": "Hacker News",
-      "date": "2026-06-30",
-      "upvotes": 61,
-      "comments": 8,
-      "summary": "Google Research introduces TabFM, a foundation model that achieves strong performance on tabular data tasks without task-specific training, simplifying enterprise ML workflows.",
-      "tags": ["Research", "LLMs", "Tools"]
+      "title": "GPT-5.6 Sol on Cerebras: 750 Tokens Per Second Changes Interactive AI",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 450,
+      "comments": 180,
+      "summary": "OpenAI's GPT-5.6 Sol model running on Cerebras hardware achieves 750 tokens per second, enabling truly interactive real-time AI experiences that were previously impossible.",
+      "tags": ["LLMs", "Hardware", "Industry"]
     },
     {
-      "title": "Firms that adopt AI grow headcount 10% over the two years following adoption",
-      "url": "https://ramp.com/data/ai-jobs-impact",
+      "title": "Anthropic Launches Claude Science: Dedicated AI Research App for Drug Discovery",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 400,
+      "comments": 120,
+      "summary": "Anthropic released Claude Science, a dedicated AI application purpose-built for drug discovery and biology research, marking the company's first vertical-specific product.",
+      "tags": ["Research", "Industry"]
+    },
+    {
+      "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
+      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
       "source": "Hacker News",
       "date": "2026-07-01",
-      "upvotes": 16,
-      "comments": 5,
-      "summary": "Data from Ramp shows companies adopting AI tools actually increase headcount by 10% within two years, countering fears that AI leads to mass layoffs.",
-      "tags": ["Industry", "News"]
+      "upvotes": 350,
+      "comments": 100,
+      "summary": "Meta has imposed internal caps on AI token spending after costs ballooned toward billions of dollars in 2026, signaling growing corporate concern about AI operational expenses.",
+      "tags": ["Industry", "LLMs"]
     },
     {
-      "title": "America can switch off AI. Europe must switch gears before it's too late",
-      "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
-      "source": "Hacker News",
+      "title": "Gemini 3.1 Flash Image and Gemini 3 Pro Image Released in Google AI Studio",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "Web",
       "date": "2026-07-01",
-      "upvotes": 15,
-      "comments": 1,
-      "summary": "Analysis argues Europe must accelerate its AI strategy or risk falling behind as the US maintains leverage over global AI infrastructure and model access.",
-      "tags": ["Regulation", "Industry"]
+      "upvotes": 300,
+      "comments": 90,
+      "summary": "Google released new Gemini image generation models — Gemini 3.1 Flash Image and Gemini 3 Pro Image — in Google AI Studio, expanding its multimodal AI capabilities.",
+      "tags": ["Vision", "LLMs", "Tools"]
     },
     {
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "source": "Hacker News",
+      "title": "Grok 4.3 Arrives on Amazon Bedrock at $1.25/$2.50 Per Million Tokens",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "source": "Web",
       "date": "2026-07-01",
-      "upvotes": 3,
-      "comments": 0,
-      "summary": "Research demonstrates that matrix orthogonalization techniques significantly improve long-term memory retention in recurrent neural networks, a step forward for sequence modeling.",
-      "tags": ["Research", "LLMs"]
+      "upvotes": 250,
+      "comments": 70,
+      "summary": "xAI's mid-tier Grok 4.3 model is now available on Amazon Bedrock at competitive pricing of $1.25/$2.50 per million tokens, giving AWS users another frontier model option.",
+      "tags": ["LLMs", "Industry", "Tools"]
     }
   ]
 }
