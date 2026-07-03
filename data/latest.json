@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-07-02 04:00 UTC",
+  "generated_at": "2026-07-03 07:30 UTC",
   "stats": {
-    "reddit_threads": 5,
-    "articles_scanned": 50,
+    "reddit_threads": 2,
+    "articles_scanned": 55,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "Claude Sonnet 5 Launches: Near-Opus Performance at Sonnet Pricing, Default for All Users",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 1200,
-      "comments": 500,
-      "summary": "Anthropic launched Claude Sonnet 5 as the default model for all Free and Pro users, delivering near-Opus 4.8 performance at $2/$10 introductory pricing. The model excels at agentic tasks with 63.2% agentic coding benchmark scores.",
-      "tags": ["LLMs", "Industry", "Agents"]
-    },
-    {
-      "title": "Department of Commerce Lifts Export Controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "source": "Hacker News",
-      "date": "2026-06-30",
-      "upvotes": 919,
-      "comments": 636,
-      "summary": "The US Department of Commerce has lifted export controls on Anthropic's Claude Fable 5 and Mythos 5 models, allowing broader international access to these frontier AI systems.",
-      "tags": ["LLMs", "Regulation"]
+      "date": "2026-07-02",
+      "upvotes": 580,
+      "comments": 190,
+      "summary": "Spain has ordered a nationwide blacklist of Palantir Technologies, banning both public and private companies from working with the US data analytics giant. The move signals growing European pushback against surveillance-linked AI firms.",
+      "tags": ["Regulation", "Industry"]
     },
     {
-      "title": "Five Eyes Intelligence Alliance Warns AI-Powered Cyberattacks Are Months Away",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 800,
-      "comments": 350,
-      "summary": "The Five Eyes intelligence alliance issued a joint warning that AI-powered cyberattacks are months away, not years, urging governments and enterprises to accelerate defensive preparations.",
-      "tags": ["Regulation", "Industry", "News"]
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "source": "Hacker News",
+      "date": "2026-06-27",
+      "upvotes": 116,
+      "comments": 43,
+      "summary": "A classic essay resurfacing on HN about how reality contains far more detail than humans typically notice — relevant to AI researchers grappling with the complexity gap between human intuition and machine reasoning.",
+      "tags": ["Research"]
     },
     {
-      "title": "California Signs Landmark Anthropic Deal: All State Agencies Get Claude at 50% Off",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "title": "AI-Designed Vaccine Successfully Completes Initial Human Trials",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
       "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 600,
-      "comments": 200,
-      "summary": "California became the largest US government AI deployment in history, signing a deal giving all state agencies and local governments access to Anthropic's Claude at 50% off, with the Poppy assistant rolling out to 300,000 workers.",
-      "tags": ["Industry", "Regulation"]
-    },
-    {
-      "title": "CREATE AI Act: Rare Bipartisan Bill Moves Through Congress to Fund AI Research Infrastructure",
-      "url": "https://fortune.com/2026/07/01/create-ai-act-bipartisan-deserves-to-pass-cognizant/",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 500,
-      "comments": 150,
-      "summary": "The bipartisan CREATE AI Act would permanently establish the National AI Research Resource at the NSF, giving universities and startups access to supercomputing power currently concentrated in big tech companies.",
-      "tags": ["Regulation", "Research"]
-    },
-    {
-      "title": "GPT-5.6 Sol on Cerebras: 750 Tokens Per Second Changes Interactive AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 450,
-      "comments": 180,
-      "summary": "OpenAI's GPT-5.6 Sol model running on Cerebras hardware achieves 750 tokens per second, enabling truly interactive real-time AI experiences that were previously impossible.",
-      "tags": ["LLMs", "Hardware", "Industry"]
-    },
-    {
-      "title": "Anthropic Launches Claude Science: Dedicated AI Research App for Drug Discovery",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 400,
-      "comments": 120,
-      "summary": "Anthropic released Claude Science, a dedicated AI application purpose-built for drug discovery and biology research, marking the company's first vertical-specific product.",
+      "date": "2026-07-03",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Researchers at the University of Cambridge announced that an AI-designed vaccine has successfully completed initial human trials, marking the first time a vaccine's key component was designed entirely by artificial intelligence.",
       "tags": ["Research", "Industry"]
     },
     {
-      "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
-      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
       "source": "Hacker News",
-      "date": "2026-07-01",
-      "upvotes": 350,
-      "comments": 100,
-      "summary": "Meta has imposed internal caps on AI token spending after costs ballooned toward billions of dollars in 2026, signaling growing corporate concern about AI operational expenses.",
-      "tags": ["Industry", "LLMs"]
+      "date": "2026-07-02",
+      "upvotes": 57,
+      "comments": 61,
+      "summary": "A new technique called the 'short leash' method for AI-assisted coding promises better results by tightly constraining the agent's scope. The approach generated significant discussion on best practices for AI coding workflows.",
+      "tags": ["Agents", "Tools"]
     },
     {
-      "title": "Gemini 3.1 Flash Image and Gemini 3 Pro Image Released in Google AI Studio",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 300,
-      "comments": 90,
-      "summary": "Google released new Gemini image generation models — Gemini 3.1 Flash Image and Gemini 3 Pro Image — in Google AI Studio, expanding its multimodal AI capabilities.",
-      "tags": ["Vision", "LLMs", "Tools"]
+      "title": "Claude-real-video — any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "source": "Hacker News",
+      "date": "2026-07-02",
+      "upvotes": 74,
+      "comments": 24,
+      "summary": "An open-source tool that enables any LLM to process and understand video content. The project gained traction on GitHub for bridging the gap between text-only models and video understanding.",
+      "tags": ["Open Source", "LLMs", "Vision"]
     },
     {
-      "title": "Grok 4.3 Arrives on Amazon Bedrock at $1.25/$2.50 Per Million Tokens",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-1-2026",
+      "title": "Hybrid Light-Matter Particle Could Dramatically Speed Up AI Computing",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
       "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 250,
-      "comments": 70,
-      "summary": "xAI's mid-tier Grok 4.3 model is now available on Amazon Bedrock at competitive pricing of $1.25/$2.50 per million tokens, giving AWS users another frontier model option.",
-      "tags": ["LLMs", "Industry", "Tools"]
+      "date": "2026-07-03",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy, potentially replacing some electronic computing processes with ultra-efficient optical alternatives.",
+      "tags": ["Hardware", "Research"]
+    },
+    {
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "source": "Hacker News",
+      "date": "2026-07-02",
+      "upvotes": 24,
+      "comments": 22,
+      "summary": "Meta CEO Mark Zuckerberg acknowledged that AI agent development is progressing more slowly than anticipated, tempering expectations for autonomous AI systems despite massive industry investment.",
+      "tags": ["Agents", "Industry"]
+    },
+    {
+      "title": "Show HN: ctx – Search the coding agent history already on your machine",
+      "url": "https://github.com/ctxrs/ctx",
+      "source": "Hacker News",
+      "date": "2026-07-02",
+      "upvotes": 24,
+      "comments": 7,
+      "summary": "A new CLI tool that lets developers search through their coding agent interaction history stored locally. It indexes past AI coding sessions for easy retrieval and reference.",
+      "tags": ["Tools", "Agents", "Open Source"]
+    },
+    {
+      "title": "\"An AI Job Apocalypse?\" — Goldman Sachs Report",
+      "url": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
+      "source": "Hacker News",
+      "date": "2026-07-03",
+      "upvotes": 8,
+      "comments": 3,
+      "summary": "Goldman Sachs released a report examining the potential for AI-driven job displacement across industries, analyzing which sectors face the highest risk of automation and workforce disruption.",
+      "tags": ["Industry", "Regulation"]
+    },
+    {
+      "title": "Latest AI News: The Biggest AI Announcements Right Now",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
+      "source": "r/AISEOInsider",
+      "date": "2026-07-03",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "A roundup of major AI announcements including reports of over one million AI agents registering on a new platform, subsequent security vulnerabilities discovered, and Meta's acquisition of the company behind it.",
+      "tags": ["News", "Agents", "Industry"]
     }
   ]
 }
