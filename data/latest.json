@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-07-03 07:30 UTC",
+  "generated_at": "2026-07-04 06:50 UTC",
   "stats": {
-    "reddit_threads": 2,
-    "articles_scanned": 55,
+    "reddit_threads": 0,
+    "articles_scanned": 65,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
       "source": "Hacker News",
+      "date": "2026-07-03",
+      "upvotes": 267,
+      "comments": 124,
+      "summary": "A comprehensive guide to running state-of-the-art large language models locally on consumer hardware, sparking major discussion on Hacker News about self-hosted AI.",
+      "tags": ["LLMs", "Open Source"]
+    },
+    {
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "source": "Hacker News",
+      "date": "2026-07-03",
+      "upvotes": 232,
+      "comments": 87,
+      "summary": "A creative cost-optimization technique that converts code into images and uses vision models to OCR it back, cutting Fable API costs by 60% through token reduction.",
+      "tags": ["Vision", "Tools"]
+    },
+    {
+      "title": "Fable 5 Returns Globally After 19-Day Government Suspension",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-july-2-2026",
+      "source": "Web",
       "date": "2026-07-02",
-      "upvotes": 580,
-      "comments": 190,
-      "summary": "Spain has ordered a nationwide blacklist of Palantir Technologies, banning both public and private companies from working with the US data analytics giant. The move signals growing European pushback against surveillance-linked AI firms.",
-      "tags": ["Regulation", "Industry"]
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic's Fable 5 was restored worldwide after the US Commerce Department lifted export controls. Testing proved Opus 4.8 and GPT-5.5 could reproduce the same jailbreak that triggered the ban.",
+      "tags": ["LLMs", "Regulation", "News"]
     },
     {
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "title": "Claude Sonnet 5 Launches at $2/M Tokens, Approaching Opus Performance",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-july-1-2026",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic released Claude Sonnet 5 at $2/M input tokens with 63.2% agentic coding benchmark scores, 1M token context, and is now the default model for Free and Pro plans.",
+      "tags": ["LLMs", "Industry"]
+    },
+    {
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "url": "https://news.ycombinator.com/item?id=48771515",
       "source": "Hacker News",
-      "date": "2026-06-27",
-      "upvotes": 116,
-      "comments": 43,
-      "summary": "A classic essay resurfacing on HN about how reality contains far more detail than humans typically notice — relevant to AI researchers grappling with the complexity gap between human intuition and machine reasoning.",
-      "tags": ["Research"]
+      "date": "2026-07-03",
+      "upvotes": 129,
+      "comments": 156,
+      "summary": "A lively Hacker News discussion exploring novel approaches to leveraging LLMs for software development beyond traditional code completion.",
+      "tags": ["LLMs", "Tools"]
     },
     {
-      "title": "AI-Designed Vaccine Successfully Completes Initial Human Trials",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "title": "White House Advances Voluntary AI Model Standards, Announcement Expected Week of July 7",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
       "source": "Web",
       "date": "2026-07-03",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Researchers at the University of Cambridge announced that an AI-designed vaccine has successfully completed initial human trials, marking the first time a vaccine's key component was designed entirely by artificial intelligence.",
-      "tags": ["Research", "Industry"]
+      "summary": "The White House is finalizing voluntary standards for frontier AI model releases with a 30-day government review window. The framework implements Trump's June 2 executive order on AI security.",
+      "tags": ["Regulation", "News"]
     },
     {
-      "title": "The short leash AI coding method for beating Fable",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "source": "Hacker News",
-      "date": "2026-07-02",
-      "upvotes": 57,
-      "comments": 61,
-      "summary": "A new technique called the 'short leash' method for AI-assisted coding promises better results by tightly constraining the agent's scope. The approach generated significant discussion on best practices for AI coding workflows.",
-      "tags": ["Agents", "Tools"]
-    },
-    {
-      "title": "Claude-real-video — any LLM can watch a video",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "source": "Hacker News",
-      "date": "2026-07-02",
-      "upvotes": 74,
-      "comments": 24,
-      "summary": "An open-source tool that enables any LLM to process and understand video content. The project gained traction on GitHub for bridging the gap between text-only models and video understanding.",
-      "tags": ["Open Source", "LLMs", "Vision"]
-    },
-    {
-      "title": "Hybrid Light-Matter Particle Could Dramatically Speed Up AI Computing",
-      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "title": "OpenAI and Broadcom Unveil Jalapeño, First Custom LLM Inference Chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
       "source": "Web",
-      "date": "2026-07-03",
+      "date": "2026-06-24",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy, potentially replacing some electronic computing processes with ultra-efficient optical alternatives.",
-      "tags": ["Hardware", "Research"]
+      "summary": "OpenAI unveiled its first custom inference processor built with Broadcom, a reticle-sized ASIC designed from scratch for LLM workloads. Tape-out took just nine months with deployment slated for late 2026.",
+      "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
       "source": "Hacker News",
-      "date": "2026-07-02",
-      "upvotes": 24,
-      "comments": 22,
-      "summary": "Meta CEO Mark Zuckerberg acknowledged that AI agent development is progressing more slowly than anticipated, tempering expectations for autonomous AI systems despite massive industry investment.",
-      "tags": ["Agents", "Industry"]
+      "date": "2026-07-03",
+      "upvotes": 147,
+      "comments": 75,
+      "summary": "A provocative essay arguing that prohibiting AI tool usage during academic presentations constitutes discrimination, sparking heated debate about AI in education.",
+      "tags": ["LLMs", "News"]
     },
     {
-      "title": "Show HN: ctx – Search the coding agent history already on your machine",
-      "url": "https://github.com/ctxrs/ctx",
+      "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
+      "url": "https://www.bbc.com/news/articles/crrpggegwe0o",
+      "source": "Web",
+      "date": "2026-06-05",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "University of Cambridge researchers completed the first human trial of a vaccine whose key component was designed entirely by AI. The universal coronavirus vaccine targets all known strains.",
+      "tags": ["Research", "News"]
+    },
+    {
+      "title": "New Serious Vulnerabilities Spiked Around Release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
       "source": "Hacker News",
-      "date": "2026-07-02",
-      "upvotes": 24,
+      "date": "2026-07-03",
+      "upvotes": 33,
       "comments": 7,
-      "summary": "A new CLI tool that lets developers search through their coding agent interaction history stored locally. It indexes past AI coding sessions for easy retrieval and reference.",
-      "tags": ["Tools", "Agents", "Open Source"]
-    },
-    {
-      "title": "\"An AI Job Apocalypse?\" — Goldman Sachs Report",
-      "url": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
-      "source": "Hacker News",
-      "date": "2026-07-03",
-      "upvotes": 8,
-      "comments": 3,
-      "summary": "Goldman Sachs released a report examining the potential for AI-driven job displacement across industries, analyzing which sectors face the highest risk of automation and workforce disruption.",
-      "tags": ["Industry", "Regulation"]
-    },
-    {
-      "title": "Latest AI News: The Biggest AI Announcements Right Now",
-      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
-      "source": "r/AISEOInsider",
-      "date": "2026-07-03",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "A roundup of major AI announcements including reports of over one million AI agents registering on a new platform, subsequent security vulnerabilities discovered, and Meta's acquisition of the company behind it.",
-      "tags": ["News", "Agents", "Industry"]
+      "summary": "Epoch AI data shows a notable spike in high-severity CVEs coinciding with the release of Claude Mythos Preview, raising questions about AI's role in vulnerability discovery.",
+      "tags": ["LLMs", "Research"]
     }
   ]
 }
