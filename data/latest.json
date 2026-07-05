@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04 06:50 UTC",
+  "generated_at": "2026-07-05 12:00 UTC",
   "stats": {
     "reddit_threads": 0,
     "articles_scanned": 65,
@@ -7,103 +7,103 @@
   },
   "stories": [
     {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
       "source": "Hacker News",
-      "date": "2026-07-03",
-      "upvotes": 267,
-      "comments": 124,
-      "summary": "A comprehensive guide to running state-of-the-art large language models locally on consumer hardware, sparking major discussion on Hacker News about self-hosted AI.",
-      "tags": ["LLMs", "Open Source"]
+      "date": "2026-07-04",
+      "upvotes": 193,
+      "comments": 62,
+      "summary": "OpenAI's GPT-5.5 Codex is exhibiting reasoning-token clustering behavior that may cause degraded performance in coding tasks, sparking widespread discussion on GitHub about the model's reliability.",
+      "tags": ["LLMs", "Tools"]
     },
     {
-      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
-      "url": "https://github.com/teamchong/pxpipe",
-      "source": "Hacker News",
+      "title": "China's Z.ai GLM-5.2 Model Enters Competitive AI Race Against Anthropic and OpenAI",
+      "url": "https://www.japantimes.co.jp/business/2026/07/03/tech/china-ai-catch-up/",
+      "source": "Web",
       "date": "2026-07-03",
-      "upvotes": 232,
-      "comments": 87,
-      "summary": "A creative cost-optimization technique that converts code into images and uses vision models to OCR it back, cutting Fable API costs by 60% through token reduction.",
-      "tags": ["Vision", "Tools"]
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Z.ai's GLM-5.2 model demonstrates competitive capabilities comparable to leading frontier models from Anthropic and OpenAI, signaling China's accelerating progress and the success of its 'fast follower' approach in the global AI race.",
+      "tags": ["LLMs", "Industry"]
     },
     {
-      "title": "Fable 5 Returns Globally After 19-Day Government Suspension",
-      "url": "https://aitoolsrecap.com/Blog/ai-news-july-2-2026",
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "source": "Hacker News",
+      "date": "2026-07-04",
+      "upvotes": 126,
+      "comments": 38,
+      "summary": "A provocative essay exploring how improvements in AI model capabilities can paradoxically lead to worse tool-use behavior, as models become more confident but less reliable at following structured tool protocols.",
+      "tags": ["LLMs", "Tools"]
+    },
+    {
+      "title": "Anthropic Discusses Custom AI Chip Partnership With Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
       "source": "Web",
       "date": "2026-07-02",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Anthropic's Fable 5 was restored worldwide after the US Commerce Department lifted export controls. Testing proved Opus 4.8 and GPT-5.5 could reproduce the same jailbreak that triggered the ban.",
-      "tags": ["LLMs", "Regulation", "News"]
-    },
-    {
-      "title": "Claude Sonnet 5 Launches at $2/M Tokens, Approaching Opus Performance",
-      "url": "https://aitoolsrecap.com/Blog/ai-news-july-1-2026",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Anthropic released Claude Sonnet 5 at $2/M input tokens with 63.2% agentic coding benchmark scores, 1M token context, and is now the default model for Free and Pro plans.",
-      "tags": ["LLMs", "Industry"]
-    },
-    {
-      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-      "url": "https://news.ycombinator.com/item?id=48771515",
-      "source": "Hacker News",
-      "date": "2026-07-03",
-      "upvotes": 129,
-      "comments": 156,
-      "summary": "A lively Hacker News discussion exploring novel approaches to leveraging LLMs for software development beyond traditional code completion.",
-      "tags": ["LLMs", "Tools"]
-    },
-    {
-      "title": "White House Advances Voluntary AI Model Standards, Announcement Expected Week of July 7",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
-      "source": "Web",
-      "date": "2026-07-03",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "The White House is finalizing voluntary standards for frontier AI model releases with a 30-day government review window. The framework implements Trump's June 2 executive order on AI security.",
-      "tags": ["Regulation", "News"]
-    },
-    {
-      "title": "OpenAI and Broadcom Unveil Jalapeño, First Custom LLM Inference Chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-      "source": "Web",
-      "date": "2026-06-24",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "OpenAI unveiled its first custom inference processor built with Broadcom, a reticle-sized ASIC designed from scratch for LLM workloads. Tape-out took just nine months with deployment slated for late 2026.",
+      "summary": "Anthropic is in early discussions with Samsung to develop a custom AI chip, joining OpenAI and others seeking to reduce reliance on Nvidia for inference hardware.",
       "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
-      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "source": "Hacker News",
-      "date": "2026-07-03",
-      "upvotes": 147,
-      "comments": 75,
-      "summary": "A provocative essay arguing that prohibiting AI tool usage during academic presentations constitutes discrimination, sparking heated debate about AI in education.",
-      "tags": ["LLMs", "News"]
-    },
-    {
-      "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-      "url": "https://www.bbc.com/news/articles/crrpggegwe0o",
+      "title": "Microsoft Launches $2.5 Billion Frontier Company for Enterprise AI Deployment",
+      "url": "https://techstartups.com/2026/07/02/microsoft-launches-frontier-company-with-2-5b-to-help-enterprises-choose-the-best-ai-models-and-maximize-roi/",
       "source": "Web",
-      "date": "2026-06-05",
+      "date": "2026-07-02",
       "upvotes": 0,
       "comments": 0,
-      "summary": "University of Cambridge researchers completed the first human trial of a vaccine whose key component was designed entirely by AI. The universal coronavirus vaccine targets all known strains.",
-      "tags": ["Research", "News"]
+      "summary": "Microsoft announced Microsoft Frontier Company, backed by $2.5B and 6,000 engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems — following Amazon's similar $1B announcement.",
+      "tags": ["Industry", "Agents"]
     },
     {
-      "title": "New Serious Vulnerabilities Spiked Around Release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "title": "Elon Musk Reveals AI Device Prototype to SpaceX Investors",
+      "url": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b",
+      "source": "Web",
+      "date": "2026-07-02",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Elon Musk unveiled a new AI device prototype to SpaceX investors, signaling expansion into consumer AI hardware beyond aerospace and electric vehicles.",
+      "tags": ["Hardware", "Industry"]
+    },
+    {
+      "title": "New York Enacts First-of-Its-Kind Law Requiring AI-Generated Ad Disclosures",
+      "url": "https://www.foxnews.com/media/new-york-makes-history-first-of-its-kind-law-regulating-ai-powered-commercials",
+      "source": "Web",
+      "date": "2026-07-02",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "New York became the first state requiring clear disclosure labels on ads featuring AI-generated synthetic performers, with fines up to $5,000 for repeat violations. SAG-AFTRA backed the transparency measure.",
+      "tags": ["Regulation", "News"]
+    },
+    {
+      "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+      "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
       "source": "Hacker News",
-      "date": "2026-07-03",
-      "upvotes": 33,
-      "comments": 7,
-      "summary": "Epoch AI data shows a notable spike in high-severity CVEs coinciding with the release of Claude Mythos Preview, raising questions about AI's role in vulnerability discovery.",
+      "date": "2026-07-04",
+      "upvotes": 13,
+      "comments": 20,
+      "summary": "Lovable shares hard-won lessons from spending $85K on LLM tokens while scaling agentic coding workflows, offering practical insights on cost management and agent reliability.",
+      "tags": ["Agents", "Tools"]
+    },
+    {
+      "title": "MIT: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/index%2Ephp/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+      "source": "Web",
+      "date": "2026-06-30",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "MIT computer scientist Phillip Isola cuts through the hype around agentic AI to explain how AI agents actually work, their current limitations, and what the future might hold for this rapidly advancing technology.",
+      "tags": ["Agents", "Research"]
+    },
+    {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "source": "Hacker News",
+      "date": "2026-07-04",
+      "upvotes": 14,
+      "comments": 0,
+      "summary": "A technical deep-dive into using in-memory mapping layers to reduce computational overload in LLM-based applications, improving response latency for spatial and compositional queries.",
       "tags": ["LLMs", "Research"]
     }
   ]
