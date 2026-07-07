@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-07-05 12:00 UTC",
+  "generated_at": "2026-07-07 08:15 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 65,
+    "articles_scanned": 52,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "source": "Hacker News",
-      "date": "2026-07-04",
-      "upvotes": 193,
-      "comments": 62,
-      "summary": "OpenAI's GPT-5.5 Codex is exhibiting reasoning-token clustering behavior that may cause degraded performance in coding tasks, sparking widespread discussion on GitHub about the model's reliability.",
-      "tags": ["LLMs", "Tools"]
+      "date": "2026-07-06",
+      "upvotes": 368,
+      "comments": 230,
+      "summary": "Analysis of how GLM 5.2's release signals a broader collapse in AI margins as open-source models close the gap with proprietary offerings, threatening the business models of major AI companies.",
+      "tags": ["LLMs", "Industry", "Open Source"]
     },
     {
-      "title": "China's Z.ai GLM-5.2 Model Enters Competitive AI Race Against Anthropic and OpenAI",
-      "url": "https://www.japantimes.co.jp/business/2026/07/03/tech/china-ai-catch-up/",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "source": "Hacker News",
+      "date": "2026-07-06",
+      "upvotes": 353,
+      "comments": 128,
+      "summary": "Anthropic publishes new research proposing a global workspace architecture for language models, drawing inspiration from cognitive science theories of consciousness to improve multi-step reasoning.",
+      "tags": ["Research", "LLMs"]
+    },
+    {
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "source": "Hacker News",
+      "date": "2026-07-06",
+      "upvotes": 319,
+      "comments": 220,
+      "summary": "AMD launches the Ryzen AI Halo, a $4,000 developer kit aimed at local AI inference and model development, signaling a push to make dedicated AI hardware more accessible to indie developers.",
+      "tags": ["Hardware", "Tools"]
+    },
+    {
+      "title": "China's AI companion rules: what Beijing is really going after",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "source": "Web",
+      "date": "2026-07-06",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "China introduces new regulations targeting AI companion apps, focusing on emotional manipulation, data privacy, and the psychological impact of AI relationships on vulnerable users.",
+      "tags": ["Regulation", "AI"]
+    },
+    {
+      "title": "The 'first' AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "Web",
+      "date": "2026-07-06",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Security researchers document what's being called the first AI-orchestrated ransomware attack, though analysis reveals human operators were still required at critical decision points.",
+      "tags": ["Industry", "Agents"]
+    },
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "Web",
+      "date": "2026-07-06",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Microsoft cuts nearly 5,000 jobs in its latest round of layoffs, with AI-driven automation cited as a key factor as the company restructures toward AI-first operations.",
+      "tags": ["Industry", "AI"]
+    },
+    {
+      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+      "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
       "source": "Web",
       "date": "2026-07-03",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Z.ai's GLM-5.2 model demonstrates competitive capabilities comparable to leading frontier models from Anthropic and OpenAI, signaling China's accelerating progress and the success of its 'fast follower' approach in the global AI race.",
+      "summary": "Pharmaceutical giant Takeda signs a landmark $600 million partnership with AI drug discovery firm Insilico Medicine to accelerate novel therapeutic development using generative AI.",
+      "tags": ["Industry", "Research"]
+    },
+    {
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "source": "Hacker News",
+      "date": "2026-07-06",
+      "upvotes": 202,
+      "comments": 48,
+      "summary": "Ternlight is a tiny 7MB embedding model that runs entirely in the browser via WebAssembly, enabling semantic search and NLP tasks without any server or API dependency.",
+      "tags": ["Open Source", "Tools", "LLMs"]
+    },
+    {
+      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic launches Claude Sonnet 5 and restores access to its Fable and Mythos frontier models following a federal export control review, expanding its enterprise AI offerings.",
       "tags": ["LLMs", "Industry"]
     },
     {
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
       "source": "Hacker News",
-      "date": "2026-07-04",
-      "upvotes": 126,
-      "comments": 38,
-      "summary": "A provocative essay exploring how improvements in AI model capabilities can paradoxically lead to worse tool-use behavior, as models become more confident but less reliable at following structured tool protocols.",
-      "tags": ["LLMs", "Tools"]
-    },
-    {
-      "title": "Anthropic Discusses Custom AI Chip Partnership With Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "Web",
-      "date": "2026-07-02",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Anthropic is in early discussions with Samsung to develop a custom AI chip, joining OpenAI and others seeking to reduce reliance on Nvidia for inference hardware.",
-      "tags": ["Hardware", "Industry"]
-    },
-    {
-      "title": "Microsoft Launches $2.5 Billion Frontier Company for Enterprise AI Deployment",
-      "url": "https://techstartups.com/2026/07/02/microsoft-launches-frontier-company-with-2-5b-to-help-enterprises-choose-the-best-ai-models-and-maximize-roi/",
-      "source": "Web",
-      "date": "2026-07-02",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Microsoft announced Microsoft Frontier Company, backed by $2.5B and 6,000 engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems — following Amazon's similar $1B announcement.",
-      "tags": ["Industry", "Agents"]
-    },
-    {
-      "title": "Elon Musk Reveals AI Device Prototype to SpaceX Investors",
-      "url": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b",
-      "source": "Web",
-      "date": "2026-07-02",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Elon Musk unveiled a new AI device prototype to SpaceX investors, signaling expansion into consumer AI hardware beyond aerospace and electric vehicles.",
-      "tags": ["Hardware", "Industry"]
-    },
-    {
-      "title": "New York Enacts First-of-Its-Kind Law Requiring AI-Generated Ad Disclosures",
-      "url": "https://www.foxnews.com/media/new-york-makes-history-first-of-its-kind-law-regulating-ai-powered-commercials",
-      "source": "Web",
-      "date": "2026-07-02",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "New York became the first state requiring clear disclosure labels on ads featuring AI-generated synthetic performers, with fines up to $5,000 for repeat violations. SAG-AFTRA backed the transparency measure.",
-      "tags": ["Regulation", "News"]
-    },
-    {
-      "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
-      "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
-      "source": "Hacker News",
-      "date": "2026-07-04",
-      "upvotes": 13,
-      "comments": 20,
-      "summary": "Lovable shares hard-won lessons from spending $85K on LLM tokens while scaling agentic coding workflows, offering practical insights on cost management and agent reliability.",
-      "tags": ["Agents", "Tools"]
-    },
-    {
-      "title": "MIT: What is agentic AI today, and what do we want it to be?",
-      "url": "https://news.mit.edu/index%2Ephp/2026/agentic-ai-and-what-do-we-want-it-be-0630",
-      "source": "Web",
-      "date": "2026-06-30",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "MIT computer scientist Phillip Isola cuts through the hype around agentic AI to explain how AI agents actually work, their current limitations, and what the future might hold for this rapidly advancing technology.",
-      "tags": ["Agents", "Research"]
-    },
-    {
-      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-      "source": "Hacker News",
-      "date": "2026-07-04",
-      "upvotes": 14,
-      "comments": 0,
-      "summary": "A technical deep-dive into using in-memory mapping layers to reduce computational overload in LLM-based applications, improving response latency for spatial and compositional queries.",
-      "tags": ["LLMs", "Research"]
+      "date": "2026-07-06",
+      "upvotes": 169,
+      "comments": 51,
+      "summary": "OfficeCLI is an open-source command-line tool that enables AI agents to programmatically read, edit, and generate Microsoft Office documents, bridging the gap between AI automation and legacy office formats.",
+      "tags": ["Agents", "Open Source", "Tools"]
     }
   ]
 }
