@@ -1,110 +1,130 @@
 {
-  "generated_at": "2026-07-07 08:15 UTC",
+  "generated_at": "2026-07-08 05:00 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 52,
+    "articles_scanned": 50,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
       "source": "Hacker News",
-      "date": "2026-07-06",
-      "upvotes": 368,
-      "comments": 230,
-      "summary": "Analysis of how GLM 5.2's release signals a broader collapse in AI margins as open-source models close the gap with proprietary offerings, threatening the business models of major AI companies.",
-      "tags": ["LLMs", "Industry", "Open Source"]
+      "date": "2026-07-07",
+      "upvotes": 496,
+      "comments": 163,
+      "summary": "A deep dive into the EU's Chat Control regulation proposals, which would mandate client-side scanning of encrypted messages — raising major privacy and AI surveillance concerns.",
+      "tags": ["Regulation", "News"]
     },
     {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
+      "title": "Show HN: Davit — An Apple Containers UI",
+      "url": "https://davit.app",
       "source": "Hacker News",
-      "date": "2026-07-06",
-      "upvotes": 353,
-      "comments": 128,
-      "summary": "Anthropic publishes new research proposing a global workspace architecture for language models, drawing inspiration from cognitive science theories of consciousness to improve multi-step reasoning.",
-      "tags": ["Research", "LLMs"]
+      "date": "2026-07-07",
+      "upvotes": 242,
+      "comments": 51,
+      "summary": "Davit is a new GUI for Apple's containerization framework, simplifying container management on macOS with a native interface.",
+      "tags": ["Tools", "Open Source"]
     },
     {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "title": "Beijing Looks at Curbing Overseas Access to China's Top AI Models",
+      "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Chinese authorities have held meetings with top tech firms about potentially restricting overseas access to China's most advanced AI models, including unreleased ones, in a move that could reshape the global AI landscape.",
+      "tags": ["Regulation", "Industry", "LLMs"]
+    },
+    {
+      "title": "We're Extending Access to Fable 5 on All Paid Plans Through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
       "source": "Hacker News",
-      "date": "2026-07-06",
-      "upvotes": 319,
-      "comments": 220,
-      "summary": "AMD launches the Ryzen AI Halo, a $4,000 developer kit aimed at local AI inference and model development, signaling a push to make dedicated AI hardware more accessible to indie developers.",
-      "tags": ["Hardware", "Tools"]
-    },
-    {
-      "title": "China's AI companion rules: what Beijing is really going after",
-      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-      "source": "Web",
-      "date": "2026-07-06",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "China introduces new regulations targeting AI companion apps, focusing on emotional manipulation, data privacy, and the psychological impact of AI relationships on vulnerable users.",
-      "tags": ["Regulation", "AI"]
-    },
-    {
-      "title": "The 'first' AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "Web",
-      "date": "2026-07-06",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Security researchers document what's being called the first AI-orchestrated ransomware attack, though analysis reveals human operators were still required at critical decision points.",
-      "tags": ["Industry", "Agents"]
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "Web",
-      "date": "2026-07-06",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Microsoft cuts nearly 5,000 jobs in its latest round of layoffs, with AI-driven automation cited as a key factor as the company restructures toward AI-first operations.",
-      "tags": ["Industry", "AI"]
-    },
-    {
-      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
-      "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
-      "source": "Web",
-      "date": "2026-07-03",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Pharmaceutical giant Takeda signs a landmark $600 million partnership with AI drug discovery firm Insilico Medicine to accelerate novel therapeutic development using generative AI.",
-      "tags": ["Industry", "Research"]
-    },
-    {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "source": "Hacker News",
-      "date": "2026-07-06",
-      "upvotes": 202,
-      "comments": 48,
-      "summary": "Ternlight is a tiny 7MB embedding model that runs entirely in the browser via WebAssembly, enabling semantic search and NLP tasks without any server or API dependency.",
-      "tags": ["Open Source", "Tools", "LLMs"]
-    },
-    {
-      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
-      "source": "Web",
-      "date": "2026-07-01",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Anthropic launches Claude Sonnet 5 and restores access to its Fable and Mythos frontier models following a federal export control review, expanding its enterprise AI offerings.",
+      "date": "2026-07-07",
+      "upvotes": 110,
+      "comments": 108,
+      "summary": "Anthropic is extending access to its Fable 5 frontier model across all paid Claude plans through July 12, making advanced capabilities more widely available.",
       "tags": ["LLMs", "Industry"]
     },
     {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "title": "Show HN: Rowboat — Open-Source, Local-First Alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
       "source": "Hacker News",
-      "date": "2026-07-06",
-      "upvotes": 169,
-      "comments": 51,
-      "summary": "OfficeCLI is an open-source command-line tool that enables AI agents to programmatically read, edit, and generate Microsoft Office documents, bridging the gap between AI automation and legacy office formats.",
-      "tags": ["Agents", "Open Source", "Tools"]
+      "date": "2026-07-07",
+      "upvotes": 118,
+      "comments": 31,
+      "summary": "Rowboat is a new open-source, local-first desktop application that serves as an alternative to Claude Desktop, emphasizing privacy and offline capabilities.",
+      "tags": ["Open Source", "LLMs", "Tools"]
+    },
+    {
+      "title": "Meta Launches Muse Image AI Generator, Users Push Back Over Use of Their Photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Meta has rolled out Muse Image, a new AI image generator, but users are already raising concerns about the platform using their photos for training data without consent.",
+      "tags": ["Vision", "Industry", "Regulation"]
+    },
+    {
+      "title": "Why the Rise of Open Source AI Isn't Hurting Anthropic... Yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Analysis of how Anthropic's enterprise focus and frontier model positioning have so far shielded it from open-source AI competition, though the landscape is shifting rapidly.",
+      "tags": ["Industry", "LLMs", "Open Source"]
+    },
+    {
+      "title": "Microsoft Joins AI Cost-Cutting Trend by Relying More on Its Own Models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Microsoft is shifting to rely more heavily on its own AI models to reduce costs, joining a broader industry trend of companies seeking to cut expensive third-party AI dependencies.",
+      "tags": ["Industry", "LLMs"]
+    },
+    {
+      "title": "Samsung Estimates 19-Fold Rise in Q2 Operating Profit, But Shares Slide on AI Jitters",
+      "url": "https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Samsung reported a massive 19-fold jump in Q2 operating profit driven by AI chip demand, but shares fell as investors worry the AI boom may be losing momentum.",
+      "tags": ["Hardware", "Industry"]
+    },
+    {
+      "title": "Discord Admits AI Moderation Bug Wrongfully Banned Users Over Harmless Images",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Discord has acknowledged a bug in its AI-powered moderation system that incorrectly flagged harmless images and banned users, raising questions about automated content moderation reliability.",
+      "tags": ["Agents", "Industry", "Regulation"]
+    },
+    {
+      "title": "The First American Autonomous Ground Vehicles Are Fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Forterra's autonomous Lancer vehicles have become the first American-made autonomous ground combat vehicles deployed in active warfare in Ukraine.",
+      "tags": ["Agents", "Hardware", "News"]
+    },
+    {
+      "title": "Insilico Medicine Advances AI Drug for IPF to Phase III Trials",
+      "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-phase-iii-trials/",
+      "source": "Web",
+      "date": "2026-07-07",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Insilico Medicine has advanced its AI-discovered drug for idiopathic pulmonary fibrosis to Phase III human clinical trials, marking a milestone for AI-driven pharmaceutical development.",
+      "tags": ["Research", "Industry"]
     }
   ]
 }
