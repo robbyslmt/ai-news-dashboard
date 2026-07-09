@@ -1,0 +1,133 @@
+#!/usr/bin/env python3
+"""Build the final dashboard JSON from collected HN stories + enrichment."""
+import json
+from datetime import datetime, timezone
+from pathlib import Path
+
+BASE = Path(__file__).parent
+DATA = BASE / "data"
+
+stories = [
+    {
+        "title": "Chatto is now open source",
+        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 818,
+        "comments": 217,
+        "summary": "Chatto, a snappy self-hostable group/team chat app built over the past year, has been released as open source and is installable via Homebrew (chatto init / chatto run).",
+        "tags": ["Open Source", "Tools"],
+    },
+    {
+        "title": "GPT-Live",
+        "url": "https://openai.com/index/introducing-gpt-live/",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 642,
+        "comments": 422,
+        "summary": "OpenAI launched GPT-Live, a new generation of voice models for natural human-AI interaction that now power ChatGPT Voice with more conversational, real-time speech.",
+        "tags": ["LLMs", "News"],
+    },
+    {
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 489,
+        "comments": 101,
+        "summary": "The FTC secured a right-to-repair settlement with John Deere, letting farmers independently fix tractors and agricultural equipment rather than relying solely on authorized dealers.",
+        "tags": ["Regulation", "News"],
+    },
+    {
+        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+        "url": "https://mistral.ai/news/robostral-navigate/",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 435,
+        "comments": 97,
+        "summary": "Mistral introduced Robostral Navigate, a single-camera AI navigation model that brings state-of-the-art, seamless navigation to robots from minimal onboard sensing.",
+        "tags": ["Research", "Hardware"],
+    },
+    {
+        "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+        "url": "https://cognition.com/blog/swe-1-7",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 260,
+        "comments": 132,
+        "summary": "Cognition released SWE-1.7, its most capable coding model yet, reaching frontier-level intelligence at a fraction of the cost via RL improvements; it is available in Devin via Cerebras at 1000 TPS.",
+        "tags": ["LLMs", "Agents"],
+    },
+    {
+        "title": "I think I have LLM burnout",
+        "url": "https://www.alecscollon.com/blog/llm-burnout/",
+        "source": "Hacker News",
+        "date": "2026-07-09",
+        "upvotes": 208,
+        "comments": 143,
+        "summary": "A developer's reflective essay on LLM burnout: after hours of daily interaction with coding assistants, the repetitive writing patterns and constant review burden are wearing them out.",
+        "tags": ["News"],
+    },
+    {
+        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+        "url": "https://microsoft.github.io/flint-chart/#/",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 234,
+        "comments": 88,
+        "summary": "Microsoft open-sourced Flint, a visualization language designed to help AI agents render charts and structured visual output, shown in a live GitHub Pages demo.",
+        "tags": ["Agents", "Tools"],
+    },
+    {
+        "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+        "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 109,
+        "comments": 52,
+        "summary": "A hands-on build-off pits Grok 4.5, GPT-5.5, and Claude against each other constructing the same applications to compare real-world coding and product-build quality.",
+        "tags": ["LLMs", "News"],
+    },
+    {
+        "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+        "url": "https://mira-wm.com/",
+        "source": "Hacker News",
+        "date": "2026-07-09",
+        "upvotes": 43,
+        "comments": 9,
+        "summary": "MIRA trains interactive multiplayer world models on Rocket League gameplay, learning to simulate the dynamics of a real-time multi-agent environment from observation.",
+        "tags": ["Research"],
+    },
+    {
+        "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+        "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+        "source": "Hacker News",
+        "date": "2026-07-08",
+        "upvotes": 27,
+        "comments": 6,
+        "summary": "Databricks shares an internal benchmark evaluating coding agents on real engineering tasks across its multi-million-line codebase (Python, Go, TypeScript, Scala), surfacing cost/performance insights.",
+        "tags": ["Research", "Agents"],
+    },
+]
+
+for s in stories:
+    s["_score"] = s["upvotes"] * 2 + s["comments"]
+stories.sort(key=lambda x: x["_score"], reverse=True)
+for s in stories:
+    del s["_score"]
+
+output = {
+    "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+    "stats": {
+        "reddit_threads": 0,
+        "articles_scanned": 50,
+        "subreddits_scanned": 7,
+    },
+    "stories": stories,
+}
+
+out_path = DATA / "latest.json"
+with open(out_path, "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=2, ensure_ascii=False)
+
+print(f"Wrote {len(stories)} stories to {out_path}")

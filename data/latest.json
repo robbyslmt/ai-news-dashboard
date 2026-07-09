@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 05:00 UTC",
+  "generated_at": "2026-07-09 04:35 UTC",
   "stats": {
     "reddit_threads": 0,
     "articles_scanned": 50,
@@ -7,124 +7,132 @@
   },
   "stories": [
     {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
       "source": "Hacker News",
-      "date": "2026-07-07",
-      "upvotes": 496,
-      "comments": 163,
-      "summary": "A deep dive into the EU's Chat Control regulation proposals, which would mandate client-side scanning of encrypted messages — raising major privacy and AI surveillance concerns.",
-      "tags": ["Regulation", "News"]
+      "date": "2026-07-08",
+      "upvotes": 818,
+      "comments": 217,
+      "summary": "Chatto, a snappy self-hostable group/team chat app built over the past year, has been released as open source and is installable via Homebrew (chatto init / chatto run).",
+      "tags": [
+        "Open Source",
+        "Tools"
+      ]
     },
     {
-      "title": "Show HN: Davit — An Apple Containers UI",
-      "url": "https://davit.app",
+      "title": "GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
       "source": "Hacker News",
-      "date": "2026-07-07",
-      "upvotes": 242,
-      "comments": 51,
-      "summary": "Davit is a new GUI for Apple's containerization framework, simplifying container management on macOS with a native interface.",
-      "tags": ["Tools", "Open Source"]
+      "date": "2026-07-08",
+      "upvotes": 642,
+      "comments": 422,
+      "summary": "OpenAI launched GPT-Live, a new generation of voice models for natural human-AI interaction that now power ChatGPT Voice with more conversational, real-time speech.",
+      "tags": [
+        "LLMs",
+        "News"
+      ]
     },
     {
-      "title": "Beijing Looks at Curbing Overseas Access to China's Top AI Models",
-      "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Chinese authorities have held meetings with top tech firms about potentially restricting overseas access to China's most advanced AI models, including unreleased ones, in a move that could reshape the global AI landscape.",
-      "tags": ["Regulation", "Industry", "LLMs"]
-    },
-    {
-      "title": "We're Extending Access to Fable 5 on All Paid Plans Through July 12",
-      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "source": "Hacker News",
-      "date": "2026-07-07",
-      "upvotes": 110,
-      "comments": 108,
-      "summary": "Anthropic is extending access to its Fable 5 frontier model across all paid Claude plans through July 12, making advanced capabilities more widely available.",
-      "tags": ["LLMs", "Industry"]
+      "date": "2026-07-08",
+      "upvotes": 489,
+      "comments": 101,
+      "summary": "The FTC secured a right-to-repair settlement with John Deere, letting farmers independently fix tractors and agricultural equipment rather than relying solely on authorized dealers.",
+      "tags": [
+        "Regulation",
+        "News"
+      ]
     },
     {
-      "title": "Show HN: Rowboat — Open-Source, Local-First Alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
       "source": "Hacker News",
-      "date": "2026-07-07",
-      "upvotes": 118,
-      "comments": 31,
-      "summary": "Rowboat is a new open-source, local-first desktop application that serves as an alternative to Claude Desktop, emphasizing privacy and offline capabilities.",
-      "tags": ["Open Source", "LLMs", "Tools"]
+      "date": "2026-07-08",
+      "upvotes": 435,
+      "comments": 97,
+      "summary": "Mistral introduced Robostral Navigate, a single-camera AI navigation model that brings state-of-the-art, seamless navigation to robots from minimal onboard sensing.",
+      "tags": [
+        "Research",
+        "Hardware"
+      ]
     },
     {
-      "title": "Meta Launches Muse Image AI Generator, Users Push Back Over Use of Their Photos",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Meta has rolled out Muse Image, a new AI image generator, but users are already raising concerns about the platform using their photos for training data without consent.",
-      "tags": ["Vision", "Industry", "Regulation"]
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "source": "Hacker News",
+      "date": "2026-07-08",
+      "upvotes": 260,
+      "comments": 132,
+      "summary": "Cognition released SWE-1.7, its most capable coding model yet, reaching frontier-level intelligence at a fraction of the cost via RL improvements; it is available in Devin via Cerebras at 1000 TPS.",
+      "tags": [
+        "LLMs",
+        "Agents"
+      ]
     },
     {
-      "title": "Why the Rise of Open Source AI Isn't Hurting Anthropic... Yet",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Analysis of how Anthropic's enterprise focus and frontier model positioning have so far shielded it from open-source AI competition, though the landscape is shifting rapidly.",
-      "tags": ["Industry", "LLMs", "Open Source"]
+      "title": "I think I have LLM burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "source": "Hacker News",
+      "date": "2026-07-09",
+      "upvotes": 208,
+      "comments": 143,
+      "summary": "A developer's reflective essay on LLM burnout: after hours of daily interaction with coding assistants, the repetitive writing patterns and constant review burden are wearing them out.",
+      "tags": [
+        "News"
+      ]
     },
     {
-      "title": "Microsoft Joins AI Cost-Cutting Trend by Relying More on Its Own Models",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Microsoft is shifting to rely more heavily on its own AI models to reduce costs, joining a broader industry trend of companies seeking to cut expensive third-party AI dependencies.",
-      "tags": ["Industry", "LLMs"]
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "source": "Hacker News",
+      "date": "2026-07-08",
+      "upvotes": 234,
+      "comments": 88,
+      "summary": "Microsoft open-sourced Flint, a visualization language designed to help AI agents render charts and structured visual output, shown in a live GitHub Pages demo.",
+      "tags": [
+        "Agents",
+        "Tools"
+      ]
     },
     {
-      "title": "Samsung Estimates 19-Fold Rise in Q2 Operating Profit, But Shares Slide on AI Jitters",
-      "url": "https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Samsung reported a massive 19-fold jump in Q2 operating profit driven by AI chip demand, but shares fell as investors worry the AI boom may be losing momentum.",
-      "tags": ["Hardware", "Industry"]
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "source": "Hacker News",
+      "date": "2026-07-08",
+      "upvotes": 109,
+      "comments": 52,
+      "summary": "A hands-on build-off pits Grok 4.5, GPT-5.5, and Claude against each other constructing the same applications to compare real-world coding and product-build quality.",
+      "tags": [
+        "LLMs",
+        "News"
+      ]
     },
     {
-      "title": "Discord Admits AI Moderation Bug Wrongfully Banned Users Over Harmless Images",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Discord has acknowledged a bug in its AI-powered moderation system that incorrectly flagged harmless images and banned users, raising questions about automated content moderation reliability.",
-      "tags": ["Agents", "Industry", "Regulation"]
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "source": "Hacker News",
+      "date": "2026-07-09",
+      "upvotes": 43,
+      "comments": 9,
+      "summary": "MIRA trains interactive multiplayer world models on Rocket League gameplay, learning to simulate the dynamics of a real-time multi-agent environment from observation.",
+      "tags": [
+        "Research"
+      ]
     },
     {
-      "title": "The First American Autonomous Ground Vehicles Are Fighting in Ukraine",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Forterra's autonomous Lancer vehicles have become the first American-made autonomous ground combat vehicles deployed in active warfare in Ukraine.",
-      "tags": ["Agents", "Hardware", "News"]
-    },
-    {
-      "title": "Insilico Medicine Advances AI Drug for IPF to Phase III Trials",
-      "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-phase-iii-trials/",
-      "source": "Web",
-      "date": "2026-07-07",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Insilico Medicine has advanced its AI-discovered drug for idiopathic pulmonary fibrosis to Phase III human clinical trials, marking a milestone for AI-driven pharmaceutical development.",
-      "tags": ["Research", "Industry"]
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "source": "Hacker News",
+      "date": "2026-07-08",
+      "upvotes": 27,
+      "comments": 6,
+      "summary": "Databricks shares an internal benchmark evaluating coding agents on real engineering tasks across its multi-million-line codebase (Python, Go, TypeScript, Scala), surfacing cost/performance insights.",
+      "tags": [
+        "Research",
+        "Agents"
+      ]
     }
   ]
 }
