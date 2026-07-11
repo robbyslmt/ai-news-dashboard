@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-07-10 04:35 UTC",
+  "generated_at": "2026-07-11 04:45 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 55,
+    "articles_scanned": 75,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "source": "Hacker News",
-      "date": "2026-07-08",
-      "upvotes": 1300,
-      "comments": 274,
-      "summary": "John Deere reached an FTC settlement granting equipment owners and independent repair shops the right to fix tractors and farm machinery, a landmark win for the right-to-repair movement.",
-      "tags": ["Regulation", "News"]
-    },
-    {
-      "title": "GPT-5.6",
+      "title": "OpenAI launches GPT-5.6, its newest frontier model family",
       "url": "https://openai.com/index/gpt-5-6/",
       "source": "Hacker News",
       "date": "2026-07-09",
-      "upvotes": 1138,
-      "comments": 816,
-      "summary": "OpenAI released GPT-5.6, its latest flagship model, drawing heavy discussion on Hacker News over capability gains and benchmark improvements.",
-      "tags": ["LLMs", "News"]
+      "upvotes": 1521,
+      "comments": 1081,
+      "summary": "OpenAI released GPT-5.6, the latest generation of its flagship model. The launch was the most-discussed story on Hacker News with over 1,500 upvotes, and TechCrunch reports it is already positioned as the preferred model for Microsoft Copilot 365.",
+      "tags": ["LLMs", "Industry"]
     },
     {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "source": "Hacker News",
-      "date": "2026-07-05",
-      "upvotes": 365,
-      "comments": 130,
-      "summary": "A solo developer's train simulation is being praised as one of the best ever made, highlighting how small teams can ship ambitious software with modern tooling.",
-      "tags": ["Tools", "News"]
-    },
-    {
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "source": "Hacker News",
-      "date": "2026-07-09",
-      "upvotes": 205,
-      "comments": 181,
-      "summary": "An analysis shows AI-generated posts now saturate social feeds, with LinkedIn among the most affected, raising questions about authenticity and detection.",
-      "tags": ["News"]
-    },
-    {
-      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-      "url": "https://nahla.dev/blog/waitfree_queue/",
-      "source": "Hacker News",
-      "date": "2026-07-06",
-      "upvotes": 147,
-      "comments": 30,
-      "summary": "A write-up presents a wait-free MPMC queue with bounded waiting, a concurrency data-structure result of interest to systems and infrastructure engineers.",
-      "tags": ["Research"]
-    },
-    {
-      "title": "What's slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "source": "Hacker News",
-      "date": "2026-07-09",
-      "upvotes": 66,
-      "comments": 158,
-      "summary": "A piece argues the AI expansion is increasingly bottlenecked by power-grid capacity and energy constraints rather than model research alone.",
-      "tags": ["Industry", "News"]
-    },
-    {
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "source": "Hacker News",
-      "date": "2026-07-09",
-      "upvotes": 65,
-      "comments": 98,
-      "summary": "Ello details how it built a real-time AI reading tutor that responds to a child in under 1000ms, blending speech, vision, and language models.",
-      "tags": ["Agents", "Industry"]
-    },
-    {
-      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "title": "Apple sues OpenAI over alleged trade secret theft by ex-employees",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "source": "Hacker News",
       "date": "2026-07-10",
-      "upvotes": 38,
-      "comments": 18,
-      "summary": "Former Federal Reserve Chair Ben Bernanke joined Anthropic's Long-Term Benefit & Oversight Trust, adding economic-policy expertise to AI governance.",
+      "upvotes": 737,
+      "comments": 368,
+      "summary": "Apple filed a lawsuit against OpenAI, accusing former Apple employees of stealing trade secrets and bringing them to the AI company. The case is one of the highest-profile legal battles between tech giants over AI talent.",
       "tags": ["Industry", "News"]
     },
     {
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "source": "Web",
-      "date": "2026-07-08",
+      "date": "2026-07-10",
       "upvotes": 0,
       "comments": 0,
-      "summary": "SpaceXAI launched Grok 4.5, with Elon Musk calling it an 'Opus-class' model, intensifying competition among frontier LLM providers.",
-      "tags": ["LLMs", "News"]
+      "summary": "Meta pulled a controversial AI-powered feature from Instagram following significant user backlash. The move highlights growing tension between AI integration and user privacy preferences on social media platforms.",
+      "tags": ["Industry", "Regulation"]
     },
     {
-      "title": "Google's deepfake detector system used to debunk McConnell hoax pic",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News",
+      "date": "2026-07-10",
+      "upvotes": 391,
+      "comments": 305,
+      "summary": "OpenAI's most capable model variant, GPT-5.6 Sol Ultra, produced a formal proof of the long-standing Cycle Double Cover Conjecture in graph theory — a landmark moment for AI-assisted mathematics.",
+      "tags": ["LLMs", "Research"]
+    },
+    {
+      "title": "Hugging Face CEO: Open source AI matters more than ever",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "Web",
-      "date": "2026-07-08",
+      "date": "2026-07-10",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Google's synthetic-media detection tool helped debunk an AI-generated hoax image of Mitch McConnell, showcasing practical deepfake defense.",
-      "tags": ["Tools", "Vision"]
+      "summary": "Hugging Face CEO Clem Delangue argued that companies are increasingly moving away from renting AI models toward owning their own. He made the case that open source AI is critical for a healthy ecosystem and corporate independence.",
+      "tags": ["Open Source", "Industry"]
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-biggest-foreign-ipo-us-history/",
+      "source": "Web",
+      "date": "2026-07-10",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Memory chip giant SK Hynix raised a record-breaking $26.5 billion in the largest-ever foreign IPO on a US exchange. The company is also being urged to build new US fabs to meet surging AI chip demand.",
+      "tags": ["Hardware", "Industry"]
+    },
+    {
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "Hacker News",
+      "date": "2026-07-10",
+      "upvotes": 196,
+      "comments": 163,
+      "summary": "A new report reveals how the terrorist organization Boko Haram has leveraged frontier AI models for operational planning and propaganda. The findings raise urgent questions about AI safety guardrails and dual-use technology.",
+      "tags": ["Regulation", "News"]
+    },
+    {
+      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+      "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "source": "Web",
+      "date": "2026-07-09",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Amazon Web Services reported that a GraphRAG-based deployment has reduced pharmaceutical drug research cycles by 87%, dramatically accelerating the timeline for drug discovery and clinical pipeline development.",
+      "tags": ["Research", "Industry"]
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI's No. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "Web",
+      "date": "2026-07-09",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Fidji Simo has stepped down from her position as OpenAI's second-in-command. The leadership shakeup comes amid major model launches and ongoing questions about the company's organizational structure.",
+      "tags": ["Industry", "News"]
+    },
+    {
+      "title": "Meta enters the AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "Web",
+      "date": "2026-07-09",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Meta launched Muse Spark 1.1, its new AI coding model, entering an increasingly competitive market alongside GitHub Copilot, Cursor, and other AI-powered development tools.",
+      "tags": ["LLMs", "Tools", "Industry"]
     }
   ]
 }
