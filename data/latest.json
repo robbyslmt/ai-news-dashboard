@@ -1,80 +1,90 @@
 {
-  "generated_at": "2026-07-11 04:45 UTC",
+  "generated_at": "2026-07-12 04:45 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 75,
+    "articles_scanned": 51,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "OpenAI launches GPT-5.6, its newest frontier model family",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "source": "Hacker News",
-      "date": "2026-07-09",
-      "upvotes": 1521,
-      "comments": 1081,
-      "summary": "OpenAI released GPT-5.6, the latest generation of its flagship model. The launch was the most-discussed story on Hacker News with over 1,500 upvotes, and TechCrunch reports it is already positioned as the preferred model for Microsoft Copilot 365.",
-      "tags": ["LLMs", "Industry"]
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft by ex-employees",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "source": "Hacker News",
-      "date": "2026-07-10",
-      "upvotes": 737,
-      "comments": 368,
-      "summary": "Apple filed a lawsuit against OpenAI, accusing former Apple employees of stealing trade secrets and bringing them to the AI company. The case is one of the highest-profile legal battles between tech giants over AI talent.",
-      "tags": ["Industry", "News"]
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "source": "Web",
       "date": "2026-07-10",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Meta pulled a controversial AI-powered feature from Instagram following significant user backlash. The move highlights growing tension between AI integration and user privacy preferences on social media platforms.",
+      "summary": "Apple has filed a lawsuit against OpenAI, alleging the AI company misappropriated trade secrets. The case marks a major escalation in tensions between the two tech giants.",
       "tags": ["Industry", "Regulation"]
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "Hacker News",
-      "date": "2026-07-10",
-      "upvotes": 391,
-      "comments": 305,
-      "summary": "OpenAI's most capable model variant, GPT-5.6 Sol Ultra, produced a formal proof of the long-standing Cycle Double Cover Conjecture in graph theory — a landmark moment for AI-assisted mathematics.",
-      "tags": ["LLMs", "Research"]
-    },
-    {
-      "title": "Hugging Face CEO: Open source AI matters more than ever",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "source": "Web",
-      "date": "2026-07-10",
+      "date": "2026-07-09",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Hugging Face CEO Clem Delangue argued that companies are increasingly moving away from renting AI models toward owning their own. He made the case that open source AI is critical for a healthy ecosystem and corporate independence.",
-      "tags": ["Open Source", "Industry"]
+      "summary": "OpenAI has released GPT-5.6, its newest model family. OpenAI says it is the 'preferred model' for Microsoft Copilot 365, amid ongoing speculation about a potential breakup between the two companies.",
+      "tags": ["LLMs", "Industry"]
     },
     {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-biggest-foreign-ipo-us-history/",
+      "title": "Meta's new AI chips will begin production in September",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
       "source": "Web",
-      "date": "2026-07-10",
+      "date": "2026-07-09",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Memory chip giant SK Hynix raised a record-breaking $26.5 billion in the largest-ever foreign IPO on a US exchange. The company is also being urged to build new US fabs to meet surging AI chip demand.",
+      "summary": "Meta announced that its custom AI accelerator chips will enter production in September, reducing its reliance on Nvidia GPUs and marking a major step in its hardware independence strategy.",
       "tags": ["Hardware", "Industry"]
     },
     {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
       "source": "Hacker News",
-      "date": "2026-07-10",
-      "upvotes": 196,
-      "comments": 163,
-      "summary": "A new report reveals how the terrorist organization Boko Haram has leveraged frontier AI models for operational planning and propaganda. The findings raise urgent questions about AI safety guardrails and dual-use technology.",
-      "tags": ["Regulation", "News"]
+      "date": "2026-07-11",
+      "upvotes": 197,
+      "comments": 66,
+      "summary": "An investigation into how Nvidia, CoreWeave, and Nebius are entangled in a web of circular financing that is fueling the GPU infrastructure boom, raising questions about the sustainability of the AI hardware market.",
+      "tags": ["Hardware", "Industry"]
+    },
+    {
+      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+      "source": "Web",
+      "date": "2026-07-01",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. Elon Musk publicly praised the Mythos/Fable models.",
+      "tags": ["LLMs", "Industry"]
+    },
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "Web",
+      "date": "2026-07-09",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Meta has launched Muse Spark 1.1, its AI coding assistant, entering an increasingly competitive market alongside GitHub Copilot, Cursor, and other AI-powered development tools.",
+      "tags": ["Tools", "Open Source"]
+    },
+    {
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News",
+      "date": "2026-07-12",
+      "upvotes": 128,
+      "comments": 69,
+      "summary": "A deep technical analysis reveals what data xAI's Grok Build CLI tool actually transmits back to xAI's servers, raising privacy and transparency concerns among developers.",
+      "tags": ["Tools", "Regulation"]
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News",
+      "date": "2026-07-11",
+      "upvotes": 155,
+      "comments": 36,
+      "summary": "Iroh introduces Mesh LLM, a framework for running distributed AI inference across decentralized nodes, enabling peer-to-peer LLM computing without centralized cloud infrastructure.",
+      "tags": ["LLMs", "Open Source"]
     },
     {
       "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
@@ -83,28 +93,18 @@
       "date": "2026-07-09",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Amazon Web Services reported that a GraphRAG-based deployment has reduced pharmaceutical drug research cycles by 87%, dramatically accelerating the timeline for drug discovery and clinical pipeline development.",
+      "summary": "AWS's GraphRAG technology has been deployed in pharmaceutical research, reportedly reducing drug discovery research cycles by 87%, demonstrating the transformative potential of AI in healthcare.",
       "tags": ["Research", "Industry"]
     },
     {
-      "title": "Fidji Simo steps down from OpenAI's No. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "title": "Open source AI matters more than ever, according to Hugging Face's Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "Web",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "upvotes": 0,
       "comments": 0,
-      "summary": "Fidji Simo has stepped down from her position as OpenAI's second-in-command. The leadership shakeup comes amid major model launches and ongoing questions about the company's organizational structure.",
-      "tags": ["Industry", "News"]
-    },
-    {
-      "title": "Meta enters the AI coding battle with Muse Spark 1.1",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "source": "Web",
-      "date": "2026-07-09",
-      "upvotes": 0,
-      "comments": 0,
-      "summary": "Meta launched Muse Spark 1.1, its new AI coding model, entering an increasingly competitive market alongside GitHub Copilot, Cursor, and other AI-powered development tools.",
-      "tags": ["LLMs", "Tools", "Industry"]
+      "summary": "Hugging Face CEO Clem Delangue argues that open-source AI is more critical than ever as companies increasingly seek to own and control their AI models rather than renting them from cloud providers.",
+      "tags": ["Open Source", "Industry"]
     }
   ]
 }
