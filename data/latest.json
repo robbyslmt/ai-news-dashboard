@@ -1,140 +1,175 @@
 {
-  "generated_at": "2026-07-13 04:32 UTC",
+  "generated_at": "2026-07-14 06:30 UTC",
   "stats": {
-    "reddit_threads": 2,
+    "reddit_threads": 0,
     "articles_scanned": 50,
     "subreddits_scanned": 7
   },
   "stories": [
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 503,
-      "comments": 281,
-      "summary": "Analysis reveals Claude Code sends over 33,000 system prompt tokens before reading user input, compared to OpenCode's 7,000 — raising questions about efficiency and hidden costs in AI coding tools.",
-      "tags": [
-        "LLMs",
-        "Tools"
-      ]
-    },
-    {
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 424,
-      "comments": 163,
-      "summary": "A deep-dive wire-level analysis of xAI's Grok coding CLI reveals exactly what data it transmits back to xAI servers, sparking privacy and transparency concerns.",
-      "tags": [
-        "LLMs",
-        "Industry"
-      ]
-    },
-    {
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 422,
-      "comments": 126,
-      "summary": "Mathematician Terence Tao shares his experience using modern AI coding agents to build both new and legacy applications, demonstrating practical agent capabilities.",
-      "tags": [
-        "Agents",
-        "Tools"
-      ]
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 366,
-      "comments": 228,
-      "summary": "George Hotz (geohot) writes about appreciating LLMs as genuine tools while pushing back against the surrounding hype and inflated claims in the AI industry.",
-      "tags": [
-        "LLMs",
-        "Industry"
-      ]
-    },
-    {
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
-      "source": "Hacker News",
+      "title": "OpenAI Ships GPT-5.6 to the Public with Three Tiers: Sol, Terra, and Luna",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
       "date": "2026-07-13",
-      "upvotes": 214,
-      "comments": 143,
-      "summary": "Hacker News community debates adding a flag for AI-generated submissions as the platform struggles with increasing volume of LLM-written content.",
-      "tags": [
-        "AI",
-        "News"
-      ]
-    },
-    {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 160,
-      "comments": 61,
-      "summary": "Ploy.ai details their production migration to GPT-5.6, achieving 2.2x speed improvement and 27% cost reduction for their AI agent system.",
-      "tags": [
-        "Agents",
-        "Industry"
-      ]
-    },
-    {
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 117,
-      "comments": 48,
-      "summary": "A personal essay exploring how LLMs and AI tools changed the author's reading habits and relationship with long-form text.",
-      "tags": [
-        "AI",
-        "News"
-      ]
-    },
-    {
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 92,
-      "comments": 66,
-      "summary": "CACM covers new research applying causal reasoning frameworks to mechanistic interpretability, aiming to understand how LLMs actually process and reason about information.",
-      "tags": [
-        "Research",
-        "LLMs"
-      ]
-    },
-    {
-      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-      "url": "https://nanduruganesh.github.io/flash-msa/",
-      "source": "Hacker News",
-      "date": "2026-07-12",
-      "upvotes": 31,
-      "comments": 1,
-      "summary": "Flash-MSA introduces sparse attention kernels that dramatically accelerate million-token training, potentially enabling much longer context windows for future LLMs.",
-      "tags": [
-        "Research",
-        "LLMs"
-      ]
-    },
-    {
-      "title": "Z.ai GLM-5.2 Model Enters Competitive AI Race Against Anthropic and OpenAI",
-      "url": "https://www.japantimes.co.jp/business/2026/07/03/tech/china-ai-catch-up/",
-      "source": "Web",
-      "date": "2026-07-03",
       "upvotes": 0,
       "comments": 0,
-      "summary": "China's Z.ai launches GLM-5.2, demonstrating competitive capabilities against frontier models from Anthropic and OpenAI, signaling accelerating progress in China's AI development.",
-      "tags": [
-        "Industry",
-        "LLMs"
-      ]
+      "summary": "OpenAI moved GPT-5.6 from government-gated preview to broad public availability. Sol (flagship) at $5/$30 per M tokens, Terra at $2.50/$15, Luna at $1/$6. Sol runs on Cerebras at 750 tok/s. ChatGPT Work merges Codex + browser for multi-hour agent jobs with Google Drive/Slack/Salesforce integrations. GPT-Live full-duplex voice mode launched.",
+      "tags": ["LLMs", "News", "Tools"],
+      "_score": 0
+    },
+    {
+      "title": "xAI Launches Grok 4.5 — Opus-Class Model at One-Third the Price",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "xAI launched Grok 4.5, a 1.5T-parameter model at $2/$6 per M tokens vs GPT-5.6 Sol at $5/$30. Trained on Cursor data (SpaceX-acquired coding tool). Ships inside Cursor on every plan. Musk calls it 'Opus-class but faster, more token-efficient and lower cost.'",
+      "tags": ["LLMs", "News"],
+      "_score": 0
+    },
+    {
+      "title": "Meta Charges for a Model for the First Time — Muse Spark 1.1",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Meta launched Muse Spark 1.1 via the new Meta Model API — its first paid model and first public API. Multimodal, agentic, 1M-token context. Priced at $1.25/$4.25 per M tokens with $20 free credits. Strategic shift from free-to-paid adds credible third API option alongside OpenAI and Anthropic.",
+      "tags": ["LLMs", "News", "Open Source"],
+      "_score": 0
+    },
+    {
+      "title": "Cognition Ships SWE-1.7 — Sub-$2 Coding Model Near Frontier Performance",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Cognition released SWE-1.7, RL-trained on Kimi K2.7, served via Cerebras at ~1000 tok/s in Devin agent. 42.3% on FrontierCode 1.1, 81.5% on Terminal-Bench 2.1, at ~$1.97/task. Near-frontier coding at fraction of Opus 4.8 cost changes economics of automated review and bug fixing.",
+      "tags": ["Agents", "LLMs", "Tools"],
+      "_score": 0
+    },
+    {
+      "title": "UK AI Safety Institute Finds Universal Jailbreaks in GPT-5.6 Cyber Safeguards",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "UK AI Security Institute found universal jailbreaks in GPT-5.6 Sol within hours, unlocking long-form agentic work in vulnerability discovery and exploit development. Called 'among the highest-stakes safety issues of any model release so far.' Echoes cyber issue that triggered export controls on Anthropic's models weeks earlier.",
+      "tags": ["Safety", "Research", "News"],
+      "_score": 0
+    },
+    {
+      "title": "Anthropic Publishes J-Space Research — Inside a Model's Reasoning Workspace",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic released interpretability research on 'J-space,' a small internal workspace under 10% of Claude's activations holding concepts during multi-step reasoning. J-lens technique allows inspection as token-like concepts. When suppressed, complex reasoning collapses while ordinary conversation continues. Pattern showed up across dozens of open models.",
+      "tags": ["Research", "Safety"],
+      "_score": 0
+    },
+    {
+      "title": "China Labels Claude Code a Security Risk; Anthropic Confirms Hidden Tracking Code",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "China's MIIT warned Claude Code contained a 'backdoor' sending user location/identity to remote server. Anthropic confirmed embedded location-tracking to detect unauthorized model distillation. Alibaba ordered employees to stop using Anthropic tools from July 10. Raises data-governance concerns around anti-distillation measures.",
+      "tags": ["Policy", "Security", "News"],
+      "_score": 0
+    },
+    {
+      "title": "Apple Sues OpenAI Over Trade Secrets Allegations",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Apple sued OpenAI in federal court in Northern California, alleging OpenAI recruited former Apple hardware staff and encouraged them to bring confidential designs, prototypes, and supplier data. Raises legal stakes around talent mobility between two of AI's most consequential companies.",
+      "tags": ["Business", "News"],
+      "_score": 0
+    },
+    {
+      "title": "Anthropic's Secondary Market Valuation Passes OpenAI at $1.2 Trillion",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic shares traded on secondary markets at implied $1.2T valuation in early July, above OpenAI's ~$908B. Company filed confidentially for IPO in June. Secondary-market mark reflects scarcity-driven demand pressure more than settled fundamentals.",
+      "tags": ["Business", "News"],
+      "_score": 0
+    },
+    {
+      "title": "OpenAI Retracts SWE-Bench Pro — 30% of Tasks Found Broken",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "OpenAI audited SWE-Bench Pro, one of the most-cited coding benchmarks, and found ~30% of tasks broken. Automated pipeline flagged 27.4%, human reviewers 34.1%. Scores jumped from low 20s to ~80% in 8 months, suggesting benchmark gaming. Undermines main tool builders use to pick coding models.",
+      "tags": ["Research", "Tools"],
+      "_score": 0
+    },
+    {
+      "title": "Tencent Releases Hy3 — 295B Open-Source MoE Model Under Apache 2.0",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Tencent released Hy3, a 295B mixture-of-experts model (21B active, 256K context) under Apache 2.0 license. Free on OpenRouter through July 21. Major open-source release from Chinese lab adds to growing list of capable open models.",
+      "tags": ["Open Source", "LLMs"],
+      "_score": 0
+    },
+    {
+      "title": "Mistral Releases Robostral Navigate — Single-Camera Robot Navigation Model",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Mistral released Robostral Navigate, an 8B robot-navigation model running on single RGB camera with no LiDAR or depth sensors. State-of-the-art seamless navigation from minimal onboard sensing. Represents significant advance in practical robotics AI.",
+      "tags": ["Research", "Hardware", "Open Source"],
+      "_score": 0
+    },
+    {
+      "title": "Nvidia Becomes Financier of AI Buildout with GPU Revenue Guarantees",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Nvidia began backstopping GPU rental revenue for neocloud providers with six-year minimum-revenue guarantees. SemiAnalysis says structure could support AI-related debt market above $7T by 2029. Shifts bottleneck from raw compute to financing structure and credit risk.",
+      "tags": ["Business", "Hardware"],
+      "_score": 0
+    },
+    {
+      "title": "AI Adoption Linked to 10% Headcount Growth, 12% Entry-Level Hiring Increase",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Ramp and Revelio Labs study across 21,559 US firms found heavy AI investors grew headcount ~10% in two years post-adoption, with entry-level hiring up ~12%. Gains concentrated in high-intensity adopters ($33/employee/month). Growth extended beyond engineering into sales, admin, CS, finance, marketing.",
+      "tags": ["Business", "News"],
+      "_score": 0
+    },
+    {
+      "title": "Anthropic Documents Cost-Routing Pattern: 96% of Fable 5 Performance at 46% Cost",
+      "url": "https://opendatascience.com/in-case-you-missed-it-last-week-in-ai-july-6-july-12-2026/",
+      "source": "Open Data Science",
+      "date": "2026-07-13",
+      "upvotes": 0,
+      "comments": 0,
+      "summary": "Anthropic published two Claude Managed Agents patterns ('Fable as Advisor' and 'Fable as Orchestrator') routing most steps on cheaper Sonnet 5, only high-uncertainty decisions to Fable 5. Achieves ~96% of Fable 5 performance at 46% cost on research tasks. Formalizes matching model tier to step complexity.",
+      "tags": ["Agents", "Research", "Tools"],
+      "_score": 0
     }
   ]
 }
