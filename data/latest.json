@@ -1,226 +1,227 @@
 {
-  "generated_at": "2026-07-15 20:58 UTC",
+  "generated_at": "2026-07-17 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 125,
+    "articles_scanned": 126,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 60,
-      "hacker_news_24h": 77
+      "hacker_news_24h": 78
     }
   },
   "stories": [
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "summary": "Hacker News coverage: I tricked Claude into leaking your deepest, darkest secrets",
-      "thumbnail": "https://ayush.digital/blog/the-memory-heist/opengraph-image",
+      "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
+      "url": "https://joinedanthropic.com",
+      "summary": "Hacker News coverage: At least 105 past YC founders have worked at OpenAI and Anthropic",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 584,
-      "comments": 271,
+      "date": "2026-07-16",
+      "upvotes": 295,
+      "comments": 212,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48931588"
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "summary": "Hacker News coverage: NotebookLM is now Gemini Notebook",
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.width-1300.png",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 274,
+      "comments": 138,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48916975"
+      "hn_url": "https://news.ycombinator.com/item?id=48936451"
     },
     {
-      "title": "OpenAI loses trademark dispute at EU court",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "summary": "Hacker News coverage: OpenAI loses trademark dispute at EU court",
-      "thumbnail": null,
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "summary": "Hacker News coverage: The LLM Critics Are Right. I Use LLMs Anyway",
+      "thumbnail": "https://www.theocharis.dev/jeremy-headshot.png",
       "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 192,
-      "comments": 132,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48921461"
-    },
-    {
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "summary": "Hacker News coverage: The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 150,
-      "comments": 194,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48920432"
-    },
-    {
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "summary": "Hacker News coverage: Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 180,
-      "comments": 101,
-      "tags": [
-        "Hardware"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48922434"
-    },
-    {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "summary": "Hacker News coverage: Financing the AI boom: from cash flows to debt [pdf]",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-14",
-      "upvotes": 164,
-      "comments": 102,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48913443"
-    },
-    {
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-      "summary": "Hacker News coverage: DSLs Enable Reliable Use of LLMs",
-      "thumbnail": "https://martinfowler.com/logo-sq.png",
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 105,
-      "comments": 70,
+      "date": "2026-07-16",
+      "upvotes": 205,
+      "comments": 209,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48918575"
+      "hn_url": "https://news.ycombinator.com/item?id=48933310"
     },
     {
-      "title": "Inkling – Open-Weights 975B Parameter LLM",
-      "url": "https://thinkingmachines.ai/inkling/",
-      "summary": "Hacker News coverage: Inkling – Open-Weights 975B Parameter LLM",
-      "thumbnail": "https://thinkingmachines.ai/inkling/images/cover-social-inkling-page.png",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "summary": "Hacker News coverage: $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "thumbnail": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
       "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 118,
-      "comments": 4,
+      "date": "2026-07-16",
+      "upvotes": 178,
+      "comments": 209,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48939524"
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "summary": "Hacker News coverage: Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "thumbnail": "https://blog.lyc8503.net/en/post/llm-classifier/ppl.png",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 169,
+      "comments": 117,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48936880"
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "Hacker News coverage: LM Studio Bionic: the AI agent for open models",
+      "thumbnail": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 189,
+      "comments": 69,
       "tags": [
         "LLMs",
-        "Open Source"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48924929"
-    },
-    {
-      "title": "Show HN: Make senders work to get into your inbox",
-      "url": "https://www.captchainbox.com",
-      "summary": "Hacker News coverage: Show HN: Make senders work to get into your inbox",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 40,
-      "comments": 64,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48919489"
-    },
-    {
-      "title": "Societal Impacts: Claude's values across models and languages",
-      "url": "https://www.anthropic.com/research/claude-values-models-languages",
-      "summary": "Hacker News coverage: Societal Impacts: Claude's values across models and languages",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 32,
-      "comments": 48,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48918956"
-    },
-    {
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "summary": "Hacker News coverage: Duskers, the scary command line game, is getting a sequel",
-      "thumbnail": "https://substackcdn.com/image/youtube/w_728,c_limit/lr-om2trmtU",
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 46,
-      "comments": 5,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48925888"
-    },
-    {
-      "title": "The politics of air conditioning in Switzerland",
-      "url": "https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/",
-      "summary": "Hacker News coverage: The politics of air conditioning in Switzerland",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-14",
-      "upvotes": 26,
-      "comments": 23,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48913936"
-    },
-    {
-      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
-      "url": "https://github.com/evansjp/grepathy",
-      "summary": "Hacker News coverage: Show HN: Grepathy – Claude made a decision nobody approved",
-      "thumbnail": "https://opengraph.githubassets.com/62daae6150d5eccb4e8726ba7ceee0a66adefb6097aaa7a6d6a7f281b84bbf3c/evansjp/grepathy",
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 18,
-      "comments": 37,
-      "tags": [
-        "LLMs",
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48920537"
-    },
-    {
-      "title": "AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education",
-      "url": "https://www.techpolicy.press/ai-lays-bare-the-authoritarianism-of-modern-work-time-to-rethink-education/",
-      "summary": "Hacker News coverage: AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 27,
-      "comments": 1,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48920995"
-    },
-    {
-      "title": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-      "url": "https://github.com/bitjaru/styleseed",
-      "summary": "Hacker News coverage: Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-      "thumbnail": "https://repository-images.githubusercontent.com/1203405919/e0f6e200-0f92-42aa-814b-0fb54372b7ef",
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 22,
-      "comments": 7,
-      "tags": [
         "Agents"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48920888"
+      "hn_url": "https://news.ycombinator.com/item?id=48939662"
     },
     {
-      "title": "Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
-      "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
-      "summary": "Hacker News coverage: Hack Reveals Suno AI Music Generator Scraped YouTube, Deezer, and Genius",
-      "thumbnail": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/CleanShot-2026-07-15-at-06.52.15@2x.png",
+      "title": "Stop saying that AI is just a tool and it only matters how it is used",
+      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+      "summary": "Hacker News coverage: Stop saying that AI is just a tool and it only matters how it is used",
+      "thumbnail": "http://www.frank.computer/images/default.png",
       "source": "Hacker News",
-      "date": "2026-07-15",
-      "upvotes": 22,
-      "comments": 3,
+      "date": "2026-07-16",
+      "upvotes": 104,
+      "comments": 113,
+      "tags": [
+        "Tools"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48930363"
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "summary": "Hacker News coverage: German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 127,
+      "comments": 28,
+      "tags": [
+        "LLMs",
+        "Research",
+        "Industry"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48937756"
+    },
+    {
+      "title": "Generative AI Is an Engineering Disaster",
+      "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+      "summary": "Hacker News coverage: Generative AI Is an Engineering Disaster",
+      "thumbnail": "https://cdn.theatlantic.com/thumbor/pRTmRKbPCznhWXFQOWNZUwOpnIg=/0x83:2000x1125/1200x625/media/img/mt/2026/07/2026_07_10_Reisner_Gen_Ai_Engineering_Disaster/original.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 102,
+      "comments": 73,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48921106"
+      "hn_url": "https://news.ycombinator.com/item?id=48934046"
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "summary": "Hacker News coverage: How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 109,
+      "comments": 55,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48935687"
+    },
+    {
+      "title": "800 Canadian wildfires burning as air quality alerts extend to US",
+      "url": "https://www.bbc.com/news/articles/c0m7n427xd8o",
+      "summary": "Hacker News coverage: 800 Canadian wildfires burning as air quality alerts extend to US",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/ae8f/live/9c2196c0-8180-11f1-a117-633a3b1f8a33.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 55,
+      "comments": 35,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48936407"
+    },
+    {
+      "title": "Someone Used AI to Write an Unauthorized Biography of Me",
+      "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+      "summary": "Hacker News coverage: Someone Used AI to Write an Unauthorized Biography of Me",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 39,
+      "comments": 63,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48937007"
+    },
+    {
+      "title": "Linus Torvalds on LLM usage in kernel development",
+      "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+      "summary": "Hacker News coverage: Linus Torvalds on LLM usage in kernel development",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 42,
+      "comments": 5,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48932522"
+    },
+    {
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "url": "https://timelinescan.com/",
+      "summary": "Hacker News coverage: Timeline Scan – AI fixes the dates on your scanned photos",
+      "thumbnail": "https://timelinescan.com/images/logo/light_1200x630.png",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 28,
+      "comments": 29,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48939764"
+    },
+    {
+      "title": "1Password for Claude: Give Claude access without giving up your credentials",
+      "url": "https://1password.com/blog/1password-for-claude",
+      "summary": "Hacker News coverage: 1Password for Claude: Give Claude access without giving up your credentials",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "upvotes": 26,
+      "comments": 8,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48936522"
     }
   ]
 }
