@@ -1,225 +1,225 @@
 {
-  "generated_at": "2026-07-18 04:30 UTC",
+  "generated_at": "2026-07-19 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 116,
+    "articles_scanned": 110,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 60,
-      "hacker_news_24h": 70
+      "hacker_news_24h": 66
     }
   },
   "stories": [
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "summary": "Hacker News coverage: Apple targets dozens of OpenAI employees with legal letters",
-      "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb588ccd-457b-4974-bfab-ca7ca8563612.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "Hacker News coverage: GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "thumbnail": "https://www.redditstatic.com/new-icon.png",
       "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 382,
-      "comments": 329,
-      "tags": [
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48946303"
-    },
-    {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "summary": "Hacker News coverage: The state of open source AI",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 398,
-      "comments": 293,
-      "tags": [
-        "Open Source"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48947825"
-    },
-    {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "summary": "Hacker News coverage: Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "thumbnail": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1",
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 378,
-      "comments": 259,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48952880"
-    },
-    {
-      "title": "Claude Code: Anatomy of a Misfeature",
-      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-      "summary": "Hacker News coverage: Claude Code: Anatomy of a Misfeature",
-      "thumbnail": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/featured.jpeg",
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 136,
-      "comments": 117,
+      "date": "2026-07-18",
+      "upvotes": 526,
+      "comments": 335,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48947776"
+      "hn_url": "https://news.ycombinator.com/item?id=48957779"
     },
     {
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "summary": "Hacker News coverage: FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&amp;w=1920&amp;h=1080",
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 148,
-      "comments": 76,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48952439"
-    },
-    {
-      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
-      "summary": "Hacker News coverage: Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 63,
-      "comments": 61,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48952445"
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "summary": "Hacker News coverage: AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 86,
-      "comments": 6,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48947714"
-    },
-    {
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "summary": "Hacker News coverage: VulnHunter: Capital One's agentic AI code security tool",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 63,
-      "comments": 29,
-      "tags": [
-        "Agents",
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48946692"
-    },
-    {
-      "title": "A grumpy screed about AI in software engineering",
-      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-      "summary": "Hacker News coverage: A grumpy screed about AI in software engineering",
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "summary": "Hacker News coverage: What AI did to stackoverflow in a graph",
       "thumbnail": null,
       "source": "Hacker News",
       "date": "2026-07-18",
-      "upvotes": 50,
-      "comments": 54,
+      "upvotes": 386,
+      "comments": 479,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48953924"
+      "hn_url": "https://news.ycombinator.com/item?id=48956949"
     },
     {
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "summary": "Hacker News coverage: TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "thumbnail": "https://opengraph.githubassets.com/b109ed0a1ab99434f27464484d7cbd39236dfe5e7e536c7abac1559e66d49512/BadChemical/IoT-Vulnerability-Research-Public",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "summary": "Hacker News coverage: Why do AI company logos look like buttholes? (2025)",
+      "thumbnail": "https://velvetshark.com/images/ai-company-logos-that-look-like-buttholes/why-do-AI-company-logos-look-like-buttholes.png",
       "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 62,
-      "comments": 15,
+      "date": "2026-07-18",
+      "upvotes": 419,
+      "comments": 139,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48952565"
+      "hn_url": "https://news.ycombinator.com/item?id=48956924"
     },
     {
-      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "summary": "Hacker News coverage: Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "summary": "Hacker News coverage: Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "thumbnail": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 334,
+      "comments": 159,
+      "tags": [
+        "Vision"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48962983"
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "summary": "Hacker News coverage: Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "thumbnail": "https://charlesazam.com/headshot.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 226,
+      "comments": 107,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48956879"
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "summary": "Hacker News coverage: Setting up your spare Mac for Claude Code to control, a step-by-step guide",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 28,
+      "date": "2026-07-18",
+      "upvotes": 200,
+      "comments": 137,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48959392"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+      "summary": "Hacker News coverage: AI Mania Is Eviscerating Global Decision-Making",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 58,
+      "comments": 11,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48956153"
+    },
+    {
+      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "url": "https://imaxxing.io/",
+      "summary": "Hacker News coverage: Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 30,
+      "comments": 49,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48960551"
+    },
+    {
+      "title": "Anthropic's newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "summary": "Hacker News coverage: Anthropic's newest ad is creeping people out",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 27,
+      "comments": 0,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48963614"
+    },
+    {
+      "title": "LLM-Integrated Multivariable Calculus Course",
+      "url": "https://calculus.academa.ai/",
+      "summary": "Hacker News coverage: LLM-Integrated Multivariable Calculus Course",
+      "thumbnail": "https://calculus.academa.ai/og/vectors?locale=en",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 15,
+      "comments": 8,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48964585"
+    },
+    {
+      "title": "Overtraining as the path to human-like AI",
+      "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
+      "summary": "Hacker News coverage: Overtraining as the path to human-like AI",
+      "thumbnail": "https://www.seangoedecke.com/og-image.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 16,
+      "comments": 4,
+      "tags": [
+        "Research"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48960118"
+    },
+    {
+      "title": "AI's new political donor class is outspending Big Tech's last one",
+      "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
+      "summary": "Hacker News coverage: AI's new political donor class is outspending Big Tech's last one",
+      "thumbnail": "https://assets.sfstandard.com/image/994911177489/image_m7bd3l893p0pjarrhhp8fg8m1t/-S1200x630-FPNG",
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 15,
+      "comments": 0,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48960051"
+    },
+    {
+      "title": "GitRoot",
+      "url": "https://gitroot.dev/",
+      "summary": "Hacker News coverage: GitRoot",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "upvotes": 13,
       "comments": 3,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48949290"
+      "hn_url": "https://news.ycombinator.com/item?id=48956491"
     },
     {
-      "title": "Show HN: On-chain bond market where the issuers are AI agents",
-      "url": "https://selbonds.now",
-      "summary": "Hacker News coverage: Show HN: On-chain bond market where the issuers are AI agents",
-      "thumbnail": null,
+      "title": "Cloud providers are out of B200 GPUs after the Inkling release",
+      "url": "https://twitter.com/Akashi203/status/2078615659366252877",
+      "summary": "Hacker News coverage: Cloud providers are out of B200 GPUs after the Inkling release",
+      "thumbnail": "https://pbs.twimg.com/profile_images/2015781426981916672/D-gDMIO7_200x200.jpg",
       "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 15,
-      "comments": 19,
+      "date": "2026-07-19",
+      "upvotes": 7,
+      "comments": 3,
       "tags": [
-        "Agents"
+        "Hardware"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48947754"
+      "hn_url": "https://news.ycombinator.com/item?id=48964020"
     },
     {
-      "title": "Nadella Blasts AI Industry's Double Standard",
-      "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
-      "summary": "Hacker News coverage: Nadella Blasts AI Industry's Double Standard",
-      "thumbnail": null,
+      "title": "The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs",
+      "url": "https://okaneland.com/studio/tom-huang/",
+      "summary": "Hacker News coverage: The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs",
+      "thumbnail": "https://okaneland.com/features/studio-tom-huang.jpg",
       "source": "Hacker News",
       "date": "2026-07-18",
-      "upvotes": 18,
-      "comments": 4,
+      "upvotes": 7,
+      "comments": 3,
       "tags": [
-        "AI"
+        "LLMs",
+        "Open Source"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48953857"
-    },
-    {
-      "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
-      "summary": "Hacker News coverage: Xi pitches China as leader of new global AI order, challenging US dominance",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 17,
-      "comments": 6,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48943519"
-    },
-    {
-      "title": "Kimi K3 may be an important inflection point for AI",
-      "url": "https://twitter.com/GavinSBaker/status/2078110934740980193",
-      "summary": "Hacker News coverage: Kimi K3 may be an important inflection point for AI",
-      "thumbnail": "https://pbs.twimg.com/media/HNbu4bhWoAATDPF.jpg:large",
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "upvotes": 16,
-      "comments": 4,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48947280"
+      "hn_url": "https://news.ycombinator.com/item?id=48957534"
     }
   ]
 }
