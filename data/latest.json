@@ -1,225 +1,224 @@
 {
-  "generated_at": "2026-07-19 04:30 UTC",
+  "generated_at": "2026-07-20 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 110,
+    "articles_scanned": 114,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 60,
-      "hacker_news_24h": 66
+      "hacker_news_24h": 64
     }
   },
   "stories": [
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "summary": "Hacker News coverage: GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "thumbnail": "https://www.redditstatic.com/new-icon.png",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 526,
-      "comments": 335,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48957779"
-    },
-    {
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "summary": "Hacker News coverage: What AI did to stackoverflow in a graph",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "Hacker News coverage: Claude Code uses Bun written in Rust now",
       "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 386,
-      "comments": 479,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48956949"
-    },
-    {
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "summary": "Hacker News coverage: Why do AI company logos look like buttholes? (2025)",
-      "thumbnail": "https://velvetshark.com/images/ai-company-logos-that-look-like-buttholes/why-do-AI-company-logos-look-like-buttholes.png",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 419,
-      "comments": 139,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48956924"
-    },
-    {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "summary": "Hacker News coverage: Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "thumbnail": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 334,
-      "comments": 159,
-      "tags": [
-        "Vision"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48962983"
-    },
-    {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "summary": "Hacker News coverage: Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "thumbnail": "https://charlesazam.com/headshot.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 226,
-      "comments": 107,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48956879"
-    },
-    {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "summary": "Hacker News coverage: Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 200,
-      "comments": 137,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48959392"
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
-      "summary": "Hacker News coverage: AI Mania Is Eviscerating Global Decision-Making",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 58,
-      "comments": 11,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48956153"
-    },
-    {
-      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-      "url": "https://imaxxing.io/",
-      "summary": "Hacker News coverage: Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 30,
-      "comments": 49,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48960551"
-    },
-    {
-      "title": "Anthropic's newest ad is creeping people out",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "summary": "Hacker News coverage: Anthropic's newest ad is creeping people out",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 27,
-      "comments": 0,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48963614"
-    },
-    {
-      "title": "LLM-Integrated Multivariable Calculus Course",
-      "url": "https://calculus.academa.ai/",
-      "summary": "Hacker News coverage: LLM-Integrated Multivariable Calculus Course",
-      "thumbnail": "https://calculus.academa.ai/og/vectors?locale=en",
       "source": "Hacker News",
       "date": "2026-07-19",
-      "upvotes": 15,
-      "comments": 8,
+      "upvotes": 430,
+      "comments": 596,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48964585"
+      "hn_url": "https://news.ycombinator.com/item?id=48966569"
     },
     {
-      "title": "Overtraining as the path to human-like AI",
-      "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
-      "summary": "Hacker News coverage: Overtraining as the path to human-like AI",
-      "thumbnail": "https://www.seangoedecke.com/og-image.jpg",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "summary": "Hacker News coverage: OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "thumbnail": "https://avatars.githubusercontent.com/u/244841968?s=400&amp;v=4",
       "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 16,
-      "comments": 4,
+      "date": "2026-07-19",
+      "upvotes": 329,
+      "comments": 156,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48965850"
+    },
+    {
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "summary": "Hacker News coverage: AI advice made people less accurate but more confident – sudy",
+      "thumbnail": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 303,
+      "comments": 170,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48971738"
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "summary": "Hacker News coverage: Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "thumbnail": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_200x200.png",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 241,
+      "comments": 101,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48969291"
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "summary": "Hacker News coverage: Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-20",
+      "upvotes": 113,
+      "comments": 35,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48973869"
+    },
+    {
+      "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+      "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+      "summary": "Hacker News coverage: Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 88,
+      "comments": 17,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48970991"
+    },
+    {
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "summary": "Hacker News coverage: Perforce charges $500 for training training videos.. and it's AI narrated",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 53,
+      "comments": 83,
       "tags": [
         "Research"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48960118"
+      "hn_url": "https://news.ycombinator.com/item?id=48965886"
     },
     {
-      "title": "AI's new political donor class is outspending Big Tech's last one",
-      "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
-      "summary": "Hacker News coverage: AI's new political donor class is outspending Big Tech's last one",
-      "thumbnail": "https://assets.sfstandard.com/image/994911177489/image_m7bd3l893p0pjarrhhp8fg8m1t/-S1200x630-FPNG",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 15,
-      "comments": 0,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48960051"
-    },
-    {
-      "title": "GitRoot",
-      "url": "https://gitroot.dev/",
-      "summary": "Hacker News coverage: GitRoot",
+      "title": "How to Abandon Your Climate Commitments and Get Away with It",
+      "url": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
+      "summary": "Hacker News coverage: How to Abandon Your Climate Commitments and Get Away with It",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 13,
-      "comments": 3,
+      "date": "2026-07-19",
+      "upvotes": 64,
+      "comments": 37,
+      "tags": [
+        "Regulation"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48971781"
+    },
+    {
+      "title": "Anthropic runs large-scale code migrations with Claude Code",
+      "url": "https://claude.com/blog/ai-code-migration",
+      "summary": "Hacker News coverage: Anthropic runs large-scale code migrations with Claude Code",
+      "thumbnail": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a5909b6d772e7da001ff28f_og_ai-code-migration.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 29,
+      "comments": 30,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48966044"
+    },
+    {
+      "title": "Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza",
+      "url": "https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV",
+      "summary": "Hacker News coverage: Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 27,
+      "comments": 8,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48956491"
+      "hn_url": "https://news.ycombinator.com/item?id=48966039"
     },
     {
-      "title": "Cloud providers are out of B200 GPUs after the Inkling release",
-      "url": "https://twitter.com/Akashi203/status/2078615659366252877",
-      "summary": "Hacker News coverage: Cloud providers are out of B200 GPUs after the Inkling release",
-      "thumbnail": "https://pbs.twimg.com/profile_images/2015781426981916672/D-gDMIO7_200x200.jpg",
+      "title": "Google's Gemini delay: Coding stumbles, clashing teams and frustrated engineers",
+      "url": "https://www.latimes.com/business/story/2026-07-17/inside-googles-gemini-delay-coding-stumbles-clashing-teams-frustrated-engineers",
+      "summary": "Hacker News coverage: Google's Gemini delay: Coding stumbles, clashing teams and frustrated engineers",
+      "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/8e6e659/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4e%2F91%2Fd02c810749838a74d617b538dba6%2F1550973-fi-tech-headquarters-palo-alto-jlg-013.jpg",
       "source": "Hacker News",
       "date": "2026-07-19",
-      "upvotes": 7,
-      "comments": 3,
+      "upvotes": 21,
+      "comments": 6,
       "tags": [
-        "Hardware"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48964020"
+      "hn_url": "https://news.ycombinator.com/item?id=48965012"
     },
     {
-      "title": "The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs",
-      "url": "https://okaneland.com/studio/tom-huang/",
-      "summary": "Hacker News coverage: The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs",
-      "thumbnail": "https://okaneland.com/features/studio-tom-huang.jpg",
+      "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
+      "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
+      "summary": "Hacker News coverage: AI advice reduced \"I don't know\" answers from 44% to 3%",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-18",
-      "upvotes": 7,
-      "comments": 3,
+      "date": "2026-07-19",
+      "upvotes": 19,
+      "comments": 1,
       "tags": [
-        "LLMs",
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48969839"
+    },
+    {
+      "title": "Mirror your GitHub repos to tangled.org automatically",
+      "url": "https://synchub.to/",
+      "summary": "Hacker News coverage: Mirror your GitHub repos to tangled.org automatically",
+      "thumbnail": "https://synchub.to/og.png",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 16,
+      "comments": 6,
+      "tags": [
         "Open Source"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48957534"
+      "hn_url": "https://news.ycombinator.com/item?id=48965918"
+    },
+    {
+      "title": "GitHub Outage",
+      "url": "https://www.githubstatus.com/incidents/8vfyvq16hzh9",
+      "summary": "Hacker News coverage: GitHub Outage",
+      "thumbnail": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "source": "Hacker News",
+      "date": "2026-07-20",
+      "upvotes": 13,
+      "comments": 5,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48973408"
+    },
+    {
+      "title": "OpenAI is breaking Silicon Valley unwritten code. That's why Apple is so angry",
+      "url": "https://www.businessinsider.com/openai-breaking-silicon-valley-unspoken-rule-apple-talent-2026-7",
+      "summary": "Hacker News coverage: OpenAI is breaking Silicon Valley unwritten code. That's why Apple is so angry",
+      "thumbnail": "https://i.insider.com/6a55729cee481f523866decd?width=1200&format=jpeg",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "upvotes": 12,
+      "comments": 3,
+      "tags": [
+        "Tools"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48969975"
     }
   ]
 }
