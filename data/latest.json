@@ -1,224 +1,228 @@
 {
-  "generated_at": "2026-07-21 04:30 UTC",
+  "generated_at": "2026-07-22 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 123,
+    "articles_scanned": 134,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 60,
-      "hacker_news_24h": 79
+      "hacker_news_24h": 88
     }
   },
   "stories": [
     {
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "summary": "Hacker News coverage: China’s open-weights AI strategy is winning",
-      "thumbnail": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 1018,
-      "comments": 812,
-      "tags": [
-        "Open Source"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48979269"
-    },
-    {
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "summary": "Hacker News coverage: Airport Simulator",
-      "thumbnail": "https://airport.apunen.com/og-airport-simulator.png?v=20260720",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 758,
-      "comments": 150,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48976846"
-    },
-    {
-      "title": "I found a WordPress RCEs with GPT5.6 and $25",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "Hacker News coverage: I found a WordPress RCEs with GPT5.6 and $25",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 388,
-      "comments": 212,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48975665"
-    },
-    {
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "summary": "Hacker News coverage: Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "thumbnail": "https://www.emergingtrajectories.com/assets/677d5ee3d185dd5dede0a75e/67a0d0ade0b78706efd6a5d8_heropink.png",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 317,
-      "comments": 301,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48980019"
-    },
-    {
-      "title": "Airbus Takes Flight from AWS",
-      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "summary": "Hacker News coverage: Airbus Takes Flight from AWS",
-      "thumbnail": "https://image.theregister.com/5274151.jpg?imageId=5274151&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 197,
-      "comments": 159,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48976682"
-    },
-    {
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "summary": "Hacker News coverage: How we measured AI writing across arXiv, and where the measurement breaks",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 201,
-      "comments": 145,
-      "tags": [
-        "Research"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48981206"
-    },
-    {
-      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-      "summary": "Hacker News coverage: Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "thumbnail": "https://media.newyorker.com/photos/643ef9c0216f99acd11e5090/16:9/w_1280,c_limit/lanier_ai.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 63,
-      "comments": 105,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48980238"
-    },
-    {
-      "title": "Ziggity – A terminal UI for Git, written in Zig",
-      "url": "https://github.com/simoarpe/ziggity",
-      "summary": "Hacker News coverage: Ziggity – A terminal UI for Git, written in Zig",
-      "thumbnail": "https://opengraph.githubassets.com/dfc4d9eeb2e34c6fbfadfcdcacfe46bbfae6d81ed70a98526ca94cb2a33846c0/simoarpe/ziggity",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 69,
-      "comments": 51,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48980506"
-    },
-    {
-      "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
-      "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
-      "summary": "Hacker News coverage: EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 43,
-      "comments": 67,
-      "tags": [
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48975245"
-    },
-    {
-      "title": "Controlling Reasoning Effort in LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-      "summary": "Hacker News coverage: Controlling Reasoning Effort in LLMs",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!jWb-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F286a0beb-32b2-41fc-8bcf-6bae189b53f2_1488x840.png",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 64,
-      "comments": 5,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48979475"
-    },
-    {
-      "title": "Americans hate AI so much that politicians are losing their jobs over it",
-      "url": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/",
-      "summary": "Hacker News coverage: Americans hate AI so much that politicians are losing their jobs over it",
-      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1127046260-e1783971510471.jpg?resize=1200,600",
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 45,
-      "comments": 28,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48986003"
-    },
-    {
-      "title": "Big tech needs to justify AI spending as investors dump stocks",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
-      "summary": "Hacker News coverage: Big tech needs to justify AI spending as investors dump stocks",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 44,
-      "comments": 14,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=48974426"
-    },
-    {
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "summary": "Hacker News coverage: Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F9%2F9%2F12819974-2-eng-GB%2F04ab7b8b57e0-photo_SXM2026071800000547.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "summary": "Hacker News coverage: OpenAI and Hugging Face address security incident during model evaluation",
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/1kXZRSOAQbv2BDKEO14tJl/b2f0a336afaddc32e5776ba555bc4dbf/Hugging_Face_Security_Incident_16x9.png?w=1600&amp;h=900&amp;fit=fill",
       "source": "Hacker News",
       "date": "2026-07-21",
-      "upvotes": 36,
-      "comments": 0,
+      "upvotes": 858,
+      "comments": 598,
       "tags": [
+        "LLMs",
+        "Open Source",
         "Industry"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48987863"
+      "hn_url": "https://news.ycombinator.com/item?id=48997548"
     },
     {
-      "title": "The AI hype is a mass psychosis echo chamber of incompetent individuals",
-      "url": "https://aob2f.substack.com/p/the-ai-hype-is-a-mass-psychosis-echo",
-      "summary": "Hacker News coverage: The AI hype is a mass psychosis echo chamber of incompetent individuals",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!ARCv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293c4106-6617-4335-9e82-593279d16925_1920x1072.png",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "summary": "Hacker News coverage: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
       "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 31,
-      "comments": 9,
+      "date": "2026-07-21",
+      "upvotes": 640,
+      "comments": 509,
       "tags": [
-        "AI"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48981857"
+      "hn_url": "https://news.ycombinator.com/item?id=48993414"
     },
     {
-      "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
-      "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
-      "summary": "Hacker News coverage: Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "summary": "Hacker News coverage: Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-20",
-      "upvotes": 30,
-      "comments": 6,
+      "date": "2026-07-21",
+      "upvotes": 276,
+      "comments": 233,
+      "tags": [
+        "Agents",
+        "Industry"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48995213"
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "summary": "Hacker News coverage: Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 195,
+      "comments": 146,
+      "tags": [
+        "LLMs",
+        "Tools"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48996652"
+    },
+    {
+      "title": "Claude Is Not a Compiler",
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "summary": "Hacker News coverage: Claude Is Not a Compiler",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 147,
+      "comments": 156,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48993059"
+    },
+    {
+      "title": "AI makes programming differently difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "summary": "Hacker News coverage: AI makes programming differently difficult",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 144,
+      "comments": 121,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=48978545"
+      "hn_url": "https://news.ycombinator.com/item?id=48996197"
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "summary": "Hacker News coverage: \"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "thumbnail": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358",
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 144,
+      "comments": 52,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48998404"
+    },
+    {
+      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "summary": "Hacker News coverage: Meta's AI models are powering the first wave of Genesis Mission projects",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 93,
+      "comments": 73,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48995074"
+    },
+    {
+      "title": "Gemini 3.6 Flash",
+      "url": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
+      "summary": "Hacker News coverage: Gemini 3.6 Flash",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 68,
+      "comments": 63,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48993130"
+    },
+    {
+      "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+      "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+      "summary": "Hacker News coverage: Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 75,
+      "comments": 13,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48996760"
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "summary": "Hacker News coverage: Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 56,
+      "comments": 17,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48998606"
+    },
+    {
+      "title": "AI Agent – TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "summary": "Hacker News coverage: AI Agent – TRMNL",
+      "thumbnail": "https://downloads.intercomcdn.com/i/o/v9ws3u2x/617860/0719b051b2786587572435169af6/15dbde1828ef9f85e25740f9aad788d4.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 46,
+      "comments": 24,
+      "tags": [
+        "Agents"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48996236"
+    },
+    {
+      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+      "url": "https://www.getcomputable.com/",
+      "summary": "Hacker News coverage: Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 32,
+      "comments": 22,
+      "tags": [
+        "Hardware"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48998828"
+    },
+    {
+      "title": "How an AI Anime Is Created",
+      "url": "https://www.aventos.dev/our-process?view=blog",
+      "summary": "Hacker News coverage: How an AI Anime Is Created",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-22",
+      "upvotes": 27,
+      "comments": 29,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49000429"
+    },
+    {
+      "title": "I built a page that tells you what AI model your laptop can run",
+      "url": "https://localsotabenchmark.engineersf.dev/",
+      "summary": "Hacker News coverage: I built a page that tells you what AI model your laptop can run",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-21",
+      "upvotes": 30,
+      "comments": 22,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=48995134"
     }
   ]
 }
