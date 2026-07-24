@@ -1,225 +1,224 @@
 {
-  "generated_at": "2026-07-23 04:30 UTC",
+  "generated_at": "2026-07-24 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 125,
+    "articles_scanned": 123,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 53,
-      "hacker_news_24h": 77
+      "hacker_news_24h": 79
     }
   },
   "stories": [
     {
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "summary": "Hacker News coverage: Are AI labs pelicanmaxxing?",
-      "thumbnail": "https://dylancastillo.co/posts/images/social_media_card.webp",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "summary": "Hacker News coverage: Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "thumbnail": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa8%2F79%2Fc68941cd46358895386a0c81b2f0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282316513",
       "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 428,
-      "comments": 166,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49010129"
-    },
-    {
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "summary": "Hacker News coverage: Businesses with ugly AI menu redesigns",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 211,
-      "comments": 161,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49005973"
-    },
-    {
-      "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
-      "summary": "Hacker News coverage: Most Americans say \"not in my backyard\" to AI data centers",
-      "thumbnail": "https://www.redfin.com/news/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-1.08.32-PM.png",
-      "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 133,
-      "comments": 282,
-      "tags": [
-        "Hardware"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49007525"
-    },
-    {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "summary": "Hacker News coverage: Quality non-fiction books are the antithesis of AI slop",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!EZXa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0fcdcaf-a0ad-4dd5-a383-47403c929ab7_1364x1212.png",
-      "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 227,
-      "comments": 91,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49007247"
-    },
-    {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "summary": "Hacker News coverage: Can a MUD evaluate LLMs? A $99 proof of concept",
-      "thumbnail": "https://cruciblebench.ai/social-card.png",
-      "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 100,
-      "comments": 70,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49008538"
-    },
-    {
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
-      "summary": "Hacker News coverage: OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/b9d4/live/4b4f4070-8640-11f1-bee8-53ce494e1abc.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 75,
-      "comments": 99,
+      "date": "2026-07-23",
+      "upvotes": 798,
+      "comments": 694,
       "tags": [
         "Industry"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49005398"
+      "hn_url": "https://news.ycombinator.com/item?id=49023016"
     },
     {
-      "title": "Show HN: A new kind of FPS aim trainer",
-      "url": "https://openaim.pramit.gg/",
-      "summary": "Hacker News coverage: Show HN: A new kind of FPS aim trainer",
-      "thumbnail": null,
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "summary": "Hacker News coverage: AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "thumbnail": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-hide-debt-off-balance-sheet.jpg?w=1200",
       "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 81,
-      "comments": 44,
+      "date": "2026-07-23",
+      "upvotes": 628,
+      "comments": 318,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49002276"
+      "hn_url": "https://news.ycombinator.com/item?id=49020999"
     },
     {
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "summary": "Hacker News coverage: OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "summary": "Hacker News coverage: OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "thumbnail": "https://images.axios.com/MiYYOp1rLamGYEBlugBkwZXM2mc=/0x0:1920x1080/1366x768/2026/06/11/1781207207326.jpeg",
+      "source": "Hacker News",
+      "date": "2026-07-23",
+      "upvotes": 281,
+      "comments": 313,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49020868"
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "summary": "Hacker News coverage: Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
       "thumbnail": null,
       "source": "Hacker News",
       "date": "2026-07-23",
-      "upvotes": 71,
-      "comments": 63,
+      "upvotes": 258,
+      "comments": 266,
       "tags": [
-        "Open Source",
-        "Tools"
+        "Industry"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49015639"
+      "hn_url": "https://news.ycombinator.com/item?id=49021006"
     },
     {
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "summary": "Hacker News coverage: Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "thumbnail": "https://opengraph.githubassets.com/e702af2c3c3da3461c66e0d7e339e11de909cb6a159c694a5fcb5a3280aa1a51/cactus-compute/cactus-hybrid",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "summary": "Hacker News coverage: DARPA, U.S. Air Force fly AI-controlled F-16",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 91,
-      "comments": 14,
+      "date": "2026-07-23",
+      "upvotes": 202,
+      "comments": 225,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49010782"
+      "hn_url": "https://news.ycombinator.com/item?id=49021597"
     },
     {
-      "title": "Petals: Run LLMs at home, BitTorrent-style",
-      "url": "https://petals.dev/",
-      "summary": "Hacker News coverage: Petals: Run LLMs at home, BitTorrent-style",
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "summary": "Hacker News coverage: The arguments against open source AI are bad",
+      "thumbnail": "https://tombedor.dev/img/social-card.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-23",
+      "upvotes": 232,
+      "comments": 161,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49024643"
+    },
+    {
+      "title": "I think you might be fooling yourself with AI",
+      "url": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
+      "summary": "Hacker News coverage: I think you might be fooling yourself with AI",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-23",
+      "upvotes": 80,
+      "comments": 158,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49021843"
+    },
+    {
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "summary": "Hacker News coverage: Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "thumbnail": "https://opengraph.githubassets.com/0e622d515d46dd1bb4a75c806f187a3cf6e9884fff5195f6338b577cf41fe58d/palmier-io/palmier-pro",
+      "source": "Hacker News",
+      "date": "2026-07-23",
+      "upvotes": 131,
+      "comments": 21,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49022911"
+    },
+    {
+      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+      "summary": "Hacker News coverage: New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
       "thumbnail": null,
       "source": "Hacker News",
       "date": "2026-07-23",
       "upvotes": 76,
-      "comments": 26,
+      "comments": 109,
       "tags": [
-        "LLMs"
+        "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49015735"
+      "hn_url": "https://news.ycombinator.com/item?id=49019694"
     },
     {
-      "title": "OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence/",
-      "summary": "Hacker News coverage: OpenAI Presence",
-      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/6jXxdGYMc8oC9wCBbM59tD/47cd3218b63b068cf3ec2f63b79d5256/OpenAI_Presence_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "summary": "Hacker News coverage: Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "thumbnail": "https://prd-sc102-cdn.rtx.com/-/media/rtx/news-images/2026/07/hybrid-electric-flight-demonstrator-engine_test-cell-1920x1080.jpg?rev=1eea54e7348d4c80a8953590bdbe72a0&rid=b07712ad28b94b93a524d8bd29ca9d8d",
       "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 59,
-      "comments": 50,
+      "date": "2026-07-23",
+      "upvotes": 86,
+      "comments": 83,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49008089"
+      "hn_url": "https://news.ycombinator.com/item?id=49021868"
     },
     {
-      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1253",
-      "summary": "Hacker News coverage: Codeberg: ToU extension to prohibit LLM-extrusions",
-      "thumbnail": null,
+      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "summary": "Hacker News coverage: Show HN: Claude-thermos keeps your Claude session warm for you",
+      "thumbnail": "https://opengraph.githubassets.com/4f3f1f29e1d89b80959adaacfd462c2c27065e7aa7b66d988b96a79ddcb7473a/izeigerman/claude-thermos",
       "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 47,
-      "comments": 64,
+      "date": "2026-07-23",
+      "upvotes": 88,
+      "comments": 74,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49003465"
+      "hn_url": "https://news.ycombinator.com/item?id=49024882"
     },
     {
-      "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
-      "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
-      "summary": "Hacker News coverage: Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "summary": "Hacker News coverage: How much energy do data centers and artificial intelligence use?",
+      "thumbnail": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1bda728d-dc32-4ca7-32f8-dcb5be9a4b00/public",
+      "source": "Hacker News",
+      "date": "2026-07-23",
+      "upvotes": 69,
+      "comments": 71,
+      "tags": [
+        "Hardware"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49022412"
+    },
+    {
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "summary": "Hacker News coverage: Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "thumbnail": "https://repository-images.githubusercontent.com/1175900220/ef74e755-ef2e-4166-8437-b1ad4830e2ff",
+      "source": "Hacker News",
+      "date": "2026-07-23",
+      "upvotes": 84,
+      "comments": 29,
+      "tags": [
+        "Agents"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49023427"
+    },
+    {
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+      "summary": "Hacker News coverage: AI bet goes awry: Oracle fires 21,000 employees",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 41,
-      "comments": 15,
+      "date": "2026-07-23",
+      "upvotes": 88,
+      "comments": 17,
       "tags": [
-        "LLMs"
+        "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49003810"
+      "hn_url": "https://news.ycombinator.com/item?id=49025754"
     },
     {
-      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-      "url": "https://arxiv.org/abs/2607.18250",
-      "summary": "Hacker News coverage: Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "url": "https://arxiv.org/abs/2507.09369",
+      "summary": "Hacker News coverage: A taxonomy of omnicidal futures involving artificial intelligence (2025)",
       "thumbnail": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
       "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 28,
-      "comments": 22,
+      "date": "2026-07-23",
+      "upvotes": 65,
+      "comments": 56,
       "tags": [
-        "LLMs"
+        "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49014537"
-    },
-    {
-      "title": "I used ChatGPT to sue a Norwegian airline from New York and get $4760",
-      "url": "https://www.behind-the-enemy-lines.com/2026/07/the-lawyer-i-never-hired-how-chatgpt.html",
-      "summary": "Hacker News coverage: I used ChatGPT to sue a Norwegian airline from New York and get $4760",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-22",
-      "upvotes": 30,
-      "comments": 11,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49009131"
+      "hn_url": "https://news.ycombinator.com/item?id=49029133"
     }
   ]
 }
