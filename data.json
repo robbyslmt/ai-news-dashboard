@@ -1,224 +1,225 @@
 {
-  "generated_at": "2026-07-24 04:30 UTC",
+  "generated_at": "2026-07-25 04:31 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 123,
+    "articles_scanned": 119,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 53,
-      "hacker_news_24h": 79
+      "hacker_news_24h": 74
     }
   },
   "stories": [
     {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "summary": "Hacker News coverage: Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "thumbnail": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa8%2F79%2Fc68941cd46358895386a0c81b2f0%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282316513",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 798,
-      "comments": 694,
-      "tags": [
-        "Industry"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49023016"
-    },
-    {
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "summary": "Hacker News coverage: AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "thumbnail": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-hide-debt-off-balance-sheet.jpg?w=1200",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 628,
-      "comments": 318,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49020999"
-    },
-    {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "summary": "Hacker News coverage: OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "thumbnail": "https://images.axios.com/MiYYOp1rLamGYEBlugBkwZXM2mc=/0x0:1920x1080/1366x768/2026/06/11/1781207207326.jpeg",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 281,
-      "comments": 313,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49020868"
-    },
-    {
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "summary": "Hacker News coverage: Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "title": "It's getting harder to focus every day",
+      "url": "https://glyphack.com/attention/",
+      "summary": "Hacker News coverage: It's getting harder to focus every day",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 258,
-      "comments": 266,
-      "tags": [
-        "Industry"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49021006"
-    },
-    {
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "summary": "Hacker News coverage: DARPA, U.S. Air Force fly AI-controlled F-16",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 202,
-      "comments": 225,
+      "date": "2026-07-24",
+      "upvotes": 707,
+      "comments": 391,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49021597"
+      "hn_url": "https://news.ycombinator.com/item?id=49032660"
     },
     {
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "summary": "Hacker News coverage: The arguments against open source AI are bad",
-      "thumbnail": "https://tombedor.dev/img/social-card.jpg",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "summary": "Hacker News coverage: If coding has been solved, why does software keep getting worse?",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 232,
-      "comments": 161,
+      "date": "2026-07-24",
+      "upvotes": 623,
+      "comments": 487,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49033004"
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "summary": "Hacker News coverage: My security camera shipped a GitHub admin token in its login page",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 537,
+      "comments": 184,
       "tags": [
         "Open Source"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49024643"
+      "hn_url": "https://news.ycombinator.com/item?id=49034292"
     },
     {
-      "title": "I think you might be fooling yourself with AI",
-      "url": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
-      "summary": "Hacker News coverage: I think you might be fooling yourself with AI",
-      "thumbnail": null,
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "summary": "Hacker News coverage: Be skeptical of OpenAI's rogue hacker agent story",
+      "thumbnail": "https://i.guim.co.uk/img/media/e3c91fad3c0af25a6cbbd44c6b091bdfdfdd270d/952_0_4448_3558/master/4448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d8a12eef6083a120c19a454c8d40fcfd",
       "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 80,
-      "comments": 158,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49021843"
-    },
-    {
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "summary": "Hacker News coverage: Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "thumbnail": "https://opengraph.githubassets.com/0e622d515d46dd1bb4a75c806f187a3cf6e9884fff5195f6338b577cf41fe58d/palmier-io/palmier-pro",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 131,
-      "comments": 21,
-      "tags": [
-        "Open Source"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49022911"
-    },
-    {
-      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
-      "summary": "Hacker News coverage: New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 76,
-      "comments": 109,
-      "tags": [
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49019694"
-    },
-    {
-      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-      "summary": "Hacker News coverage: Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "thumbnail": "https://prd-sc102-cdn.rtx.com/-/media/rtx/news-images/2026/07/hybrid-electric-flight-demonstrator-engine_test-cell-1920x1080.jpg?rev=1eea54e7348d4c80a8953590bdbe72a0&rid=b07712ad28b94b93a524d8bd29ca9d8d",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 86,
-      "comments": 83,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49021868"
-    },
-    {
-      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "summary": "Hacker News coverage: Show HN: Claude-thermos keeps your Claude session warm for you",
-      "thumbnail": "https://opengraph.githubassets.com/4f3f1f29e1d89b80959adaacfd462c2c27065e7aa7b66d988b96a79ddcb7473a/izeigerman/claude-thermos",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 88,
-      "comments": 74,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49024882"
-    },
-    {
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "summary": "Hacker News coverage: How much energy do data centers and artificial intelligence use?",
-      "thumbnail": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1bda728d-dc32-4ca7-32f8-dcb5be9a4b00/public",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 69,
-      "comments": 71,
-      "tags": [
-        "Hardware"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49022412"
-    },
-    {
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "summary": "Hacker News coverage: Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "thumbnail": "https://repository-images.githubusercontent.com/1175900220/ef74e755-ef2e-4166-8437-b1ad4830e2ff",
-      "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 84,
-      "comments": 29,
+      "date": "2026-07-24",
+      "upvotes": 460,
+      "comments": 262,
       "tags": [
         "Agents"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49023427"
+      "hn_url": "https://news.ycombinator.com/item?id=49038060"
     },
     {
-      "title": "AI bet goes awry: Oracle fires 21,000 employees",
-      "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-      "summary": "Hacker News coverage: AI bet goes awry: Oracle fires 21,000 employees",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "summary": "Hacker News coverage: Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/s017lf/article71262085.ece/alternates/LANDSCAPE_1200/12-11-JACK_DORSEY_CEO_TWITTER_B.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 410,
+      "comments": 299,
+      "tags": [
+        "Open Source",
+        "Tools"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49036433"
+    },
+    {
+      "title": "Claude Cookbook",
+      "url": "https://platform.claude.com/cookbook/",
+      "summary": "Hacker News coverage: Claude Cookbook",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 88,
-      "comments": 17,
+      "date": "2026-07-24",
+      "upvotes": 296,
+      "comments": 156,
       "tags": [
-        "AI"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49025754"
+      "hn_url": "https://news.ycombinator.com/item?id=49031409"
     },
     {
-      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "url": "https://arxiv.org/abs/2507.09369",
-      "summary": "Hacker News coverage: A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "thumbnail": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "summary": "Hacker News coverage: Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "thumbnail": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
       "source": "Hacker News",
-      "date": "2026-07-23",
-      "upvotes": 65,
-      "comments": 56,
+      "date": "2026-07-24",
+      "upvotes": 195,
+      "comments": 125,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49029133"
+      "hn_url": "https://news.ycombinator.com/item?id=49040741"
+    },
+    {
+      "title": "Hetzner is working on LLM Inference",
+      "url": "https://sliplane.io/blog/hetzner-inference",
+      "summary": "Hacker News coverage: Hetzner is working on LLM Inference",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 145,
+      "comments": 78,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49033087"
+    },
+    {
+      "title": "I got into YC Startup School by hacking it",
+      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+      "summary": "Hacker News coverage: I got into YC Startup School by hacking it",
+      "thumbnail": "https://obaid.wtf/assets/yc-post-og.png",
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 101,
+      "comments": 66,
+      "tags": [
+        "Industry"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49039448"
+    },
+    {
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "summary": "Hacker News coverage: I Tried Building a Real App with AI. It Took a Year",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 93,
+      "comments": 77,
+      "tags": [
+        "Tools"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49034342"
+    },
+    {
+      "title": "Open Weights and American AI Leadership [pdf]",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "summary": "Hacker News coverage: Open Weights and American AI Leadership [pdf]",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 111,
+      "comments": 2,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49035751"
+    },
+    {
+      "title": "AIs don't do what you want. This is bad",
+      "url": "https://rewardhacking.org",
+      "summary": "Hacker News coverage: AIs don't do what you want. This is bad",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 69,
+      "comments": 64,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49042354"
+    },
+    {
+      "title": "AMD's Instinct MI455X: Aiming for the Sun",
+      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+      "summary": "Hacker News coverage: AMD's Instinct MI455X: Aiming for the Sun",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!vm_9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5aed42bb-f239-4316-89ea-e12fcafad025_964x1156.png",
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 81,
+      "comments": 34,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49032072"
+    },
+    {
+      "title": "Oracle fires 21,000 employees to fund AI spending",
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+      "summary": "Hacker News coverage: Oracle fires 21,000 employees to fund AI spending",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731141",
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 73,
+      "comments": 13,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49035314"
+    },
+    {
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "summary": "Hacker News coverage: Claude Opus 5",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-24",
+      "upvotes": 73,
+      "comments": 3,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49038393"
     }
   ]
 }
