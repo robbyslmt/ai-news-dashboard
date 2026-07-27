@@ -1,224 +1,226 @@
 {
-  "generated_at": "2026-07-26 04:30 UTC",
+  "generated_at": "2026-07-27 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 102,
+    "articles_scanned": 117,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 53,
-      "hacker_news_24h": 67
+      "hacker_news_24h": 69
     }
   },
   "stories": [
     {
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "summary": "Hacker News coverage: Open-weight AI is having its Kubernetes moment",
-      "thumbnail": "https://tobi.knaup.me/assets/img/blog/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment.730px.jpeg",
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 338,
-      "comments": 273,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49048034"
-    },
-    {
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "summary": "Hacker News coverage: Running a 28.9M parameter LLM on an $8 microcontroller",
-      "thumbnail": "https://opengraph.githubassets.com/39edd8c732720ebe754f370359b7e42caf4e21bc19fdd029755d60e21489f389/slvDev/esp32-ai",
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 108,
-      "comments": 25,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49050512"
-    },
-    {
-      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-      "summary": "Hacker News coverage: Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 59,
-      "comments": 80,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49047448"
-    },
-    {
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "summary": "Hacker News coverage: What is happening to jobs? Separating AI hype from reality",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 61,
-      "comments": 70,
-      "tags": [
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49052570"
-    },
-    {
-      "title": "Politician reads AI prompt during assembly",
-      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-      "summary": "Anthropic claims newest AI model, Claude Mythos, is too powerful for public release",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 67,
-      "comments": 43,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49048996"
-    },
-    {
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "summary": "Hacker News coverage: Cloudflare's new AI traffic options for customers",
-      "thumbnail": "https://blog.cloudflare.com/_emdash/api/media/file/01KWW2Q1J78MZF5QRDGYXQN4VN.png",
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 65,
-      "comments": 40,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49052564"
-    },
-    {
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "summary": "Hacker News coverage: Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fc6ad6da7b554fc0089b3535d846dc2ca01ae585-3000x2000.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75",
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 59,
-      "comments": 49,
-      "tags": [
-        "Regulation"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49048645"
-    },
-    {
-      "title": "The AI jobs apocalypse probably isn't coming anytime soon",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "summary": "Hacker News coverage: The AI jobs apocalypse probably isn't coming anytime soon",
-      "thumbnail": "https://i.guim.co.uk/img/media/e9dc22d7de9bd5d0f413d80dd7b363bb0c6517cc/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b4774108bb4ef4e3b836d5fcd4c71fdd",
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 41,
-      "comments": 81,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49047969"
-    },
-    {
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "summary": "Hacker News coverage: Bringing PyTorch Monarch to AMD GPUs",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 71,
-      "comments": 6,
-      "tags": [
-        "Hardware"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49048689"
-    },
-    {
-      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "summary": "Hacker News coverage: 'AI Mania Is Eviscerating Global Decision-Making'",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 55,
-      "comments": 18,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49051692"
-    },
-    {
-      "title": "Git rebase -I is not that scary",
-      "url": "https://cachebag.sh/journal/interactive-rebasing/",
-      "summary": "Hacker News coverage: Git rebase -I is not that scary",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "summary": "Hacker News coverage: US citizen charged after GrapheneOS phone wipes during airport search",
       "thumbnail": null,
       "source": "Hacker News",
       "date": "2026-07-26",
-      "upvotes": 41,
-      "comments": 34,
+      "upvotes": 379,
+      "comments": 239,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49053385"
+      "hn_url": "https://news.ycombinator.com/item?id=49063022"
     },
     {
-      "title": "The AI Productivity Illusion",
-      "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
-      "summary": "Hacker News coverage: The AI Productivity Illusion",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!WWWb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c2d0969-0db0-405b-a42c-9c1669608300_4000x2686.jpeg",
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "summary": "Hacker News coverage: London Gatwick has launched a robotic airport parking service",
+      "thumbnail": "https://aerospaceglobalnews.com/wp-content/uploads/2026/07/6a61de120354b41c5c00cf08.jpeg",
       "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 38,
-      "comments": 12,
+      "date": "2026-07-26",
+      "upvotes": 273,
+      "comments": 233,
+      "tags": [
+        "Industry"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49058669"
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "summary": "Hacker News coverage: The New AI Superpowers: Focus and Followthrough",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!R31O!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a57282a-143c-41d8-a777-084d8e097340_498x498.gif",
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 172,
+      "comments": 50,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49047526"
+      "hn_url": "https://news.ycombinator.com/item?id=49057877"
     },
     {
-      "title": "What if the RAM/GPU shortage is deliberate?",
-      "url": "https://xn--vk5b17r.online/posts/ram-gpu-consp/",
-      "summary": "Hacker News coverage: What if the RAM/GPU shortage is deliberate?",
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "summary": "Hacker News coverage: Terence Tao: Mathematics in the Age of AI [pdf]",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 33,
-      "comments": 16,
-      "tags": [
-        "Hardware"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49046917"
-    },
-    {
-      "title": "Apple Is the King of AI and Nobody Knows It",
-      "url": "https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody",
-      "summary": "Hacker News coverage: Apple Is the King of AI and Nobody Knows It",
-      "thumbnail": "https://substackcdn.com/image/fetch/$s_!Zpvi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c84b884-ad96-4719-b900-8151a56dbe51_2560x1440.jpeg",
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 22,
-      "comments": 33,
-      "tags": [
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49049241"
-    },
-    {
-      "title": "A system prompt to get AI to stop pretending to be human",
-      "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
-      "summary": "Hacker News coverage: A system prompt to get AI to stop pretending to be human",
-      "thumbnail": "https://swiftrocks.com/images/thumbs/thumb_dark.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-25",
-      "upvotes": 31,
-      "comments": 13,
+      "date": "2026-07-26",
+      "upvotes": 113,
+      "comments": 48,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49049304"
+      "hn_url": "https://news.ycombinator.com/item?id=49056620"
+    },
+    {
+      "title": "What does GitHub's security team even do?",
+      "url": "https://orchidfiles.com/github-security-team/",
+      "summary": "Hacker News coverage: What does GitHub's security team even do?",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 97,
+      "comments": 28,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49061769"
+    },
+    {
+      "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+      "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+      "summary": "Hacker News coverage: This July I Was Fired from Simple AI (A Deeply YC Company)",
+      "thumbnail": "https://trattner.github.io/img/icon/x-tile.png",
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 52,
+      "comments": 105,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49059587"
+    },
+    {
+      "title": "What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://www.agrillo.it/EvasionEn.html",
+      "summary": "Hacker News coverage: What if LLMs escape through inferences itself? This is fiction. For now",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 32,
+      "comments": 71,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49059660"
+    },
+    {
+      "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+      "url": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+      "summary": "Hacker News coverage: Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+      "thumbnail": "https://external-preview.redd.it/cEQvLmnnrOrAOUCtTjb6lRDflBXDV58JHyxPxDPpmV4.png?width=1200&amp;height=600&amp;auto=webp&amp;crop=1200:600,smart&amp;s=ed437fa0b4f62c44ed4bb5ae650d02a76e9631f7",
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 26,
+      "comments": 13,
+      "tags": [
+        "LLMs",
+        "Agents"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49056022"
+    },
+    {
+      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://github.com/hertz-ai/HARTOS",
+      "summary": "Hacker News coverage: Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "thumbnail": "https://opengraph.githubassets.com/b2e25535d1a8a5b56b7e885adc146f45e1a15c902213d3a40a8d06a7f0a2e0ca/hertz-ai/HARTOS",
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 18,
+      "comments": 20,
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49061015"
+    },
+    {
+      "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "url": "https://github.com/hkc5/cursor-bridge",
+      "summary": "Hacker News coverage: Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "thumbnail": "https://opengraph.githubassets.com/01e0c0f3903fdfe9298426c707456b5e0818a51e96fc4b2f276f4d6247d82a30/hkc5/cursor-bridge",
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 17,
+      "comments": 19,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49063186"
+    },
+    {
+      "title": "An OpenAI model left notes about how to evade containment; we need more details",
+      "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
+      "summary": "Hacker News coverage: An OpenAI model left notes about how to evade containment; we need more details",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 17,
+      "comments": 10,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49056808"
+    },
+    {
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "summary": "Hacker News coverage: Multiway Turing Machines (2021 pre-ai)",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 20,
+      "comments": 3,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49062259"
+    },
+    {
+      "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+      "url": "https://github.com/MicSm/boffin",
+      "summary": "Hacker News coverage: Show HN: Boffin – Staff-engineer layer for AI coding agents",
+      "thumbnail": "https://opengraph.githubassets.com/76c38cb821d7367cb8e13c476de5b49d6097fcbdf272bf28183df6e233c07bb2/MicSm/boffin",
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 18,
+      "comments": 6,
+      "tags": [
+        "Agents"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49060279"
+    },
+    {
+      "title": "Show HN: The Occult Gatsby",
+      "url": "https://occultgatsby.work",
+      "summary": "Hacker News coverage: Show HN: The Occult Gatsby",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-26",
+      "upvotes": 18,
+      "comments": 4,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49060998"
+    },
+    {
+      "title": "Open-source 3D-printed portable MRI machine built for under $70k",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-3d-printed-portable-mri-machine-built-for-under-usd70-000-diy-medical-equipment-costs-less-than-7-percent-of-a-full-sized-mri-machines-usd1-1-million-starting-price",
+      "summary": "Hacker News coverage: Open-source 3D-printed portable MRI machine built for under $70k",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/De5aWoD9d2nV5fNd5FkrsW-1920-80.png",
+      "source": "Hacker News",
+      "date": "2026-07-27",
+      "upvotes": 17,
+      "comments": 2,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49063668"
     }
   ]
 }
