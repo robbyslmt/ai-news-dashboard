@@ -1,227 +1,227 @@
 {
-  "generated_at": "2026-07-29 04:30 UTC",
+  "generated_at": "2026-07-30 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 126,
+    "articles_scanned": 128,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 53,
-      "hacker_news_24h": 83
+      "hacker_news_24h": 82
     }
   },
   "stories": [
     {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "summary": "Hacker News coverage: Discovering Cryptographic Weaknesses with Claude",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "summary": "Hacker News coverage: Document-borne AI worms can self-propagate through Copilot for Word",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 192,
-      "comments": 132,
+      "date": "2026-07-29",
+      "upvotes": 355,
+      "comments": 274,
+      "tags": [
+        "Agents"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49096188"
+    },
+    {
+      "title": "Claude: Elevated errors across all models – Resolved",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "summary": "Hacker News coverage: Claude: Elevated errors across all models – Resolved",
+      "thumbnail": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 261,
+      "comments": 241,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49087091"
+      "hn_url": "https://news.ycombinator.com/item?id=49102150"
     },
     {
-      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-      "url": "https://unawatch.com/",
-      "summary": "Hacker News coverage: Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "Hacker News coverage: AI's top startups are barely publishing their research",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 157,
-      "comments": 106,
+      "date": "2026-07-29",
+      "upvotes": 298,
+      "comments": 162,
+      "tags": [
+        "Research",
+        "Industry"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49103285"
+    },
+    {
+      "title": "After the AI Crash",
+      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+      "summary": "Hacker News coverage: After the AI Crash",
+      "thumbnail": "https://potsandpansbyccg.com/wp-content/uploads/2013/11/the-internet-e1647785954304.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 117,
+      "comments": 196,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49084813"
+      "hn_url": "https://news.ycombinator.com/item?id=49096953"
     },
     {
-      "title": "Now is the time to give LLMs access to the ACM digital library",
-      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "summary": "Hacker News coverage: Now is the time to give LLMs access to the ACM digital library",
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "summary": "Hacker News coverage: Some thoughts about Anthropic's new cryptanalysis results",
+      "thumbnail": "https://blog.cryptographyengineering.com/wp-content/uploads/2026/07/anthropic.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 119,
+      "comments": 64,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49099804"
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "summary": "Hacker News coverage: LLM Honeypot",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 131,
-      "comments": 108,
+      "date": "2026-07-29",
+      "upvotes": 118,
+      "comments": 43,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49104117"
+    },
+    {
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "summary": "Hacker News coverage: Disrupting supply chain attacks on NPM and GitHub Actions",
+      "thumbnail": "https://github.blog/wp-content/uploads/2026/01/github-generic-security-blocks-logo.png?fit=1920%2C1080",
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 85,
+      "comments": 34,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49096427"
+    },
+    {
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "summary": "Hacker News coverage: GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "thumbnail": "https://framerusercontent.com/images/zsGtVGVvu1F0gBl160qdoLs0oAM.webp?width=2400&amp;height=1350",
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 89,
+      "comments": 19,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49098388"
+    },
+    {
+      "title": "AI in Linux",
+      "url": "https://drewdevault.com/blog/AI-in-Linux/",
+      "summary": "Hacker News coverage: AI in Linux",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 50,
+      "comments": 89,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49097649"
+    },
+    {
+      "title": "ChatGPT claims rogue AI attacked more companies",
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+      "summary": "Hacker News coverage: ChatGPT claims rogue AI attacked more companies",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 47,
+      "comments": 81,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49094996"
+    },
+    {
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "summary": "Hacker News coverage: Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "thumbnail": "https://www.emergingtrajectories.com/assets/677d5ee3d185dd5dede0a75e/67a0d0ade0b78706efd6a5d8_heropink.png",
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 66,
+      "comments": 36,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49101529"
+    },
+    {
+      "title": "TokenTown: A visual way to understand how LLMs work",
+      "url": "https://laurentiugabriel.github.io/token-town/",
+      "summary": "Hacker News coverage: TokenTown: A visual way to understand how LLMs work",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 71,
+      "comments": 20,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49097003"
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "summary": "Hacker News coverage: Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-29",
+      "upvotes": 55,
+      "comments": 49,
       "tags": [
         "LLMs",
-        "Tools"
+        "Industry"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49084987"
+      "hn_url": "https://news.ycombinator.com/item?id=49099143"
     },
     {
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "summary": "Hacker News coverage: Google's Beyond Zero: Enterprise Security for the AI Era",
-      "thumbnail": null,
+      "title": "GitHub is the wrong shape for this new world",
+      "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+      "summary": "Hacker News coverage: GitHub is the wrong shape for this new world",
+      "thumbnail": "https://depot.dev/images/banner/github-wrong-shape.png",
       "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 147,
-      "comments": 75,
+      "date": "2026-07-29",
+      "upvotes": 50,
+      "comments": 41,
       "tags": [
-        "AI"
+        "Open Source"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49081644"
+      "hn_url": "https://news.ycombinator.com/item?id=49103910"
     },
     {
-      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
-      "url": "https://github.com/reflex-dev/xy",
-      "summary": "Hacker News coverage: Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
-      "thumbnail": "https://opengraph.githubassets.com/6883a0631da21cbaf9969525b706c0978b27e5fffa28af471f799e742fd127e9/reflex-dev/xy",
+      "title": "Teacher arrested for clapping in opposition at an AI data center meeting",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance",
+      "summary": "Hacker News coverage: Teacher arrested for clapping in opposition at an AI data center meeting",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg-1920-80.png",
       "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 117,
-      "comments": 44,
+      "date": "2026-07-29",
+      "upvotes": 57,
+      "comments": 15,
       "tags": [
         "Hardware",
         "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49085798"
-    },
-    {
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "summary": "Hacker News coverage: Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "thumbnail": "https://opengraph.githubassets.com/4a4db56bcc8f00f2b4c2158d112bfb2b28c53134afad415781ae2afb340de601/schildep/verified-3d-mesh-intersection",
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 108,
-      "comments": 47,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49083239"
-    },
-    {
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "summary": "Hacker News coverage: LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 87,
-      "comments": 47,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49092499"
-    },
-    {
-      "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-      "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
-      "summary": "Hacker News coverage: Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 51,
-      "comments": 93,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49083364"
-    },
-    {
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-      "summary": "Hacker News coverage: What AI developers could learn from Charles Bukowski?",
-      "thumbnail": "https://galjot.si/_blog/img/2026/ai-developers-bukowski-social.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 66,
-      "comments": 49,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49083132"
-    },
-    {
-      "title": "AI revenues are growing fast, but not fast enough",
-      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-      "summary": "Hacker News coverage: AI revenues are growing fast, but not fast enough",
-      "thumbnail": "https://www.economist.com/content-assets/images/20260801_FND001.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 48,
-      "comments": 82,
-      "tags": [
-        "Industry"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49082706"
-    },
-    {
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "summary": "Hacker News coverage: Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "thumbnail": "https://speedmedia2.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2024/04/10150531/Coder-JFrog-Fusion-Blog_Thumbnail.png",
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 55,
-      "comments": 36,
-      "tags": [
-        "LLMs",
-        "Research"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49082550"
-    },
-    {
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "url": "https://github.com/anthropics/cryptography-research-demo",
-      "summary": "Hacker News coverage: Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "thumbnail": "https://opengraph.githubassets.com/afa23233882921792b6f6c5ca2736615adc96b335f60833e210104bf2afbd8dc/anthropics/cryptography-research-demo",
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 57,
-      "comments": 2,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49090083"
-    },
-    {
-      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
-      "summary": "Hacker News coverage: Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-      "thumbnail": "https://opengraph.githubassets.com/09a12823b55de6f3fd111b286ddc8f79ec5b08df09f34f9eb5bcad30df38ec16/ctrlb-hq/ctrlb-decompose",
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 49,
-      "comments": 6,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49083336"
-    },
-    {
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
-      "summary": "Hacker News coverage: Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/e056/live/347f61f0-8a31-11f1-949c-5b05e00ab03c.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 38,
-      "comments": 25,
-      "tags": [
-        "Hardware"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49092549"
-    },
-    {
-      "title": "The AI risk is inside the labs",
-      "url": "https://antirez.com/news/172",
-      "summary": "Hacker News coverage: The AI risk is inside the labs",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-28",
-      "upvotes": 40,
-      "comments": 16,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49081300"
+      "hn_url": "https://news.ycombinator.com/item?id=49097990"
     }
   ]
 }
