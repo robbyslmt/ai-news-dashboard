@@ -1,227 +1,227 @@
 {
-  "generated_at": "2026-07-30 04:30 UTC",
+  "generated_at": "2026-07-31 04:31 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 128,
+    "articles_scanned": 121,
     "subreddits_scanned": 0,
     "sources": {
-      "unified_search": 53,
-      "hacker_news_24h": 82
+      "unified_search": 50,
+      "hacker_news_24h": 77
     }
   },
   "stories": [
     {
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "summary": "Hacker News coverage: Document-borne AI worms can self-propagate through Copilot for Word",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "summary": "Hacker News coverage: Gemini Robotics 2 brings whole body intelligence to robots",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 355,
-      "comments": 274,
-      "tags": [
-        "Agents"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49096188"
-    },
-    {
-      "title": "Claude: Elevated errors across all models – Resolved",
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-      "summary": "Hacker News coverage: Claude: Elevated errors across all models – Resolved",
-      "thumbnail": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 261,
-      "comments": 241,
+      "date": "2026-07-30",
+      "upvotes": 506,
+      "comments": 405,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49102150"
+      "hn_url": "https://news.ycombinator.com/item?id=49111237"
     },
     {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "summary": "Hacker News coverage: AI's top startups are barely publishing their research",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "summary": "Hacker News coverage: Advancing the price-performance frontier with GPT‑5.6",
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/3YlohIkWAmTKqtreNc2Qwt/1ba93da6a8cb574aa0b299277874dbac/Frame__3_.png?w=1600&amp;h=900&amp;fit=fill",
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 528,
+      "comments": 346,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49112867"
+    },
+    {
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "summary": "Hacker News coverage: We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "thumbnail": "https://bottlenecklabs.com/blog/autonomously-run-businesses/og-autonomous-business.png",
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 327,
+      "comments": 197,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49113059"
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "summary": "Hacker News coverage: GCC steering committee announces AI policy",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 298,
-      "comments": 162,
+      "date": "2026-07-30",
+      "upvotes": 258,
+      "comments": 300,
       "tags": [
-        "Research",
-        "Industry"
+        "Industry",
+        "Regulation"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49103285"
+      "hn_url": "https://news.ycombinator.com/item?id=49108685"
     },
     {
-      "title": "After the AI Crash",
-      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-      "summary": "Hacker News coverage: After the AI Crash",
-      "thumbnail": "https://potsandpansbyccg.com/wp-content/uploads/2013/11/the-internet-e1647785954304.jpg",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "summary": "Hacker News coverage: The AI Aesthetic",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 117,
-      "comments": 196,
+      "date": "2026-07-30",
+      "upvotes": 199,
+      "comments": 105,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49096953"
+      "hn_url": "https://news.ycombinator.com/item?id=49117099"
     },
     {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "summary": "Hacker News coverage: Some thoughts about Anthropic's new cryptanalysis results",
-      "thumbnail": "https://blog.cryptographyengineering.com/wp-content/uploads/2026/07/anthropic.jpg",
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "summary": "Hacker News coverage: Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "thumbnail": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1301824521/853a3533-beb2-4701-bc00-9e771ab014b2?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260731%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260731T043130Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=eb210fe6d4f727d2e948e89680a59eee396db4ae3d0f31f8b8e07a350629a9e7&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ3MjU5MCwibmJmIjoxNzg1NDcyMjkwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.WU2kLcMByXxte1YDZpTZecfj1zxPSOUazlVKcsnfRQM",
       "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 119,
-      "comments": 64,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49099804"
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "summary": "Hacker News coverage: LLM Honeypot",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 118,
-      "comments": 43,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49104117"
-    },
-    {
-      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "summary": "Hacker News coverage: Disrupting supply chain attacks on NPM and GitHub Actions",
-      "thumbnail": "https://github.blog/wp-content/uploads/2026/01/github-generic-security-blocks-logo.png?fit=1920%2C1080",
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 85,
-      "comments": 34,
-      "tags": [
-        "Open Source"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49096427"
-    },
-    {
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "summary": "Hacker News coverage: GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "thumbnail": "https://framerusercontent.com/images/zsGtVGVvu1F0gBl160qdoLs0oAM.webp?width=2400&amp;height=1350",
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 89,
-      "comments": 19,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49098388"
-    },
-    {
-      "title": "AI in Linux",
-      "url": "https://drewdevault.com/blog/AI-in-Linux/",
-      "summary": "Hacker News coverage: AI in Linux",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 50,
-      "comments": 89,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49097649"
-    },
-    {
-      "title": "ChatGPT claims rogue AI attacked more companies",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-      "summary": "Hacker News coverage: ChatGPT claims rogue AI attacked more companies",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 47,
-      "comments": 81,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49094996"
-    },
-    {
-      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-      "summary": "Hacker News coverage: Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "thumbnail": "https://www.emergingtrajectories.com/assets/677d5ee3d185dd5dede0a75e/67a0d0ade0b78706efd6a5d8_heropink.png",
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 66,
-      "comments": 36,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49101529"
-    },
-    {
-      "title": "TokenTown: A visual way to understand how LLMs work",
-      "url": "https://laurentiugabriel.github.io/token-town/",
-      "summary": "Hacker News coverage: TokenTown: A visual way to understand how LLMs work",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 71,
-      "comments": 20,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49097003"
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "summary": "Hacker News coverage: Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 55,
-      "comments": 49,
+      "date": "2026-07-30",
+      "upvotes": 95,
+      "comments": 75,
       "tags": [
         "LLMs",
-        "Industry"
+        "Agents"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49099143"
+      "hn_url": "https://news.ycombinator.com/item?id=49107749"
     },
     {
-      "title": "GitHub is the wrong shape for this new world",
-      "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-      "summary": "Hacker News coverage: GitHub is the wrong shape for this new world",
-      "thumbnail": "https://depot.dev/images/banner/github-wrong-shape.png",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "summary": "Hacker News coverage: Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "thumbnail": "https://cdn.prod.website-files.com/67c5c67a4c758597bd28fafd/6a69e158f9fd4e8b99da4607_OG%20Card-selection.png",
       "source": "Hacker News",
-      "date": "2026-07-29",
-      "upvotes": 50,
-      "comments": 41,
+      "date": "2026-07-30",
+      "upvotes": 98,
+      "comments": 63,
       "tags": [
-        "Open Source"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49103910"
+      "hn_url": "https://news.ycombinator.com/item?id=49113599"
     },
     {
-      "title": "Teacher arrested for clapping in opposition at an AI data center meeting",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance",
-      "summary": "Hacker News coverage: Teacher arrested for clapping in opposition at an AI data center meeting",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg-1920-80.png",
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "summary": "Hacker News coverage: OpenJDK Interim Policy on Generative AI",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
+      "upvotes": 68,
+      "comments": 80,
+      "tags": [
+        "Regulation"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49109165"
+    },
+    {
+      "title": "I Have Thoughts on the iPhone Air",
+      "url": "https://christianselig.com/2026/07/iphone-air-review/",
+      "summary": "Hacker News coverage: I Have Thoughts on the iPhone Air",
+      "thumbnail": "https://christianselig.com/2026/07/iphone-air-review/cat.jpeg",
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 49,
+      "comments": 67,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49107145"
+    },
+    {
+      "title": "'My life's screwed': Korean investors stress out after AI bubble bursts",
+      "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1",
+      "summary": "Hacker News coverage: 'My life's screwed': Korean investors stress out after AI bubble bursts",
+      "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8d2d68b-99e8-446c-8be1-9338ba766e05.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1",
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 53,
+      "comments": 42,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49108480"
+    },
+    {
+      "title": "Sam Altman is now talking to the White House about decelerating AI",
+      "url": "https://twitter.com/AISafetyMemes/status/2082569026929394008",
+      "summary": "Hacker News coverage: Sam Altman is now talking to the White House about decelerating AI",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082567551310237696/img/1F0-SVmoVnr7-hcV.jpg",
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 44,
+      "comments": 46,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49107232"
+    },
+    {
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
+      "summary": "Hacker News coverage: Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "thumbnail": "https://opengraph.githubassets.com/bcb50d37d70555997e6aee31c5f745a53e2e5d7f1d679d20b8aab027f636aa60/grafana/ai-sdk",
+      "source": "Hacker News",
+      "date": "2026-07-30",
       "upvotes": 57,
-      "comments": 15,
+      "comments": 16,
       "tags": [
-        "Hardware",
+        "LLMs",
         "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49097990"
+      "hn_url": "https://news.ycombinator.com/item?id=49108778"
+    },
+    {
+      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "summary": "Hacker News coverage: Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "thumbnail": "https://opengraph.githubassets.com/bd67f65855d63808ee8bd373521207e633d4d7329447467765473f8b61f06ccf/hamzarehmandeveloper/claude-account",
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 48,
+      "comments": 24,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49111019"
+    },
+    {
+      "title": "US gov and OpenAI mislabel map of Africa at global conference",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "summary": "Hacker News coverage: US gov and OpenAI mislabel map of Africa at global conference",
+      "thumbnail": "https://i.guim.co.uk/img/media/eb34949bd80526f85bab8ff52df3d676df421fd1/112_0_3779_3024/master/3779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=731dc21c1f1a68c465261e15637a6f2f",
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 44,
+      "comments": 26,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49112671"
+    },
+    {
+      "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
+      "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b",
+      "summary": "Hacker News coverage: Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-07-30",
+      "upvotes": 51,
+      "comments": 10,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49111879"
     }
   ]
 }
