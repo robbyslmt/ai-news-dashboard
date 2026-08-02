@@ -1,224 +1,224 @@
 {
-  "generated_at": "2026-08-01 04:31 UTC",
+  "generated_at": "2026-08-02 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 119,
+    "articles_scanned": 107,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 50,
-      "hacker_news_24h": 78
+      "hacker_news_24h": 64
     }
   },
   "stories": [
     {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "summary": "Hacker News coverage: Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "summary": "Hacker News coverage: AI doesn't generate working products, that's still your job",
+      "thumbnail": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 489,
-      "comments": 495,
+      "date": "2026-08-01",
+      "upvotes": 250,
+      "comments": 267,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49120097"
+      "hn_url": "https://news.ycombinator.com/item?id=49132130"
     },
     {
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
-      "url": "https://github.com/mokshablr/gander",
-      "summary": "Hacker News coverage: Show HN: Gander, an Android file viewer that asks for no permissions",
-      "thumbnail": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1305551246/3bdba722-936b-4bc3-ac49-6643d2056eb4?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260801T043121Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=9531b60780f76e7d7214945d52d0e99a8b4b84c4ea16659253795db30e2a1bd1&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1ODk4MSwibmJmIjoxNzg1NTU4NjgxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.jYxjTPwmma4Nk88CZcQJRBSO7GCHE1sWdTem53EuxC4",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "Hacker News coverage: AI financial advice is surprisingly good, especially if you ask right questions",
+      "thumbnail": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&amp;itok=Zfv-5Ys6",
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 196,
-      "comments": 65,
+      "date": "2026-08-01",
+      "upvotes": 221,
+      "comments": 195,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49119425"
+      "hn_url": "https://news.ycombinator.com/item?id=49139102"
     },
     {
-      "title": "Situational Awareness down 67% in July in AI stock rout",
-      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "summary": "Hacker News coverage: Situational Awareness down 67% in July in AI stock rout",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "summary": "Hacker News coverage: Ten Ways NAS Is Getting Enshitified",
+      "thumbnail": "https://nascompares.com/wp-content/uploads/2026/07/nas-enshitification-why-NAS-is-getting-worse-2026-nascompares.webp",
+      "source": "Hacker News",
+      "date": "2026-08-01",
+      "upvotes": 189,
+      "comments": 167,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49131367"
+    },
+    {
+      "title": "On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "summary": "Hacker News coverage: On the non-use of AI in my writing process",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 143,
-      "comments": 149,
+      "date": "2026-08-01",
+      "upvotes": 129,
+      "comments": 117,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49122994"
+      "hn_url": "https://news.ycombinator.com/item?id=49134038"
     },
     {
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "summary": "Hacker News coverage: Is AI reasoning right for the wrong reasons?",
-      "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg",
+      "title": "GitHub has alternatives, but no replacement",
+      "url": "https://lalitm.com/post/github-alternatives/",
+      "summary": "Hacker News coverage: GitHub has alternatives, but no replacement",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 134,
-      "comments": 158,
+      "date": "2026-08-01",
+      "upvotes": 85,
+      "comments": 122,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49135365"
+    },
+    {
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "summary": "Hacker News coverage: EU will mandate labels on authentic-looking AI content starting August 2",
+      "thumbnail": "https://www.engadget.com/img/gallery/eu-mandate-labels-on-authentic-looking-ai-content/l-intro-1785515766.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-01",
+      "upvotes": 73,
+      "comments": 104,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49124358"
+      "hn_url": "https://news.ycombinator.com/item?id=49132341"
     },
     {
-      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "url": "https://arxiv.org/abs/2607.27197",
-      "summary": "Hacker News coverage: The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "thumbnail": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+      "title": "Google kills Earth AI generator after one day",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "summary": "Hacker News coverage: Google kills Earth AI generator after one day",
+      "thumbnail": "https://pbs.twimg.com/profile_images/1972717909559353344/eMJ6AJ0W_200x200.jpg",
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 143,
-      "comments": 135,
+      "date": "2026-08-01",
+      "upvotes": 61,
+      "comments": 98,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49134079"
+    },
+    {
+      "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+      "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+      "summary": "Hacker News coverage: Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f337127b-b7da-4c04-ba43-86e2dc9d771e/Cookware_card_1200_630.png?t=1784049693",
+      "source": "Hacker News",
+      "date": "2026-08-01",
+      "upvotes": 50,
+      "comments": 43,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49137904"
+    },
+    {
+      "title": "How to Spot AI Writing",
+      "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
+      "summary": "Hacker News coverage: How to Spot AI Writing",
+      "thumbnail": "https://www.economist.com/content-assets/images/20260801_CUD001.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-01",
+      "upvotes": 35,
+      "comments": 72,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49134310"
+    },
+    {
+      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+      "summary": "What's new with Gemini from Google DeepMind",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-08-01",
+      "upvotes": 48,
+      "comments": 24,
       "tags": [
         "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49121868"
+      "hn_url": "https://news.ycombinator.com/item?id=49139325"
     },
     {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "summary": "Hacker News coverage: Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "title": "I Fired My AI Assitant",
+      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+      "summary": "Hacker News coverage: I Fired My AI Assitant",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 162,
-      "comments": 91,
+      "date": "2026-08-01",
+      "upvotes": 23,
+      "comments": 47,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49125034"
+      "hn_url": "https://news.ycombinator.com/item?id=49135914"
     },
     {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "summary": "Hacker News coverage: Show HN: What should the GUI for AI agents look like?",
-      "thumbnail": "https://marbleos.com/hn-og.png",
+      "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
+      "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
+      "summary": "Hacker News coverage: AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
+      "thumbnail": "https://i.insider.com/6a6b5659ce52cb26b8395c8b?width=1200&format=jpeg",
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 109,
-      "comments": 65,
+      "date": "2026-08-01",
+      "upvotes": 38,
+      "comments": 12,
       "tags": [
-        "Agents"
+        "Research"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49119274"
+      "hn_url": "https://news.ycombinator.com/item?id=49138483"
     },
     {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "summary": "Hacker News coverage: Everyone is building LLM routers, we deprecated ours",
-      "thumbnail": "https://manifest.build/images/blog/why-we-deprecated-our-llm-router.png",
+      "title": "Google cancels AI Studio app after 800k preorders",
+      "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+      "summary": "Hacker News coverage: Google cancels AI Studio app after 800k preorders",
+      "thumbnail": "https://pbs.twimg.com/profile_images/2056588677363765248/ATA2alUA_200x200.jpg",
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 106,
-      "comments": 54,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49126630"
-    },
-    {
-      "title": "AI companies destroy rare and non recoverable physical books",
-      "url": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
-      "summary": "Hacker News coverage: AI companies destroy rare and non recoverable physical books",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 44,
-      "comments": 66,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49127284"
-    },
-    {
-      "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-      "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
-      "summary": "Hacker News coverage: Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 41,
-      "comments": 70,
+      "date": "2026-08-01",
+      "upvotes": 39,
+      "comments": 7,
       "tags": [
         "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49128539"
+      "hn_url": "https://news.ycombinator.com/item?id=49137268"
     },
     {
-      "title": "A GTK4 SSH-askpass in Zig",
-      "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-      "summary": "Hacker News coverage: A GTK4 SSH-askpass in Zig",
-      "thumbnail": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/images/cover.jpg",
+      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+      "summary": "Hacker News coverage: Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "thumbnail": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/A%20hand%20holding%20a%20phone%20with%20the%20Reddit%20logo_%20Mamun_Sheikh%20via%20Shutterstock_.jpg",
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 62,
-      "comments": 20,
+      "date": "2026-08-01",
+      "upvotes": 27,
+      "comments": 26,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49124496"
+      "hn_url": "https://news.ycombinator.com/item?id=49136787"
     },
     {
-      "title": "AI Is Getting Way Too Expensive",
-      "url": "https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/",
-      "summary": "Hacker News coverage: AI Is Getting Way Too Expensive",
-      "thumbnail": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+      "title": "Get ready to flee, Americans in ten countries warned",
+      "url": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
+      "summary": "Hacker News coverage: Get ready to flee, Americans in ten countries warned",
+      "thumbnail": "https://i.dailymail.com/1s/2026/08/01/15/110384117-0-image-a-26_1785595908548.jpg",
       "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 42,
-      "comments": 12,
+      "date": "2026-08-01",
+      "upvotes": 27,
+      "comments": 26,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49126209"
-    },
-    {
-      "title": "Google Earth's New AI Lets Anyone Fabricate Satellite Images",
-      "url": "https://www.404media.co/google-earths-new-ai-lets-anyone-fabricate-completely-bullshit-satellite-images/",
-      "summary": "Hacker News coverage: Google Earth's New AI Lets Anyone Fabricate Satellite Images",
-      "thumbnail": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/07/CleanShot-2026-07-31-at-08.53.48.gif",
-      "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 38,
-      "comments": 16,
-      "tags": [
-        "Vision"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49124898"
-    },
-    {
-      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?",
-      "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
-      "summary": "Hacker News coverage: Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the AI Bubble?",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 35,
-      "comments": 19,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49121220"
-    },
-    {
-      "title": "AI Firms Are Buying Up Old Books, Then Scanning and Destroying Them",
-      "url": "https://novaramedia.com/2026/07/29/ai-firms-are-buying-up-old-books-then-scanning-and-destroying-them/",
-      "summary": "Hacker News coverage: AI Firms Are Buying Up Old Books, Then Scanning and Destroying Them",
-      "thumbnail": "https://novaramedia.com/wp-content/uploads/2026/07/2026-01-20T124808Z_1149863023_RC205JAS0XAK_RTRMADP_3_DAVOS-MEETING-1-1200x630.jpg",
-      "source": "Hacker News",
-      "date": "2026-07-31",
-      "upvotes": 29,
-      "comments": 16,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49121597"
+      "hn_url": "https://news.ycombinator.com/item?id=49137503"
     }
   ]
 }
