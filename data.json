@@ -1,224 +1,226 @@
 {
-  "generated_at": "2026-08-02 04:30 UTC",
+  "generated_at": "2026-08-03 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 107,
+    "articles_scanned": 112,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 50,
-      "hacker_news_24h": 64
+      "hacker_news_24h": 71
     }
   },
   "stories": [
     {
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "summary": "Hacker News coverage: AI doesn't generate working products, that's still your job",
-      "thumbnail": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
+      "title": "AI poster wins Ohio State Fair contest",
+      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+      "summary": "Hacker News coverage: AI poster wins Ohio State Fair contest",
+      "thumbnail": "https://cdn.saffire.com/images.ashx?t=ig&rid=OhioStateFair&i=Header-3-2026_OSF_Poster_Contest.jpeg&cb=e24bb70e",
       "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 250,
-      "comments": 267,
+      "date": "2026-08-02",
+      "upvotes": 124,
+      "comments": 147,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49132130"
+      "hn_url": "https://news.ycombinator.com/item?id=49149188"
     },
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "summary": "Hacker News coverage: AI financial advice is surprisingly good, especially if you ask right questions",
-      "thumbnail": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&amp;itok=Zfv-5Ys6",
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "url": "https://frogs.vaguespac.es/",
+      "summary": "Hacker News coverage: My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "thumbnail": "https://frogs.vaguespac.es/og.png",
       "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 221,
-      "comments": 195,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49139102"
-    },
-    {
-      "title": "Ten Ways NAS Is Getting Enshitified",
-      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "summary": "Hacker News coverage: Ten Ways NAS Is Getting Enshitified",
-      "thumbnail": "https://nascompares.com/wp-content/uploads/2026/07/nas-enshitification-why-NAS-is-getting-worse-2026-nascompares.webp",
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 189,
-      "comments": 167,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49131367"
-    },
-    {
-      "title": "On the non-use of AI in my writing process",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "summary": "Hacker News coverage: On the non-use of AI in my writing process",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 129,
-      "comments": 117,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49134038"
-    },
-    {
-      "title": "GitHub has alternatives, but no replacement",
-      "url": "https://lalitm.com/post/github-alternatives/",
-      "summary": "Hacker News coverage: GitHub has alternatives, but no replacement",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 85,
-      "comments": 122,
-      "tags": [
-        "Open Source"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49135365"
-    },
-    {
-      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-      "summary": "Hacker News coverage: EU will mandate labels on authentic-looking AI content starting August 2",
-      "thumbnail": "https://www.engadget.com/img/gallery/eu-mandate-labels-on-authentic-looking-ai-content/l-intro-1785515766.jpg",
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 73,
-      "comments": 104,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49132341"
-    },
-    {
-      "title": "Google kills Earth AI generator after one day",
-      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-      "summary": "Hacker News coverage: Google kills Earth AI generator after one day",
-      "thumbnail": "https://pbs.twimg.com/profile_images/1972717909559353344/eMJ6AJ0W_200x200.jpg",
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 61,
-      "comments": 98,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49134079"
-    },
-    {
-      "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-      "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-      "summary": "Hacker News coverage: Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f337127b-b7da-4c04-ba43-86e2dc9d771e/Cookware_card_1200_630.png?t=1784049693",
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 50,
-      "comments": 43,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49137904"
-    },
-    {
-      "title": "How to Spot AI Writing",
-      "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-      "summary": "Hacker News coverage: How to Spot AI Writing",
-      "thumbnail": "https://www.economist.com/content-assets/images/20260801_CUD001.jpg",
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 35,
-      "comments": 72,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49134310"
-    },
-    {
-      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-      "summary": "What's new with Gemini from Google DeepMind",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 48,
-      "comments": 24,
-      "tags": [
-        "LLMs"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49139325"
-    },
-    {
-      "title": "I Fired My AI Assitant",
-      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-      "summary": "Hacker News coverage: I Fired My AI Assitant",
-      "thumbnail": null,
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 23,
-      "comments": 47,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49135914"
-    },
-    {
-      "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
-      "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
-      "summary": "Hacker News coverage: AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
-      "thumbnail": "https://i.insider.com/6a6b5659ce52cb26b8395c8b?width=1200&format=jpeg",
-      "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 38,
-      "comments": 12,
+      "date": "2026-08-02",
+      "upvotes": 122,
+      "comments": 56,
       "tags": [
         "Research"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49138483"
+      "hn_url": "https://news.ycombinator.com/item?id=49147622"
     },
     {
-      "title": "Google cancels AI Studio app after 800k preorders",
-      "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-      "summary": "Hacker News coverage: Google cancels AI Studio app after 800k preorders",
-      "thumbnail": "https://pbs.twimg.com/profile_images/2056588677363765248/ATA2alUA_200x200.jpg",
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "summary": "Hacker News coverage: Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "thumbnail": "https://pdr-assets.b-cdn.net/essays/ars-notoria/dedupmrg1191555822_IE4927965_FL5354893-edit-thumb.jpg",
       "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 39,
-      "comments": 7,
+      "date": "2026-08-02",
+      "upvotes": 124,
+      "comments": 31,
       "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49143001"
+    },
+    {
+      "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+      "url": "https://sprocket-demo.spikonado.com",
+      "summary": "Hacker News coverage: Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+      "thumbnail": "https://opengraph.githubassets.com/d61149b3099ff876af2564aa37ec1679cf9733eeec2a11065f3b318f8988e5dd/spikonado/sprocket",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 123,
+      "comments": 11,
+      "tags": [
+        "Agents",
+        "Hardware"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49145934"
+    },
+    {
+      "title": "Generative AI floods and dilutes the market for books",
+      "url": "https://arxiv.org/abs/2607.20349",
+      "summary": "Hacker News coverage: Generative AI floods and dilutes the market for books",
+      "thumbnail": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 35,
+      "comments": 99,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49143289"
+    },
+    {
+      "title": "EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "summary": "Hacker News coverage: EU rules on AI models become enforceable. What's going to change?",
+      "thumbnail": "https://images.euronews.com/articles/stories/09/85/74/44/1200x675_cmsv2_b29bb7fe-1f9b-589f-875a-c78ca851d748-9857444.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 48,
+      "comments": 65,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49147606"
+    },
+    {
+      "title": "AI Mania: From Tulips to Tokens",
+      "url": "https://seanhelvey.com/tools-and-their-tools/",
+      "summary": "Hacker News coverage: AI Mania: From Tulips to Tokens",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 48,
+      "comments": 53,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49148159"
+    },
+    {
+      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+      "summary": "Hacker News coverage: An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "thumbnail": "https://pbs.twimg.com/media/HOn2XyYasAA_rAp.jpg:large",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 47,
+      "comments": 45,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49143688"
+    },
+    {
+      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "url": "https://website-auditor.io/ai-visibility-index",
+      "summary": "Hacker News coverage: Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "thumbnail": "https://website-auditor.io/static/og-image.png",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 40,
+      "comments": 59,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49143630"
+    },
+    {
+      "title": "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
+      "url": "https://www.11971.com/",
+      "summary": "Hacker News coverage: Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
+      "thumbnail": "https://lh3.googleusercontent.com/sitesv/AG8ngQU98ZT9n7kCb5BRmbVQ_NqVOawyZHYz2cAA-weZjXyd1IGEBCBaqj1tOlbYPQRIxRATK63O_yriPbYU3pY5m_eh1fhOLH-98xeqiM6Y6dpLBZAbU0Xqw79plXv3loTLgzhHupOaAreyrRTiW3pMQ0Zu0NXitCLT7_Ga80wrv6J_JyGIAU5V996Ve_TChwILRlFin4D3jh6CgFgI2XitKX8",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 47,
+      "comments": 17,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49148541"
+    },
+    {
+      "title": "The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M",
+      "url": "https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594",
+      "summary": "Hacker News coverage: The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M",
+      "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*53WNdg1WzOtM_HyO",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 33,
+      "comments": 34,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49146372"
+    },
+    {
+      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+      "summary": "Hacker News coverage: Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+      "thumbnail": null,
+      "source": "Hacker News",
+      "date": "2026-08-03",
+      "upvotes": 37,
+      "comments": 9,
+      "tags": [
+        "LLMs",
         "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49137268"
+      "hn_url": "https://news.ycombinator.com/item?id=49149800"
     },
     {
-      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-      "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
-      "summary": "Hacker News coverage: Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-      "thumbnail": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/A%20hand%20holding%20a%20phone%20with%20the%20Reddit%20logo_%20Mamun_Sheikh%20via%20Shutterstock_.jpg",
+      "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
+      "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
+      "summary": "Hacker News coverage: GPUs could explode to multiple TB with new storage-inspired memory tech",
+      "thumbnail": "https://image.theregister.com/263191.jpg?imageId=263191&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 27,
-      "comments": 26,
+      "date": "2026-08-02",
+      "upvotes": 34,
+      "comments": 9,
       "tags": [
-        "AI"
+        "Hardware"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49136787"
+      "hn_url": "https://news.ycombinator.com/item?id=49143719"
     },
     {
-      "title": "Get ready to flee, Americans in ten countries warned",
-      "url": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
-      "summary": "Hacker News coverage: Get ready to flee, Americans in ten countries warned",
-      "thumbnail": "https://i.dailymail.com/1s/2026/08/01/15/110384117-0-image-a-26_1785595908548.jpg",
+      "title": "OpenAI’s amazing — but vastly oversold — new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "summary": "Hacker News coverage: OpenAI’s amazing — but vastly oversold — new model Astra",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!FupX!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOn2XyYasAA_rAp.jpg",
       "source": "Hacker News",
-      "date": "2026-08-01",
-      "upvotes": 27,
-      "comments": 26,
+      "date": "2026-08-02",
+      "upvotes": 23,
+      "comments": 8,
       "tags": [
-        "AI"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49137503"
+      "hn_url": "https://news.ycombinator.com/item?id=49148959"
+    },
+    {
+      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "url": "https://github.com/paoloanzn/microcodex",
+      "summary": "Hacker News coverage: Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "thumbnail": "https://opengraph.githubassets.com/7b37ce1add9e0a1d852fd3990bffc3d6f52c6dccbbaadc19a0ac29dc22c0929d/paoloanzn/microcodex",
+      "source": "Hacker News",
+      "date": "2026-08-02",
+      "upvotes": 17,
+      "comments": 8,
+      "tags": [
+        "Agents"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49147842"
     }
   ]
 }
