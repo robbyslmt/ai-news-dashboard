@@ -1,226 +1,226 @@
 {
-  "generated_at": "2026-08-04 04:30 UTC",
+  "generated_at": "2026-08-05 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 110,
+    "articles_scanned": 117,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 50,
-      "hacker_news_24h": 68
+      "hacker_news_24h": 77
     }
   },
   "stories": [
     {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "summary": "Hacker News coverage: SQLite Critical CVEs or LLM Slop?",
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "summary": "Hacker News coverage: AI-Generated Images Discourage Me from Reading Your Blog",
+      "thumbnail": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png",
+      "source": "Hacker News",
+      "date": "2026-08-04",
+      "upvotes": 743,
+      "comments": 437,
+      "tags": [
+        "Vision"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49167113"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "summary": "Hacker News coverage: Apple says more ex-employees may have taken confidential data to OpenAI",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 704,
-      "comments": 352,
+      "date": "2026-08-04",
+      "upvotes": 344,
+      "comments": 254,
       "tags": [
-        "LLMs"
+        "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49154332"
+      "hn_url": "https://news.ycombinator.com/item?id=49170479"
     },
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "Hacker News coverage: LLMs reward expertise",
-      "thumbnail": "https://www.seangoedecke.com/og-image.jpg",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "summary": "Hacker News coverage: Apple is getting this wrong",
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/3LMWP6Zq4rgiX3gVyxKiX/667973a65cc5111e602f68338b9f1c87/Frame__13_.png?w=1600&amp;h=900&amp;fit=fill",
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 612,
-      "comments": 253,
+      "date": "2026-08-04",
+      "upvotes": 274,
+      "comments": 284,
       "tags": [
-        "LLMs"
+        "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49161518"
+      "hn_url": "https://news.ycombinator.com/item?id=49164649"
     },
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "summary": "Hacker News coverage: Prevent cognitive debt by manually retyping LLM-generated code",
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "summary": "Hacker News coverage: Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "thumbnail": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/size/w1200/2024/02/Screenshot-2024-02-22-at-12.26.43-unnumbered-1.png",
+      "source": "Hacker News",
+      "date": "2026-08-04",
+      "upvotes": 256,
+      "comments": 69,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49175192"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "summary": "Hacker News coverage: AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "thumbnail": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-04",
+      "upvotes": 168,
+      "comments": 122,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49175826"
+    },
+    {
+      "title": "The AI Demand Bubble",
+      "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+      "summary": "Hacker News coverage: The AI Demand Bubble",
+      "thumbnail": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+      "source": "Hacker News",
+      "date": "2026-08-04",
+      "upvotes": 105,
+      "comments": 122,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49170648"
+    },
+    {
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+      "summary": "Hacker News coverage: Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 416,
-      "comments": 350,
+      "date": "2026-08-04",
+      "upvotes": 98,
+      "comments": 91,
       "tags": [
-        "LLMs"
+        "Industry"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49153374"
+      "hn_url": "https://news.ycombinator.com/item?id=49166182"
     },
     {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "summary": "Hacker News coverage: AirLLM 70B inference with single 4GB GPU",
-      "thumbnail": "https://opengraph.githubassets.com/9e3c71d44cda88388ec1152d73ce3ad390fc6e440e0517e5f9f580312329c260/lyogavin/airllm",
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "summary": "Hacker News coverage: Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "thumbnail": "https://opengraph.githubassets.com/ff5a004c8b875b0a55451de5bf8b89310043df78aaaa9e3181c49b1c9250df7a/MakazhanAlpamys/Soup",
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 202,
-      "comments": 76,
+      "date": "2026-08-04",
+      "upvotes": 124,
+      "comments": 24,
       "tags": [
         "LLMs",
         "Hardware"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49154228"
+      "hn_url": "https://news.ycombinator.com/item?id=49166984"
     },
     {
-      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-      "summary": "Hacker News coverage: AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2249021916-e1785504459772.jpg?resize=1200,600",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "summary": "Hacker News coverage: When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "thumbnail": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 121,
-      "comments": 149,
+      "date": "2026-08-04",
+      "upvotes": 86,
+      "comments": 89,
       "tags": [
-        "AI"
+        "Research"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49160699"
+      "hn_url": "https://news.ycombinator.com/item?id=49170915"
     },
     {
-      "title": "The AI Productivity Gap",
-      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-      "summary": "Hacker News coverage: The AI Productivity Gap",
-      "thumbnail": "https://bjorg.bjornroche.com/assets/2026/ai-productivity.jpg",
+      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+      "summary": "Hacker News coverage: It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmqRdW-6QEmEZVFpW4-7kmwu-Z35is1cMqc38cv3IpbZATq2VRRgnV-McfYiXQe2ui8J8XVYxJZlcgL_kbG6Vo4PFXz7HUR54OQqS8pwSgWQ-qLD6iWuE7kkJnLB5e5Q3PC4Kv3YNFPUJcPtvaVaZypxpRTmt34HjpLCYHuTVBMTt-6Kw5vhcxKvITsnne/w1200-h630-p-k-no-nu/ft_ai_open.webp",
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 113,
-      "comments": 103,
+      "date": "2026-08-04",
+      "upvotes": 82,
+      "comments": 73,
       "tags": [
-        "AI"
+        "Tools"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49152222"
+      "hn_url": "https://news.ycombinator.com/item?id=49169227"
     },
     {
-      "title": "The AI bubble is popping; we just don't know it yet",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
-      "summary": "Hacker News coverage: The AI bubble is popping; we just don't know it yet",
-      "thumbnail": "https://image.theregister.com/5282039.jpg?imageId=5282039&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "summary": "Hacker News coverage: Agent skills that bring team coding standards to Claude Code and Codex",
+      "thumbnail": "https://opengraph.githubassets.com/d5cbd12a8f486ad6c247cf7c4f63f5f708a8f80661b9a8aa68fb04ed0b9ddabc/tikalk/adlc-team-skills",
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 77,
-      "comments": 135,
+      "date": "2026-08-04",
+      "upvotes": 74,
+      "comments": 39,
       "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49154601"
-    },
-    {
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "summary": "Hacker News coverage: Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "thumbnail": "https://opengraph.githubassets.com/013b4726c28806ecd9737f7dd64ebce094292b9bade2d67cbd1f98767ef46b28/garagehq/nightcrawler",
-      "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 105,
-      "comments": 30,
-      "tags": [
+        "LLMs",
         "Agents"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49154127"
+      "hn_url": "https://news.ycombinator.com/item?id=49169640"
     },
     {
-      "title": "What's the largest software project AI can complete on its own?",
-      "url": "https://epoch.ai/MirrorCode",
-      "summary": "Hacker News coverage: What's the largest software project AI can complete on its own?",
-      "thumbnail": "https://epoch.ai/assets/images/posts/2026/mirrorcode/mirrorcode-banner.png",
+      "title": "An Honest Review of AI Programming",
+      "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
+      "summary": "Hacker News coverage: An Honest Review of AI Programming",
+      "thumbnail": "https://mropert.github.io/assets/img/Me.jpg",
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 74,
-      "comments": 81,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49157786"
-    },
-    {
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "summary": "Hacker News coverage: Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "thumbnail": "https://hoplite.sh/opengraph.png",
-      "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 63,
-      "comments": 51,
-      "tags": [
-        "Agents",
-        "Industry"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49157997"
-    },
-    {
-      "title": "EU enforces labeling AI generated content",
-      "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
-      "summary": "Hacker News coverage: EU enforces labeling AI generated content",
-      "thumbnail": "https://images.euronews.com/articles/stories/09/85/91/70/1200x675_cmsv2_b7011b94-ad2e-5611-b86b-4575bd8f684a-9859170.jpg",
-      "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 48,
-      "comments": 26,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49153481"
-    },
-    {
-      "title": "Show HN: Hacker News with AI stories filtered out",
-      "url": "https://hcker.news/?view=frontpage&ai=exclude",
-      "summary": "Hacker News coverage: Show HN: Hacker News with AI stories filtered out",
-      "thumbnail": "https://hcker.news/android-chrome-512x512.png",
-      "source": "Hacker News",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "upvotes": 45,
-      "comments": 9,
+      "comments": 73,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49159018"
+      "hn_url": "https://news.ycombinator.com/item?id=49166230"
     },
     {
-      "title": "The AI Bailout Could Be Baked into the AI Bubble",
-      "url": "https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/",
-      "summary": "Hacker News coverage: The AI Bailout Could Be Baked into the AI Bubble",
-      "thumbnail": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/07/Dayen-AI-bailout-080326.jpg?fit=2309%2C1299&ssl=1",
-      "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 30,
-      "comments": 4,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49159902"
-    },
-    {
-      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-      "summary": "Hacker News coverage: PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "thumbnail": "https://opengraph.githubassets.com/b4e09b3bac92d1ca08114ec6358a3f857e6be7357d07e8b97ef746fe9c5d1cb1/mohamed--abdel-maksoud/pisiguard",
-      "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 20,
-      "comments": 14,
-      "tags": [
-        "AI"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49153029"
-    },
-    {
-      "title": "1 in 4 people in Japan believes AI could replace friends and family: poll",
-      "url": "https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/",
-      "summary": "Hacker News coverage: 1 in 4 people in Japan believes AI could replace friends and family: poll",
+      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+      "summary": "Hacker News coverage: Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-03",
-      "upvotes": 21,
-      "comments": 9,
+      "date": "2026-08-04",
+      "upvotes": 57,
+      "comments": 48,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49152668"
+      "hn_url": "https://news.ycombinator.com/item?id=49175717"
+    },
+    {
+      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+      "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+      "summary": "Hacker News coverage: AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+      "thumbnail": "https://www.gadgetreview.com/wp-content/uploads/Electric-power-meter-measuring-power-usage.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-04",
+      "upvotes": 64,
+      "comments": 21,
+      "tags": [
+        "Hardware"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49172433"
+    },
+    {
+      "title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+      "url": "https://github.com/MariaDB/server/pull/4262",
+      "summary": "Hacker News coverage: MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+      "thumbnail": "https://opengraph.githubassets.com/d045bedcc5ecc036af514e4e0223e7b2252daf7bfcad88b7d51759d30a3409ba/MariaDB/server/pull/4262",
+      "source": "Hacker News",
+      "date": "2026-08-04",
+      "upvotes": 52,
+      "comments": 22,
+      "tags": [
+        "Open Source"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49171068"
     }
   ]
 }
