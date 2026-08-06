@@ -1,226 +1,226 @@
 {
-  "generated_at": "2026-08-05 04:30 UTC",
+  "generated_at": "2026-08-06 04:30 UTC",
   "stats": {
     "reddit_threads": 0,
-    "articles_scanned": 117,
+    "articles_scanned": 118,
     "subreddits_scanned": 0,
     "sources": {
       "unified_search": 50,
-      "hacker_news_24h": 77
+      "hacker_news_24h": 79
     }
   },
   "stories": [
     {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "summary": "Hacker News coverage: AI-Generated Images Discourage Me from Reading Your Blog",
-      "thumbnail": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "summary": "Hacker News coverage: Civilian plane crash in New Mexico tied to military GPS blocking",
+      "thumbnail": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 743,
-      "comments": 437,
+      "date": "2026-08-05",
+      "upvotes": 459,
+      "comments": 242,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49181099"
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "summary": "Hacker News coverage: Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "thumbnail": "https://media.wired.com/photos/6a6d058753afe1590265744d/191:100/w_1280,c_limit/073126-meta-nudify-ads-children.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-05",
+      "upvotes": 269,
+      "comments": 201,
       "tags": [
         "Vision"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49167113"
+      "hn_url": "https://news.ycombinator.com/item?id=49187977"
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "summary": "Hacker News coverage: Apple says more ex-employees may have taken confidential data to OpenAI",
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "summary": "Hacker News coverage: Position: LLMs Can't Jump",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 344,
-      "comments": 254,
-      "tags": [
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49170479"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
-      "summary": "Hacker News coverage: Apple is getting this wrong",
-      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/3LMWP6Zq4rgiX3gVyxKiX/667973a65cc5111e602f68338b9f1c87/Frame__13_.png?w=1600&amp;h=900&amp;fit=fill",
-      "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 274,
-      "comments": 284,
-      "tags": [
-        "Tools"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49164649"
-    },
-    {
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "summary": "Hacker News coverage: Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "thumbnail": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/size/w1200/2024/02/Screenshot-2024-02-22-at-12.26.43-unnumbered-1.png",
-      "source": "Hacker News",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "upvotes": 256,
-      "comments": 69,
+      "comments": 173,
       "tags": [
-        "AI"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49175192"
+      "hn_url": "https://news.ycombinator.com/item?id=49181083"
     },
     {
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "summary": "Hacker News coverage: AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "thumbnail": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg",
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "summary": "Hacker News coverage: TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "thumbnail": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 168,
-      "comments": 122,
+      "date": "2026-08-05",
+      "upvotes": 234,
+      "comments": 98,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49175826"
+      "hn_url": "https://news.ycombinator.com/item?id=49182041"
     },
     {
-      "title": "The AI Demand Bubble",
-      "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
-      "summary": "Hacker News coverage: The AI Demand Bubble",
-      "thumbnail": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "summary": "Hacker News coverage: Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "thumbnail": "https://cdn.neonapi.io/public/images/pages/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency/cover.jpg",
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 105,
-      "comments": 122,
+      "date": "2026-08-05",
+      "upvotes": 251,
+      "comments": 63,
       "tags": [
-        "AI"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49170648"
+      "hn_url": "https://news.ycombinator.com/item?id=49186762"
     },
     {
-      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
-      "summary": "Hacker News coverage: Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "summary": "Hacker News coverage: Born Against, or why hobby programming communities are against LLM usage",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 98,
-      "comments": 91,
+      "date": "2026-08-05",
+      "upvotes": 170,
+      "comments": 166,
       "tags": [
-        "Industry"
+        "LLMs"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49166182"
+      "hn_url": "https://news.ycombinator.com/item?id=49187061"
     },
     {
-      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "summary": "Hacker News coverage: Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-      "thumbnail": "https://opengraph.githubassets.com/ff5a004c8b875b0a55451de5bf8b89310043df78aaaa9e3181c49b1c9250df7a/MakazhanAlpamys/Soup",
+      "title": "I’m leaving OpenAI to build telepathy",
+      "url": "https://naomibashkansky.com/blog/telepathy/",
+      "summary": "Hacker News coverage: I’m leaving OpenAI to build telepathy",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 124,
-      "comments": 24,
+      "date": "2026-08-05",
+      "upvotes": 122,
+      "comments": 201,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49185370"
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "summary": "Hacker News coverage: Why Erdős Problems Are Falling to AI",
+      "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Social.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-05",
+      "upvotes": 130,
+      "comments": 127,
+      "tags": [
+        "AI"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49181519"
+    },
+    {
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "summary": "Hacker News coverage: Rust-lang/rust is adopting an LLM policy",
+      "thumbnail": "https://www.rust-lang.org/static/images/rust-social.jpg",
+      "source": "Hacker News",
+      "date": "2026-08-05",
+      "upvotes": 109,
+      "comments": 70,
       "tags": [
         "LLMs",
-        "Hardware"
+        "Regulation"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49166984"
+      "hn_url": "https://news.ycombinator.com/item?id=49179039"
     },
     {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "summary": "Hacker News coverage: When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "summary": "Hacker News coverage: Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
       "thumbnail": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 86,
-      "comments": 89,
+      "date": "2026-08-05",
+      "upvotes": 87,
+      "comments": 58,
       "tags": [
-        "Research"
+        "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49170915"
+      "hn_url": "https://news.ycombinator.com/item?id=49186720"
     },
     {
-      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
-      "summary": "Hacker News coverage: It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmqRdW-6QEmEZVFpW4-7kmwu-Z35is1cMqc38cv3IpbZATq2VRRgnV-McfYiXQe2ui8J8XVYxJZlcgL_kbG6Vo4PFXz7HUR54OQqS8pwSgWQ-qLD6iWuE7kkJnLB5e5Q3PC4Kv3YNFPUJcPtvaVaZypxpRTmt34HjpLCYHuTVBMTt-6Kw5vhcxKvITsnne/w1200-h630-p-k-no-nu/ft_ai_open.webp",
+      "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "summary": "Hacker News coverage: Iowa-led states ask OpenAI to keep their bots on a leash",
+      "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 82,
-      "comments": 73,
+      "date": "2026-08-05",
+      "upvotes": 60,
+      "comments": 111,
       "tags": [
-        "Tools"
+        "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49169227"
+      "hn_url": "https://news.ycombinator.com/item?id=49182052"
     },
     {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://github.com/tikalk/adlc-team-skills",
-      "summary": "Hacker News coverage: Agent skills that bring team coding standards to Claude Code and Codex",
-      "thumbnail": "https://opengraph.githubassets.com/d5cbd12a8f486ad6c247cf7c4f63f5f708a8f80661b9a8aa68fb04ed0b9ddabc/tikalk/adlc-team-skills",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "summary": "Hacker News coverage: Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "thumbnail": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 74,
-      "comments": 39,
+      "date": "2026-08-05",
+      "upvotes": 93,
+      "comments": 12,
       "tags": [
         "LLMs",
         "Agents"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49169640"
+      "hn_url": "https://news.ycombinator.com/item?id=49178608"
     },
     {
-      "title": "An Honest Review of AI Programming",
-      "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
-      "summary": "Hacker News coverage: An Honest Review of AI Programming",
-      "thumbnail": "https://mropert.github.io/assets/img/Me.jpg",
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "summary": "Hacker News coverage: LLMs won't break symmetric crypto",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!UXVg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8a4fb4a-8a41-4520-8f34-8634442a2612_2300x1272.png",
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 45,
-      "comments": 73,
+      "date": "2026-08-06",
+      "upvotes": 57,
+      "comments": 60,
+      "tags": [
+        "LLMs"
+      ],
+      "hn_url": "https://news.ycombinator.com/item?id=49191365"
+    },
+    {
+      "title": "Universities would prefer no AI",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+      "summary": "Hacker News coverage: Universities would prefer no AI",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!qtJ7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcb4676c-dd8f-4214-b66f-f29395eaea48_1079x841.jpeg",
+      "source": "Hacker News",
+      "date": "2026-08-05",
+      "upvotes": 38,
+      "comments": 77,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49166230"
+      "hn_url": "https://news.ycombinator.com/item?id=49182679"
     },
     {
-      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-      "summary": "Hacker News coverage: Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+      "title": "Silicon Valley sees AI as the solution – for everyone else",
+      "url": "https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem",
+      "summary": "Hacker News coverage: Silicon Valley sees AI as the solution – for everyone else",
       "thumbnail": null,
       "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 57,
-      "comments": 48,
+      "date": "2026-08-05",
+      "upvotes": 47,
+      "comments": 53,
       "tags": [
         "AI"
       ],
-      "hn_url": "https://news.ycombinator.com/item?id=49175717"
-    },
-    {
-      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-      "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
-      "summary": "Hacker News coverage: AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-      "thumbnail": "https://www.gadgetreview.com/wp-content/uploads/Electric-power-meter-measuring-power-usage.jpg",
-      "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 64,
-      "comments": 21,
-      "tags": [
-        "Hardware"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49172433"
-    },
-    {
-      "title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
-      "url": "https://github.com/MariaDB/server/pull/4262",
-      "summary": "Hacker News coverage: MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
-      "thumbnail": "https://opengraph.githubassets.com/d045bedcc5ecc036af514e4e0223e7b2252daf7bfcad88b7d51759d30a3409ba/MariaDB/server/pull/4262",
-      "source": "Hacker News",
-      "date": "2026-08-04",
-      "upvotes": 52,
-      "comments": 22,
-      "tags": [
-        "Open Source"
-      ],
-      "hn_url": "https://news.ycombinator.com/item?id=49171068"
+      "hn_url": "https://news.ycombinator.com/item?id=49182985"
     }
   ]
 }
